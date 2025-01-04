@@ -35,16 +35,16 @@ You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). I
 
 # 📝 Publications 
 - 🎓During My Master's Research Program
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ultrasound in Medicine & Biology</div><img src='../images/UMB2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BISC 2024</div><img src='../images/BISC2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Enhancing Multi-Object Detection in Ultrasound Images Through Semi-Supervised Learning, Focal Loss and Relation of Frame](https://www.sciencedirect.com/science/article/abs/pii/S030156292400320X)
+[Real time musculoskeletal ultrasound image annotations](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13487/3052319/Real-time-musculoskeletal-ultrasound-image-annotations/10.1117/12.3052319.short)
 
-Hsin-Yuan Chu, Chueh-Hung Wu, Ping-Xuan Chen, Hao-Yu Hung, **Jyun-Ping Kao**, et al.
+Hao-Yu Hung, **Jyun-Ping Kao**, Hsin-Yuan Chu, Chung-Ping Chen, Wen-Shiang Chen
 
-[**Project**](https://www.sciencedirect.com/science/article/abs/pii/S030156292400320X)
-<strong>SCI Journal Paper</strong>
-- Ultrasound in Medicine & Biology, vol. 50 (12), pp. 1868-1878, 2024, doi: 10.1016/j.ultrasmedbio.2024.08.012
+[**Project**](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13487/3052319/Real-time-musculoskeletal-ultrasound-image-annotations/10.1117/12.3052319.short)
+<strong>Conference Paper</strong>
+- Proc. SPIE 13487, Optics and Photonics International Congress 2024, doi: 10.1117/12.3052319
 </div>
 </div>
 
@@ -64,10 +64,12 @@ Hsin-Yuan Chu, Chueh-Hung Wu, Ping-Xuan Chen, Hao-Yu Hung, **Jyun-Ping Kao**, et
 
 
 # 🎖 Honors and Awards
-- *2024.06* Beijing Outstanding Graduate (Top 1%)
-- *2023.10* China National Scholarship (Top 1%)
-- *2021-2023* Outstanding Graduate Student at the School Level (Top 5%)
-- *2022.10* Postgraduate First-Class Scholarship (Top 10%)
+- *2023.06* The Phi Tau Phi Scholastic Honor Society of the Republic of China Honorary Membership (Top 1% in the school during undergraduate)
+- *2023.06* 2023 Synopsys ARC AIoT Design Contest Award – Finalist
+- *2023.02* Undergraduate Research Fellowship
+- *2023.01* 2022 Intel DevCup x OpenVINO Toolkit Award – Finalist
+- *2022.01* 2021 Intel DevCup x OpenVINO Toolkit Award –  Second Place
+
 
 # 📖 Educations
 - *2021.09 - 2024.07*, Master of Engineering in Control Engineering, North China University of Technology, Beijing, China
