@@ -18,11 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-I am now an incoming PhD student at [The University of Utah](https://www.utah.edu/), [ECE](https://www.ece.utah.edu/). Fortunately, I will be supervised by [Prof. Mingyue Ji](https://my.ece.utah.edu/~u6007330/index.html) of EdgeAI Lab from Department of Electrical and Computer Engineeing, University of Utah.
+I'm a second year master student at [Graduate Institute of Biomedical Electronics and Bioinformatics](https://www.bebi.ntu.edu.tw/?page_id=79&lang=en), [National Taiwan University](https://www.ntu.edu.tw/english/), co-supervised by Prof. [Chung-Ping Chen](https://ieeexplore.ieee.org/author/37280747200) and Prof. [Wen-Shiang Chen](https://www.researchgate.net/profile/Wen-Shiang-Chen). 
 
-<!--
-From 2023 to 2024, I worked at [DouBao](https://www.doubao.com/chat/)![DouBao](../images/tiktok.png) as a daily intern in Beijing, undertaking data analytics cohort tasks under the guidance of Mr. Zhaojian Li.
--->
 
 From 2023 to 2024, I worked at [ByteDance - DouBao](https://www.doubao.com/chat/) as a daily intern in Beijing, undertaking data analytics cohort tasks under the guidance of Mr. Zhaojian Li.
 
@@ -30,18 +27,16 @@ In my first two years before joining ByteDance, I conducted research work on the
 
 My research interest includes Machine Learning, Inverse Reinforcement Learning, and Autonomous Driving Decision Making. **Currently, I am deeply involved in specific projects related to Federated Learning and Optimization perspectives for my PhD research.**
 
-You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:zhanming1208@gmail.com).
+You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:jjpkao@gmail.com).
 
-<!--I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
+
 
 <!--插入图片语法为：![Alt](../images/tiktok.png width=200 height=100)-->
 
 # 🔥 News
-- *2024.02*: &nbsp;New Paper on Trajectory Prediction of Vehicle Lane Change for Autonomous Driving Based on Inverse Reinforcement Learning Accepted by ICTETS 2023.
-- *2023.12*: &nbsp;New Paper on Fuzzy Control of Two-stage ISD Suspension Based on Variable Inerter Accepted by ICCIR 2023.
-- *2023.10*: &nbsp;🎉🎉New Journal Paper on Two-stage semi-active ISD suspension based on improved fuzzy neural network PID control Accepted by Sensors 2023.
-- *2023.08*: &nbsp;🎉🎉New Journal Paper on Generative Adversarial Inverse Reinforcement Learning With Deep Deterministic Policy Gradient Accepted by IEEE Access 2023.
-- *2022.02*: &nbsp;New Paper on Systematic Review of DDPG Algorithm-Based Path Planning for Intelligent Vehicles Accepted by Auto Know (In Chinese) 2022.
+- *2024.10*: &nbsp;New Paper **Transformer Based Real Time Muscleskeletal Anatomical Structure Detection in Clinical Use** Accepted by **IEEE BIBE 2024**.
+- *2024.09*: &nbsp;New Journal Paper **Enhancing Multi-Object Detection in Ultrasound Images Through Semi-Supervised Learning, Focal Loss and Relation of Frame** Accepted by **Ultrasound in Medicine & Biology 2024**.
+- *2024.02*: &nbsp;New Paper **Real time musculoskeletal ultrasound image annotations** Accepted by **SPIE BISC 2024**.
 
 # 📝 Publications 
 - 🎓During My Master's Research Program
