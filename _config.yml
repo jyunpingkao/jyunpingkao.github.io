@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Ming Zhan"
-description              : "Incoming PhD student at The University of Utah"
-repository               : "MingmZhan/MingmZhan.github.io"
+title                    : "Jyun-Ping Kao (Reddy)"
+description              : "MS student at National Taiwan University"
+repository               : "reddy/reddykao.github.io/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Ming Zhan"
-  avatar           : "images/profile.png"
+  avatar           : "images/profile.jpg"
   bio              : "University of Utah"
   location         : "Utah, USA"
   employer         :
