@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ming Zhan"
+  name             : "Jyun-Ping Kao"
   avatar           : "images/profile.jpg"
-  bio              : "University of Utah"
-  location         : "Utah, USA"
+  bio              : "National Taiwan University"
+  location         : "Taipei, Taiwan"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "zhanming1208@gmail.com"
+  googlescholar    : "hhttps://scholar.google.com/citations?user=f-EpEQkAAAAJ&hl=zh-TW&oi=sra"
+  email            : "jjpkao@@gmail.com" 
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -45,10 +45,10 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0003-7183-8337"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
