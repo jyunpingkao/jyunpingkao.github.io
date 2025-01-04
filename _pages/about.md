@@ -62,47 +62,28 @@ Hsin-Yuan Chu, Chueh-Hung Wu, Ping-Xuan Chen, Hao-Yu Hung, **Jyun-Ping Kao**, et
 </div>
 </div>
 
-
-# 🎖 Honors and Awards
-- *2023.06* The Phi Tau Phi Scholastic Honor Society of the Republic of China Honorary Membership (Top 1% in the school during undergraduate)
-- *2023.06* 2023 Synopsys ARC AIoT Design Contest Award – Finalist
-- *2023.02* Undergraduate Research Fellowship
-- *2023.01* 2022 Intel DevCup x OpenVINO Toolkit Award – Finalist
-- *2022.01* 2021 Intel DevCup x OpenVINO Toolkit Award –  Second Place
-
-
 # 📖 Educations
-- *2021.09 - 2024.07*, Master of Engineering in Control Engineering, North China University of Technology, Beijing, China
-  - Supervised by [Dr. Jingjing Fan](https://lwss.ncut.edu.cn/TutorServlet?action=queryDs&teacherid=qq2scN_gHl_@_byvOok@JA==)
-- *2017.09 - 2021.07*, Bachelor of Engineering in Software Engineering, Zhuhai College of Jilin University, Zhuhai, China
-  - Supervised by [Prof. Yanchun Liang](https://ccst.jlu.edu.cn/info/1196/17215.htm)
+- *2023.08 - Present*, MS in Biomedical Electronics and Bioinformatics, National Taiwan University, Taiwan
+  - GPA: 4.3/4.3 (Rank 1st in the department
+- *2019.09 - 2023.08*, BS in Electronics and Electrical Engineering (Double Major) &  BS in Digital Healthcare (Double Major), National Yang Ming Chiao Tung University,Taiwan
+  - Awards : Phi tau Phi Awards (Top 1 % student in the school)
 
-<!--
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
--->
 
-# 💻 Research Experience
+# 🔬 Research Experience
 
-[DouBao - Large Language Model (LLM) Product](https://www.doubao.com/chat/)
+**National Taiwan University Hospital (NTUH) · Department of Physical Medicine and Rehabilitation | Research Assistant**
+- Advised by Prof. [Wen-Shiang Chen](https://www.researchgate.net/profile/Wen-Shiang-Chen)
+- July 2023 - Present
 
-**Department · China Content Quality and DataRocks · Mathematical Logic | Sequence · Data Science**
-- Advised by Mr. Zhaojian Li
-- Jun. 2023 - Jan. 2024
-</div>
-</div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Workstation of Mao Ming, Academician, CAS</div><img src='../images/corpo1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+**The University of Hong Kong · Department of Orthopaedics and Traumatology | Visiting Research Student**
+- Advised by Prof. [LAU, Chun Man Lawrence](https://www.ortho.hku.hk/biography/lau-chun-man-lawrence/)
+- June 2024 - Present
 
-[Jiangsu Shengyu Intelligent Equipment Technology Co., Ltd. ](https://baike.baidu.com/item/%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E8%A3%85%E5%A4%87%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E4%B8%AD%E5%BF%83/61692750)
 
-**Sequence · Research and Development Engineer**
-- Advised by Dr. Jingjing Fan
-- Jul. 2022 - May. 2023
-</div>
-</div>
+**National Yang Ming Chiao Tung University · Institute of Biophotonics | Undergraduate Research Student**
+- Advised by Prof. [Shih-Hsuan Chia](https://bioph.nycu.edu.tw/faculty/%E9%83%AD%E6%96%87%E5%A8%9F-%E6%95%99%E6%8E%88-%E6%89%80%E9%95%B7%E3%80%80dr-wen-chuan-kuo-professor-director/dr-shih-hsuan-chia-associate-professor/)
+- July 2020 - Present
 
 # 🎖 Honors and Awards
 - *2023.06* The Phi Tau Phi Scholastic Honor Society of the Republic of China Honorary Membership (Top 1% in the school during undergraduate)
@@ -111,8 +92,9 @@ Hsin-Yuan Chu, Chueh-Hung Wu, Ping-Xuan Chen, Hao-Yu Hung, **Jyun-Ping Kao**, et
 - *2023.01* 2022 Intel DevCup x OpenVINO Toolkit Award – Finalist
 - *2022.01* 2021 Intel DevCup x OpenVINO Toolkit Award –  Second Place
 
+# 💡Extracurricular Experience
 ------
 
 <p align="center">
-  <i>I know I am not the perfect one, yet aspire to chase the world and achieve greatness@Ming Zhan</i>
+  <i>The grass withers and the flower fades, But the word of our God will stand forever. Isaiah40:8</i>
 </p>
