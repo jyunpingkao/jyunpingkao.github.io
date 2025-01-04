@@ -20,12 +20,7 @@ redirect_from:
 # Welcome! 
 I'm a second year master student at [Graduate Institute of Biomedical Electronics and Bioinformatics](https://www.bebi.ntu.edu.tw/?page_id=79&lang=en), [National Taiwan University](https://www.ntu.edu.tw/english/), co-supervised by Prof. [Chung-Ping Chen](https://ieeexplore.ieee.org/author/37280747200) and Prof. [Wen-Shiang Chen](https://www.researchgate.net/profile/Wen-Shiang-Chen). 
 
-
-From 2023 to 2024, I worked at [ByteDance - DouBao](https://www.doubao.com/chat/) as a daily intern in Beijing, undertaking data analytics cohort tasks under the guidance of Mr. Zhaojian Li.
-
-In my first two years before joining ByteDance, I conducted research work on the Graduate Thesis at [Workstation of Mao Ming, Academician of Chinese Academy of Sciences](https://baike.baidu.com/item/%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E8%A3%85%E5%A4%87%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E4%B8%AD%E5%BF%83/61692750), under the supervision of [Dr. Jingjing Fan](https://lwss.ncut.edu.cn/TutorServlet?action=queryDs&teacherid=qq2scN_gHl_@_byvOok@JA==).
-
-My research interest includes Machine Learning, Inverse Reinforcement Learning, and Autonomous Driving Decision Making. **Currently, I am deeply involved in specific projects related to Federated Learning and Optimization perspectives for my PhD research.**
+My research interest includes Medical AI, Computer Vision, Bioengineering, and Bioinformatics.
 
 You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:jjpkao@gmail.com).
 
