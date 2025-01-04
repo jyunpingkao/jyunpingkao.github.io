@@ -107,6 +107,13 @@ Hsin-Yuan Chu, Chueh-Hung Wu, Ping-Xuan Chen, Hao-Yu Hung, **Jyun-Ping Kao**, et
 </div>
 </div>
 
+# 🎖 Honors and Awards
+- *2023.06* The Phi Tau Phi Scholastic Honor Society of the Republic of China Honorary Membership (Top 1% in the school during undergraduate)
+- *2023.06* 2023 Synopsys ARC AIoT Design Contest Award – Finalist
+- *2023.02* Undergraduate Research Fellowship
+- *2023.01* 2022 Intel DevCup x OpenVINO Toolkit Award – Finalist
+- *2022.01* 2021 Intel DevCup x OpenVINO Toolkit Award –  Second Place
+
 ------
 
 <p align="center">
