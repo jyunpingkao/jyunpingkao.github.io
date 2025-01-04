@@ -93,6 +93,8 @@ Hsin-Yuan Chu, Chueh-Hung Wu, Ping-Xuan Chen, Hao-Yu Hung, **Jyun-Ping Kao**, et
 - *2022.01* 2021 Intel DevCup x OpenVINO Toolkit Award –  Second Place
 
 # 💡Extracurricular Experience
+
+
 ------
 
 <p align="center">
