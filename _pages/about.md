@@ -83,10 +83,7 @@ Hsin-Yuan Chu, Chueh-Hung Wu, Ping-Xuan Chen, Hao-Yu Hung, **Jyun-Ping Kao**, et
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
 
-# 💻 Internships
-- 🎓During My Master's Research Program
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ByteDance</div><img src='../images/corpo2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+# 💻 Research Experience
 
 [DouBao - Large Language Model (LLM) Product](https://www.doubao.com/chat/)
 
