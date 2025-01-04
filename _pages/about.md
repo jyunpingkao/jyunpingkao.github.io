@@ -42,7 +42,6 @@ You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). I
 
 Hao-Yu Hung, **Jyun-Ping Kao**, Hsin-Yuan Chu, Chung-Ping Chen, Wen-Shiang Chen
 
-[**Project**](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13487/3052319/Real-time-musculoskeletal-ultrasound-image-annotations/10.1117/12.3052319.short)
 <strong>Conference Paper</strong>
 - Proc. SPIE 13487, Optics and Photonics International Congress 2024, doi: 10.1117/12.3052319
 </div>
@@ -56,7 +55,6 @@ Hao-Yu Hung, **Jyun-Ping Kao**, Hsin-Yuan Chu, Chung-Ping Chen, Wen-Shiang Chen
 
 Hsin-Yuan Chu, Chueh-Hung Wu, Ping-Xuan Chen, Hao-Yu Hung, **Jyun-Ping Kao**, Chung-Ping Chen, Wen-Shiang Chen
 
-[**Project**](https://www.sciencedirect.com/science/article/abs/pii/S030156292400320X)
 <strong>Journal Paper</strong>
 - Ultrasound in Medicine & Biology, vol. 50 (12), pp. 1868-1878, 2024, doi: 10.1016/j.ultrasmedbio.2024.08.012
 </div>
@@ -70,7 +68,6 @@ Hsin-Yuan Chu, Chueh-Hung Wu, Ping-Xuan Chen, Hao-Yu Hung, **Jyun-Ping Kao**, Ch
 
 **Jyun-Ping Kao**, Xin Lin, You-Yang Zhang, Connie Liu, Shih-Hsuan Chia
 
-[**Project**](https://optic2023.conf.tw/site/order/1495/SessionDetail.aspx?sid=1495&lang=en&snid=F&rmid=F04&rowid=6)
 <strong>Conference Paper</strong>
 - 2023 Optics & Photonics Taiwan International Conference (OPTIC)
 </div>
@@ -84,7 +81,6 @@ Hsin-Yuan Chu, Chueh-Hung Wu, Ping-Xuan Chen, Hao-Yu Hung, **Jyun-Ping Kao**, Ch
 
 **Jyun-Ping Kao**, Chu-Qiao Yu, Wei-Zhong Lin, Bo-Hsien Pan, Je-Chi Jang, Tien-Ching Tsai, Shih-Hsuan Chia
 
-[**Project**](https://optic2022.conf.tw/site/order/1443/SessionDetail.aspx?sid=1443&lang=en&snid=F&rmid=F11&rowid=3)
 <strong>Conference Paper</strong>
 - 2022 Optics & Photonics Taiwan International Conference (OPTIC)
 </div>
@@ -105,12 +101,12 @@ Hsin-Yuan Chu, Chueh-Hung Wu, Ping-Xuan Chen, Hao-Yu Hung, **Jyun-Ping Kao**, Ch
 - July 2023 - Present
 
 
-**The University of Hong Kong · Department of Orthopaedics and Traumatology | Visiting Research Student**
+**The University of Hong Kong (HKU) · Department of Orthopaedics and Traumatology | Visiting Research Student**
 - Advised by Prof. [LAU, Chun Man Lawrence](https://www.ortho.hku.hk/biography/lau-chun-man-lawrence/)
 - June 2024 - Present
 
 
-**National Yang Ming Chiao Tung University · Institute of Biophotonics | Undergraduate Research Student**
+**National Yang Ming Chiao Tung University (NYCU) · Institute of Biophotonics | Undergraduate Research Student**
 - Advised by Prof. [Shih-Hsuan Chia](https://bioph.nycu.edu.tw/faculty/%E9%83%AD%E6%96%87%E5%A8%9F-%E6%95%99%E6%8E%88-%E6%89%80%E9%95%B7%E3%80%80dr-wen-chuan-kuo-professor-director/dr-shih-hsuan-chia-associate-professor/)
 - July 2020 - Present
 
