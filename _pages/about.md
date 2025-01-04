@@ -63,7 +63,7 @@ Hsin-Yuan Chu, Chueh-Hung Wu, Ping-Xuan Chen, Hao-Yu Hung, **Jyun-Ping Kao**, Ch
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ultrasound in Medicine & Biology</div><img src='../images/OPTIC2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OPTIC2023</div><img src='../images/OPTIC2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep-Learning-Enabled Third-Harmonic-Generation Imaging for Skin Virtual Biopsy from Reflectance Scanning Microscope](https://optic2023.conf.tw/site/order/1495/SessionDetail.aspx?sid=1495&lang=en&snid=F&rmid=F04&rowid=6)
@@ -77,7 +77,7 @@ Hsin-Yuan Chu, Chueh-Hung Wu, Ping-Xuan Chen, Hao-Yu Hung, **Jyun-Ping Kao**, Ch
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ultrasound in Medicine & Biology</div><img src='../images/OPTIC2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OPTIC2022</div><img src='../images/OPTIC2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Optical design and realization of nonlinear mesoscope](https://optic2022.conf.tw/site/order/1443/SessionDetail.aspx?sid=1443&lang=en&snid=F&rmid=F11&rowid=3)
