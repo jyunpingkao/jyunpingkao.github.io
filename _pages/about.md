@@ -34,7 +34,7 @@ You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). I
 - *2024.02*: &nbsp;New Paper **Real time musculoskeletal ultrasound image annotations** Accepted by **SPIE BISC 2024**.
 
 # 📝 Publications 
-- 🎓During My Master's Research Program
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BISC 2024</div><img src='../images/BISC2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -54,13 +54,42 @@ Hao-Yu Hung, **Jyun-Ping Kao**, Hsin-Yuan Chu, Chung-Ping Chen, Wen-Shiang Chen
 
 [Enhancing Multi-Object Detection in Ultrasound Images Through Semi-Supervised Learning, Focal Loss and Relation of Frame](https://www.sciencedirect.com/science/article/abs/pii/S030156292400320X)
 
-Hsin-Yuan Chu, Chueh-Hung Wu, Ping-Xuan Chen, Hao-Yu Hung, **Jyun-Ping Kao**, et al.
+Hsin-Yuan Chu, Chueh-Hung Wu, Ping-Xuan Chen, Hao-Yu Hung, **Jyun-Ping Kao**, Chung-Ping Chen, Wen-Shiang Chen
 
 [**Project**](https://www.sciencedirect.com/science/article/abs/pii/S030156292400320X)
-<strong>SCI Journal Paper</strong>
+<strong>Journal Paper</strong>
 - Ultrasound in Medicine & Biology, vol. 50 (12), pp. 1868-1878, 2024, doi: 10.1016/j.ultrasmedbio.2024.08.012
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ultrasound in Medicine & Biology</div><img src='../images/OPTIC2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep-Learning-Enabled Third-Harmonic-Generation Imaging for Skin Virtual Biopsy from Reflectance Scanning Microscope](https://optic2023.conf.tw/site/order/1495/SessionDetail.aspx?sid=1495&lang=en&snid=F&rmid=F04&rowid=6)
+
+**Jyun-Ping Kao**, Xin Lin, You-Yang Zhang, Connie Liu, Shih-Hsuan Chia
+
+[**Project**](https://optic2023.conf.tw/site/order/1495/SessionDetail.aspx?sid=1495&lang=en&snid=F&rmid=F04&rowid=6)
+<strong>Conference Paper</strong>
+- 2023 Optics & Photonics Taiwan International Conference (OPTIC)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ultrasound in Medicine & Biology</div><img src='../images/OPTIC2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Optical design and realization of nonlinear mesoscope](https://optic2022.conf.tw/site/order/1443/SessionDetail.aspx?sid=1443&lang=en&snid=F&rmid=F11&rowid=3)
+
+**Jyun-Ping Kao**, Chu-Qiao Yu, Wei-Zhong Lin, Bo-Hsien Pan, Je-Chi Jang, Tien-Ching Tsai, Shih-Hsuan Chia
+
+[**Project**](https://optic2022.conf.tw/site/order/1443/SessionDetail.aspx?sid=1443&lang=en&snid=F&rmid=F11&rowid=3)
+<strong>Conference Paper</strong>
+- 2022 Optics & Photonics Taiwan International Conference (OPTIC)
+</div>
+</div>
+
 
 # 📖 Educations
 - *2023.08 - Present*, MS in Biomedical Electronics and Bioinformatics, National Taiwan University, Taiwan
