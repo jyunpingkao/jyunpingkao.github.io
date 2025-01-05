@@ -22,7 +22,7 @@ I'm a second year master student at [Graduate Institute of Biomedical Electronic
 
 My research interest includes Medical AI, Computer Vision, Bioengineering, and Bioinformatics.
 
-You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:jjpkao@gmail.com).
+You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:jjpkao@gmail.com) **jjpkao@gmail.com**.
 
 
 
