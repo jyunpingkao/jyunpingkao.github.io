@@ -18,21 +18,23 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-I'm a second year master student at [Graduate Institute of Biomedical Electronics and Bioinformatics](https://www.bebi.ntu.edu.tw/?page_id=79&lang=en), [National Taiwan University](https://www.ntu.edu.tw/english/), co-supervised by Prof. [Chung-Ping Chen](https://ieeexplore.ieee.org/author/37280747200) and Prof. [Wen-Shiang Chen](https://www.researchgate.net/profile/Wen-Shiang-Chen). 
+I'm a second year master student at [Graduate Institute of Biomedical Electronics and Bioinformatics](https://www.bebi.ntu.edu.tw/?page_id=79&lang=en), [National Taiwan University](https://www.ntu.edu.tw/english/), co-supervised by Prof. [Chung-Ping Chen](https://www.ee.ntu.edu.tw/profile1.php?teacher_id=943008) and Prof. [Wen-Shiang Chen](https://www.ntuh.gov.tw/PMR/Vcard.action?q_type=-1&q_itemCode=246). 
 
 My research interest includes Medical AI, Computer Vision, Bioengineering, and Bioinformatics.
 
-You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:jjpkao@gmail.com) **jjpkao@gmail.com**.
+You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:jjpkao@gmail.com) **(jjpkao@gmail.com)**.
 
 
 
-<!--插入图片语法为：![Alt](../images/tiktok.png width=200 height=100)-->
+
 
 # 🔥 News
-- *2024.10*: &nbsp;New Paper **Transformer Based Real Time Muscleskeletal Anatomical Structure Detection in Clinical Use** Accepted by **IEEE BIBE 2024**.
+- *2024.10*: &nbsp;New Paper **Transformer Based Real Time Muscleskeletal Anatomical Structure Detection in Clinical Use** Accepted by **IEEE BIBE 2024** for oral presentation.
 - *2024.09*: &nbsp;New Journal Paper **Enhancing Multi-Object Detection in Ultrasound Images Through Semi-Supervised Learning, Focal Loss and Relation of Frame** Accepted by **Ultrasound in Medicine & Biology 2024**.
-- *2024.02*: &nbsp;New Paper **Real time musculoskeletal ultrasound image annotations** Accepted by **SPIE BISC 2024**.
-
+- *2024.02*: &nbsp;New Paper **Real time musculoskeletal ultrasound image annotations** Accepted by **SPIE BISC 2024** for poster presentation.
+- *2023.10*: &nbsp;New Paper **Deep-Learning-Enabled Third-Harmonic-Generation Imaging for Skin Virtual Biopsy from Reflectance Scanning Microscope** Accepted by **OPTIC 2023** for oral presentation.
+- *2022.10*: &nbsp;New Paper **Optical design and realization of nonlinear mesoscope** Accepted by **OPTIC 2022** for poster presentation.
+  
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BISC 2024</div><img src='../images/BISC2024.png' alt="sym" width="100%"></div></div>
@@ -90,7 +92,7 @@ Hsin-Yuan Chu, Chueh-Hung Wu, Ping-Xuan Chen, Hao-Yu Hung, **Jyun-Ping Kao**, Ch
 # 📖 Educations
 - *2023.08 - Present*, MS in Biomedical Electronics and Bioinformatics, National Taiwan University, Taiwan
   - GPA: 4.3/4.3 (Rank 1st in the department
-- *2019.09 - 2023.08*, BS in Electronics and Electrical Engineering (Double Major) &  BS in Digital Healthcare (Double Major), National Yang Ming Chiao Tung University,Taiwan
+- *2019.09 - 2023.08*, BS in Electronics and Electrical Engineering (Double Major) &  BS in Digital Healthcare (Double Major), National Yang Ming Chiao Tung University, Taiwan
   - Awards : Phi tau Phi Awards (Top 1 % student in the school)
 
 
