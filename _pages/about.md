@@ -37,6 +37,20 @@ You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). I
   
 # 📝 Publications 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE BIBE</div><img src='../images/2024BIBE.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Transformer Based Real Time Musculoskeletal Anatomical Structure Detection in Clinical Use](https://ieeexplore.ieee.org/document/10820491)
+
+**Jyun-Ping Kao**, Hao-Yu Hung, Ping-Xuan Chen, Chung-Ping Chen, Wen-Shiang Chen
+
+<strong>Conference Paper</strong>
+- 2024 IEEE 24th International Conference on Bioinformatics and Bioengineering (BIBE), Kragujevac, Serbia, 2024, pp. 1-6, doi: 10.1109/BIBE63649.2024.10820491.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BISC 2024</div><img src='../images/BISC2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
