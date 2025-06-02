@@ -29,8 +29,10 @@ You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). I
 
 
 # 🔥 News
+- *2025.05*: &nbsp;New Journal Paper **LoRA-Enhanced RT-DETR: First Low-Rank Adaptation Based DETR for Real-Time Full Body Anatomical Structures Identification in Musculoskeletal Ultrasound** Accepted by **Computerized Medical Imaging and Graphics (In press)**.
+- *2025.05*: &nbsp;New Short Communication paper **Large Language Models in radiology: A technical and clinical perspective** Accepted by **European Journal of Radiology Artificial Intelligence**.
 - *2024.10*: &nbsp;New Paper **Transformer Based Real Time Muscleskeletal Anatomical Structure Detection in Clinical Use** Accepted by **IEEE BIBE 2024** for oral presentation.
-- *2024.09*: &nbsp;New Journal Paper **Enhancing Multi-Object Detection in Ultrasound Images Through Semi-Supervised Learning, Focal Loss and Relation of Frame** Accepted by **Ultrasound in Medicine & Biology 2024**.
+- *2024.09*: &nbsp;New Journal Paper **Enhancing Multi-Object Detection in Ultrasound Images Through Semi-Supervised Learning, Focal Loss and Relation of Frame** Accepted by **Ultrasound in Medicine & Biology**.
 - *2024.02*: &nbsp;New Paper **Real time musculoskeletal ultrasound image annotations** Accepted by **SPIE BISC 2024** for poster presentation.
 - *2023.10*: &nbsp;New Paper **Deep-Learning-Enabled Third-Harmonic-Generation Imaging for Skin Virtual Biopsy from Reflectance Scanning Microscope** Accepted by **OPTIC 2023** for oral presentation.
 - *2022.10*: &nbsp;New Paper **Optical design and realization of nonlinear mesoscope** Accepted by **OPTIC 2022** for poster presentation.
