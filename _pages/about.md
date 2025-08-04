@@ -40,6 +40,17 @@ You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). I
   
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMIG</div><img src='../images/LORA-DETR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Transformer Based Real Time Musculoskeletal Anatomical Structure Detection in Clinical Use](https://ieeexplore.ieee.org/document/10820491)
+
+**Jyun-Ping Kao**, Yu-Ching Chung, Hao-Yu Hung, Chung-Ping Chen, Wen-Shiang Chen
+
+<strong>Journal Paper</strong>
+- Computerized Medical Imaging and Graphics, 2025, doi: 102583.10.1016/j.compmedimag.2025.102583
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE BIBE</div><img src='../images/2024BIBE.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
