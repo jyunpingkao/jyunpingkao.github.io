@@ -43,7 +43,7 @@ You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). I
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMIG</div><img src='../images/LORA-DETR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Transformer Based Real Time Musculoskeletal Anatomical Structure Detection in Clinical Use](https://ieeexplore.ieee.org/document/10820491)
+[LoRA-Enhanced RT-DETR: First Low-Rank Adaptation based DETR for real-time full body anatomical structures identification in musculoskeletal ultrasound](https://www.sciencedirect.com/science/article/abs/pii/S0895611125000928)
 
 **Jyun-Ping Kao**, Yu-Ching Chung, Hao-Yu Hung, Chung-Ping Chen, Wen-Shiang Chen
 
