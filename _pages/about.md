@@ -20,7 +20,9 @@ redirect_from:
 # Welcome! 
 I am a Visiting Research Student in the Department of Radiology at [Harvard Medical School & Massachusetts General Hospital](https://jschant.github.io/) supervised by Prof. [Jonghye Woo](https://researchers.mgh.harvard.edu/profile/12882709/Jonghye-Woo), and a second-year master’s student at the [Graduate Institute of Biomedical Electronics and Bioinformatics](https://www.bebi.ntu.edu.tw/?page_id=79&lang=en), [National Taiwan University](https://www.ntu.edu.tw/english/), co-supervised by Prof. [Chung-Ping Chen](https://www.ee.ntu.edu.tw/profile1.php?teacher_id=943008) and Prof. [Wen-Shiang Chen](https://www.ntuh.gov.tw/PMR/Vcard.action?q_type=-1&q_itemCode=246). 
 
-My research interest includes Medical AI, Computer Vision, Bioengineering, and Bioinformatics.
+My research interests include Medical AI, Computer Vision, Bioengineering, and Bioinformatics.
+
+I also served as Journal Reviewer for **IEEE Journal of Biomedical and Health Informatics (JCR Q1)**, **Computerized Medical Imaging and Graphics (JCR Q1)**, **International Journal of Medical Informatics (JCR Q1)**, **Biomedical Signal Processing and Control (JCR Q1)**, **Journal of Imaging Informatics in Medicine (JCR Q1)**, **Artificial Intelligence In Medicine (JCR Q1)**.
 
 You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:jjpkao@gmail.com) **(jjpkao@gmail.com)**.
 
