@@ -22,7 +22,7 @@ I am a Visiting Research Student in the Department of Radiology at [Harvard Medi
 
 My research interests include Medical AI, Computer Vision, Bioengineering, and Bioinformatics.
 
-I also served as Journal Reviewer for **[IEEE Journal of Biomedical and Health Informatics](https://www.embs.org/jbhi/) (JCR Q1)**, **Computerized Medical Imaging and Graphics (JCR Q1)**, **International Journal of Medical Informatics (JCR Q1)**, **Biomedical Signal Processing and Control (JCR Q1)**, **Journal of Imaging Informatics in Medicine (JCR Q1)**, **Artificial Intelligence In Medicine (JCR Q1)**.
+I also served as Journal Reviewer for **[IEEE Journal of Biomedical and Health Informatics](https://www.embs.org/jbhi/) (JCR Q1)**, **[Artificial Intelligence In Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine) (JCR Q1)**, **[Computerized Medical Imaging and Graphics](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics) (JCR Q1)**, **[International Journal of Medical Informatics](https://www.sciencedirect.com/journal/international-journal-of-medical-informatics) (JCR Q1)**, **[Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control) (JCR Q1)**, **[Journal of Imaging Informatics in Medicine](https://link.springer.com/journal/10278) (JCR Q1)**.
 
 You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:jjpkao@gmail.com) **(jjpkao@gmail.com)**.
 
