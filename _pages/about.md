@@ -122,28 +122,35 @@ Hsin-Yuan Chu, Chueh-Hung Wu, Ping-Xuan Chen, Hao-Yu Hung, **Jyun-Ping Kao**, Ch
 
 # 📖 Educations
 - *2023.08 - Present*, MS in Biomedical Electronics and Bioinformatics, National Taiwan University, Taiwan
-  - GPA: 4.3/4.3 (Rank 1st in the department
+  - **GPA: 4.3/4.3 (Program Ranked: 1/62)**
+  - **Awards: Outstanding Paper Award (Published in a JCR Top 15\% journal)**
 - *2019.09 - 2023.08*, BS in Electronics and Electrical Engineering (Double Major) &  BS in Digital Healthcare (Double Major), National Yang Ming Chiao Tung University, Taiwan
-  - Awards : Phi tau Phi Awards (Top 1 % student in the school)
+  - **Awards : Phi tau Phi Awards (Top 1 % student in the school)**
 
 
 # 🔬 Research Experience
 
+**Harvard Medical School and Massachusetts General Hospital(MGH) · Department of Radiology | Visiting Research Student**
+- Advised by Prof. [Jonghye Woo](https://researchers.mgh.harvard.edu/profile/12882709/Jonghye-Woo)
+- July 2025 - Present
+
 **National Taiwan University Hospital (NTUH) · Department of Physical Medicine and Rehabilitation | Research Assistant**
 - Advised by Prof. [Wen-Shiang Chen](https://www.researchgate.net/profile/Wen-Shiang-Chen)
-- July 2023 - Present
+- July 2023 - June 2025
 
 
 **The University of Hong Kong (HKU) · Department of Orthopaedics and Traumatology | Visiting Research Student**
 - Advised by Prof. [LAU, Chun Man Lawrence](https://www.ortho.hku.hk/biography/lau-chun-man-lawrence/)
-- June 2024 - Present
+- June 2024 - Aug 2024
 
 
 **National Yang Ming Chiao Tung University (NYCU) · Institute of Biophotonics | Undergraduate Research Student**
 - Advised by Prof. [Shih-Hsuan Chia](https://bioph.nycu.edu.tw/faculty/%E9%83%AD%E6%96%87%E5%A8%9F-%E6%95%99%E6%8E%88-%E6%89%80%E9%95%B7%E3%80%80dr-wen-chuan-kuo-professor-director/dr-shih-hsuan-chia-associate-professor/)
-- July 2020 - Present
+- July 2020 - July 2023
 
 # 🎖 Honors and Awards
+- *2025.10* Outstanding Paper Award
+- *2025.05* 2025 Intel Artificial Intelligence Innovation Application Competition - Semi-Finalist
 - *2023.06* The Phi Tau Phi Scholastic Honor Society of the Republic of China Honorary Membership (Top 1% in the school during undergraduate)
 - *2023.06* 2023 Synopsys ARC AIoT Design Contest Award – Finalist
 - *2023.02* Undergraduate Research Fellowship
