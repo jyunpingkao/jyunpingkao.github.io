@@ -22,12 +22,9 @@ I am a Visiting Research Student in the Department of Radiology at [Harvard Medi
 
 My research interests include Medical AI, Computer Vision, Bioengineering, and Bioinformatics.
 
-I also served as Journal Reviewer ( **40 manuscripts in total** ) for **[IEEE Journal of Biomedical and Health Informatics](https://www.embs.org/jbhi/)**, **[Artificial Intelligence In Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine)**, **[Computerized Medical Imaging and Graphics](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics)**, **[International Journal of Medical Informatics](https://www.sciencedirect.com/journal/international-journal-of-medical-informatics)**, **[Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control)**, **[Journal of Imaging Informatics in Medicine](https://link.springer.com/journal/10278)**, **[Heliyon](https://www.cell.com/heliyon/home)**, **[APSIPA Transactions on Signal and Information Processing](https://www.nowpublishers.com/SIP)**, **[Clinical Radiology](https://www.clinicalradiologyonline.net/)**.
+I also serve as a **reviewer for international journals (40 manuscripts in total) and international conferences**.
 
 You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:jjpkao@gmail.com) **(jjpkao@gmail.com)**.
-
-
-
 
 
 # 🔥 News
@@ -152,9 +149,9 @@ Hsin-Yuan Chu, Chueh-Hung Wu, Ping-Xuan Chen, Hao-Yu Hung, **Jyun-Ping Kao**, Ch
 - 
 # 📄 Academic Service
 
-**Journal Reviewer** (40 manuscripts in total):  [IEEE Journal of Biomedical and Health Informatics](https://www.embs.org/jbhi/)**, **[Artificial Intelligence In Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine)**, **[Computerized Medical Imaging and Graphics](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics)**, **[International Journal of Medical Informatics](https://www.sciencedirect.com/journal/international-journal-of-medical-informatics)**, **[Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control)**, **[Journal of Imaging Informatics in Medicine](https://link.springer.com/journal/10278)**, **[Heliyon](https://www.cell.com/heliyon/home)**, **[APSIPA Transactions on Signal and Information Processing](https://www.nowpublishers.com/SIP)**, **[Clinical Radiology](https://www.clinicalradiologyonline.net/)**.
+**Journal Reviewer** (40 manuscripts in total):  **[IEEE Journal of Biomedical and Health Informatics](https://www.embs.org/jbhi/)**, **[Artificial Intelligence In Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine)**, **[Computerized Medical Imaging and Graphics](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics)**, **[International Journal of Medical Informatics](https://www.sciencedirect.com/journal/international-journal-of-medical-informatics)**, **[Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control)**, **[Journal of Imaging Informatics in Medicine](https://link.springer.com/journal/10278)**, **[Heliyon](https://www.cell.com/heliyon/home)**, **[APSIPA Transactions on Signal and Information Processing](https://www.nowpublishers.com/SIP)**, **[Clinical Radiology](https://www.clinicalradiologyonline.net/)**.
 
-**Conference Reviewer**  
+**Conference Reviewer**: **[IEEE ISBI 2026](https://biomedicalimaging.org/2026/)**, **[MIDL 2026](https://2026.midl.io/)**, **[IEEE EMBC 2025](https://embc.embs.org/2025/)**, **[IEEE ICSPC 2025](https://www.asprg.net/cms/conference.php?conf_id=c986860c-0552-4685-9c31-e54a3aaa96b1)**.  
 
 # 🎖 Honors and Awards
 - *2025.10* Outstanding Paper Award
