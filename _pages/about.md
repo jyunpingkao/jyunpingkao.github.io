@@ -146,7 +146,8 @@ Hsin-Yuan Chu, Chueh-Hung Wu, Ping-Xuan Chen, Hao-Yu Hung, **Jyun-Ping Kao**, Ch
 **National Yang Ming Chiao Tung University (NYCU) · Institute of Biophotonics | Undergraduate Research Student**
 - Advised by Prof. [Shih-Hsuan Chia](https://bioph.nycu.edu.tw/faculty/%E9%83%AD%E6%96%87%E5%A8%9F-%E6%95%99%E6%8E%88-%E6%89%80%E9%95%B7%E3%80%80dr-wen-chuan-kuo-professor-director/dr-shih-hsuan-chia-associate-professor/)
 - July 2020 - July 2023
-- 
+
+
 # 📄 Academic Service
 
 **Journal Reviewer** (40 manuscripts in total):  **[IEEE Journal of Biomedical and Health Informatics](https://www.embs.org/jbhi/)**, **[Artificial Intelligence In Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine)**, **[Computerized Medical Imaging and Graphics](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics)**, **[International Journal of Medical Informatics](https://www.sciencedirect.com/journal/international-journal-of-medical-informatics)**, **[Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control)**, **[Journal of Imaging Informatics in Medicine](https://link.springer.com/journal/10278)**, **[Heliyon](https://www.cell.com/heliyon/home)**, **[APSIPA Transactions on Signal and Information Processing](https://www.nowpublishers.com/SIP)**, **[Clinical Radiology](https://www.clinicalradiologyonline.net/)**.
