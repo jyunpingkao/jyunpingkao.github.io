@@ -120,9 +120,9 @@ Hsin-Yuan Chu, Chueh-Hung Wu, Ping-Xuan Chen, Hao-Yu Hung, **Jyun-Ping Kao**, Ch
 # 📖 Educations
 - *2023.08 - Present*, MS in Biomedical Electronics and Bioinformatics, National Taiwan University, Taiwan
   - **GPA: 4.3/4.3 (Program Ranked: 1/62)**
-  - **Awards: Outstanding Paper Award (Published in a JCR Top 15\% journal)**
+  - **Awards: Outstanding Paper Award (Published in a JCR Top 15% journal)**
 - *2019.09 - 2023.08*, BS in Electronics and Electrical Engineering (Double Major) &  BS in Digital Healthcare (Double Major), National Yang Ming Chiao Tung University, Taiwan
-  - **Awards : Phi tau Phi Awards (Top 1 % student in the school)**
+  - **Awards : Phi Tau Phi Awards (Top 1 % student in the school)**
 
 
 # 🔬 Research Experience
