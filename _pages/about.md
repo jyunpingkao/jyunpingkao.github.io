@@ -31,10 +31,9 @@ You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). I
 - *2025.11*: &nbsp;New Journal Paper **[A Novel Deep Learning Based Automatic Ultrasonic Posterior Cruciate Ligament Clinical Assessment Tool](https://www.nature.com/articles/s44387-025-00058-y)** Accepted by **npj Artificial Intelligence**.
 - *2025.10*: &nbsp;I received the **Outstanding Paper Award** from the Graduate Institute of Biomedical Electronics and Bioinformatics, National Taiwan University.
 - *2025.07*: &nbsp;New Conference Paper **MULTI-IMAGE MUSCULOSKELETAL ULTRASOUND INTERPRETATION USING A LARGE LANGUAGE MODEL** Accepted by **Radiological Society of North America Annual Meeting (RSNA 2025)**.
-- *2025.06*: &nbsp;New Journal Paper **LoRA-Enhanced RT-DETR: First Low-Rank Adaptation Based DETR for Real-Time Full Body Anatomical Structures Identification in Musculoskeletal Ultrasound** Accepted by **Computerized Medical Imaging and Graphics**.
+- *2025.06*: &nbsp;New Journal Paper **[LoRA-Enhanced RT-DETR: First Low-Rank Adaptation Based DETR for Real-Time Full Body Anatomical Structures Identification in Musculoskeletal Ultraso]Lhttps://www.sciencedirect.com/science/article/abs/pii/S0895611125000928e** Accepted by **Computerized Medical Imaging and Graphics**.
 - *2025.05*: &nbsp;New Short Communication paper **Large Language Models in radiology: A technical and clinical perspective** Accepted by **European Journal of Radiology Artificial Intelligence**.
-- *2024.10*: &nbsp;New Conference Paper **Transformer Based Real Time Muscleskeletal Anatomical Structure Detection in Clinical Use** Accepted by **IEEE BIBE 2024** for oral presentation.
-- *2024.09*: &nbsp;New Journal Paper **Enhancing Multi-Object Detection in Ultrasound Images Through Semi-Supervised Learning, Focal Loss and Relation of Frame** Accepted by **Ultrasound in Medicine & Biology**.
+
 
 
 
