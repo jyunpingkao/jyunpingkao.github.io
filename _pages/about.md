@@ -22,7 +22,7 @@ I am a Visiting Research Student in the Department of Radiology at [Harvard Medi
 
 My research interests include Medical AI, Computer Vision, Bioengineering, and Bioinformatics.
 
-I also serve as a **reviewer for 9 international journals (40 manuscripts in total) and 5 international conferences**.
+I also serve as a **reviewer for 9 international journals (50 manuscripts in total) and 5 international conferences**.
 
 You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:jjpkao@gmail.com) **(jjpkao@gmail.com)**.
 
