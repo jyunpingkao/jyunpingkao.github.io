@@ -27,7 +27,7 @@ You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). I
 
 # 🔥 News
 - *2026.04*: &nbsp;New Journal Paper **[Interpretable and backpropagation-free Green Learning for efficient multi-task echocardiographic segmentation and classification](https://arxiv.org/abs/2601.19743)** Accepted by **APSIPA Transactions on Signal and Information Processing**.
-- *2026.04*: &nbsp;New Conference Paper **[Entity-Preserving Biomedical Abstract Augmentation via Constraint-Driven Distillation]** Accepted by **The Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) 2026**.
+- *2026.04*: &nbsp;New Conference Paper **Entity-Preserving Biomedical Abstract Augmentation via Constraint-Driven Distillation** Accepted by **The Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) 2026**.
 - *2026.01*: &nbsp;New Conference Paper **[Cross-Modal Fine-Tuning of 3D Convolutional Foundation Models for ADHD Classification with Low-Rank Adaptation](https://arxiv.org/abs/2511.06163)** Accepted by **IEEE International Symposium on Biomedical Imaging (ISBI) 2026**.
 - *2025.11*: &nbsp;New Journal Paper **[A Novel Deep Learning Based Automatic Ultrasonic Posterior Cruciate Ligament Clinical Assessment Tool](https://www.nature.com/articles/s44387-025-00058-y)** Accepted by **npj Artificial Intelligence**.
 - *2025.10*: &nbsp;I received the **Outstanding Paper Award** from the Graduate Institute of Biomedical Electronics and Bioinformatics, National Taiwan University.
