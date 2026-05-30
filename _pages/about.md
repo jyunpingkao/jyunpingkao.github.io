@@ -214,7 +214,8 @@ You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). I
 
 
 # 📖 Educations
-- *2023.08 - Present*, MS in Biomedical Electronics and Bioinformatics, National Taiwan University, Taiwan
+- *2026.08 - Present*, PnD in Electrical and Computer Engineering, University of Southern California, United States
+- *2023.08 - 2026.01*, MS in Biomedical Electronics and Bioinformatics, National Taiwan University, Taiwan
   - **GPA: 4.3/4.3 (Program Ranked: 1/62)**
   - **Awards: Outstanding Paper Award (Published in a JCR Top 15% journal)**
 - *2019.09 - 2023.08*, BS in Electronics and Electrical Engineering (Double Major) &  BS in Digital Healthcare (Double Major), National Yang Ming Chiao Tung University, Taiwan
