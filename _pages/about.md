@@ -170,6 +170,13 @@ Hsin-Yuan Chu, Chueh-Hung Wu, Ping-Xuan Chen, Hao-Yu Hung, **Jyun-Ping Kao**, Ch
 
 </div>
 
+
+**A novel deep learning based automatic ultrasonic posterior cruciate ligament clinical assessment tool**
+**Jyun-Ping Kao**, Jiajing Zhang, Wei-Ning Lee, Chung-Ping Chen, Lawrence Chun-Man Lau
+*npj Artificial Intelligence*, 2026 
+<span style="color: #b22222; font-weight: bold;">[Journal]</span> | [📄 Article](https://www.nature.com/articles/s44387-025-00058-y) | [🔗 DOI](https://doi.org/10.1038/s44387-025-00058-y) | [💻 Code](#)
+
+
 # 📖 Educations
 - *2023.08 - Present*, MS in Biomedical Electronics and Bioinformatics, National Taiwan University, Taiwan
   - **GPA: 4.3/4.3 (Program Ranked: 1/62)**
