@@ -18,7 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-I am a Visiting Research Student in the Department of Radiology at [Harvard Medical School & Massachusetts General Hospital](https://jschant.github.io/) supervised by Prof. [Jonghye Woo](https://researchers.mgh.harvard.edu/profile/12882709/Jonghye-Woo), and a second-year master’s student at the [Graduate Institute of Biomedical Electronics and Bioinformatics](https://www.bebi.ntu.edu.tw/?page_id=79&lang=en), [National Taiwan University](https://www.ntu.edu.tw/english/), co-supervised by Prof. [Chung-Ping Chen](https://www.ee.ntu.edu.tw/profile1.php?teacher_id=943008) and Prof. [Wen-Shiang Chen](https://www.ntuh.gov.tw/PMR/Vcard.action?q_type=-1&q_itemCode=246). 
+I am an incoming PhD student in the Department of Electrical and Computer Engineering at the [University of Southern California (USC)](https://www.usc.edu/), supervised by Prof. [C.-C. Jay Kuo](https://viterbi.usc.edu/directory/faculty/Kuo/Chung-Chieh). 
+
+Previously, I was a Visiting Research Student in the Department of Radiology at [Harvard Medical School & Massachusetts General Hospital](https://jschant.github.io/) supervised by Prof. [Jonghye Woo](https://researchers.mgh.harvard.edu/profile/12882709/Jonghye-Woo), and in the [Department of Orthopaedics and Traumatology](https://www.ortho.hku.hk/) at [The University of Hong Kong](https://www.hku.hk/) supervised by Prof. [Chun Man Lawrence Lau](https://www.ortho.hku.hk/biography/lau-chun-man-lawrence/).
+
+I received my M.S. degree from the [Graduate Institute of Biomedical Electronics and Bioinformatics](https://www.bebi.ntu.edu.tw/?page_id=79&lang=en), [National Taiwan University](https://www.ntu.edu.tw/english/), where I was co-supervised by Prof. [Chung-Ping Chen](https://www.ee.ntu.edu.tw/profile1.php?teacher_id=943008) and Prof. [Wen-Shiang Chen](https://www.ntuh.gov.tw/PMR/Vcard.action?q_type=-1&q_itemCode=246). 
 
 My research interests include Medical AI, Computer Vision, Bioengineering, and Bioinformatics.
 
@@ -198,9 +202,9 @@ You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). I
 
 # 🔬 Research Experience
 
-**Harvard Medical School and Massachusetts General Hospital(MGH) · Department of Radiology | Visiting Research Student**
+**Harvard Medical School (HMS) and Massachusetts General Hospital (MGH) · Department of Radiology | Visiting Research Student**
 - Advised by Prof. [Jonghye Woo](https://researchers.mgh.harvard.edu/profile/12882709/Jonghye-Woo)
-- July 2025 - Present
+- July 2025 - Jan 2026
 
 **National Taiwan University Hospital (NTUH) · Department of Physical Medicine and Rehabilitation | Research Assistant**
 - Advised by Prof. [Wen-Shiang Chen](https://www.researchgate.net/profile/Wen-Shiang-Chen)
@@ -208,7 +212,7 @@ You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). I
 
 
 **The University of Hong Kong (HKU) · Department of Orthopaedics and Traumatology | Visiting Research Student**
-- Advised by Prof. [LAU, Chun Man Lawrence](https://www.ortho.hku.hk/biography/lau-chun-man-lawrence/)
+- Advised by Prof. [Chun Man Lawrence Lau](https://www.ortho.hku.hk/biography/lau-chun-man-lawrence/)
 - June 2024 - Aug 2024
 
 
@@ -219,9 +223,9 @@ You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). I
 
 # 📄 Academic Service
 
-**Journal Reviewer** (40 manuscripts in total):  **[IEEE Journal of Biomedical and Health Informatics](https://www.embs.org/jbhi/)**, **[Artificial Intelligence In Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine)**, **[Computerized Medical Imaging and Graphics](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics)**, **[International Journal of Medical Informatics](https://www.sciencedirect.com/journal/international-journal-of-medical-informatics)**, **[Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control)**, **[Journal of Imaging Informatics in Medicine](https://link.springer.com/journal/10278)**, **[Heliyon](https://www.cell.com/heliyon/home)**, **[APSIPA Transactions on Signal and Information Processing](https://www.nowpublishers.com/SIP)**, **[Clinical Radiology](https://www.clinicalradiologyonline.net/)**.
+**Journal Reviewer**:  **[IEEE Journal of Biomedical and Health Informatics](https://www.embs.org/jbhi/)**, **[Artificial Intelligence In Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine)**, **[Computerized Medical Imaging and Graphics](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics)**, **[International Journal of Medical Informatics](https://www.sciencedirect.com/journal/international-journal-of-medical-informatics)**, **[Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control)**, **[Journal of Imaging Informatics in Medicine](https://link.springer.com/journal/10278)**, **[Heliyon](https://www.cell.com/heliyon/home)**, **[APSIPA Transactions on Signal and Information Processing](https://www.nowpublishers.com/SIP)**, **[Clinical Radiology](https://www.clinicalradiologyonline.net/)**.
 
-**Conference Reviewer**: **[MIDL 2026](https://2026.midl.io/)**, **[IEEE ISBI 2026](https://biomedicalimaging.org/2026/)**, **[AMIA 2026](https://amia.org/education-events/amplify-informatics-conference)**, **[IEEE EMBC 2025](https://embc.embs.org/2025/)**, **[IEEE ICSPC 2025](https://www.asprg.net/cms/conference.php?conf_id=c986860c-0552-4685-9c31-e54a3aaa96b1)**.  
+**Conference Reviewer**: **[IEEE ICIP 2026](https://2026.ieeeicip.org/)** ,**[IEEE EMBC 2026](https://embc.embs.org/2026/?gad_source=1&gad_campaignid=14079357780&gbraid=0AAAAABPRV5S374lGfOI7xANIQE-g0CSHa&gclid=Cj0KCQjwlerQBhDMARIsAB16H-XFsYsNZYs05pSEHcR-TwYLipIyjZ5ShTPqn9firy5z4C-nUXdNYIEaAnwbEALw_wcB)**, **[MIDL 2026](https://2026.midl.io/)**, **[IEEE ISBI 2026](https://biomedicalimaging.org/2026/)**, **[AMIA 2026](https://amia.org/education-events/amplify-informatics-conference)**, **[IEEE EMBC 2025](https://embc.embs.org/2025/)**, **[IEEE ICSPC 2025](https://www.asprg.net/cms/conference.php?conf_id=c986860c-0552-4685-9c31-e54a3aaa96b1)**.  
 
 # 🎖 Honors and Awards
 - *2025.10* Outstanding Paper Award
