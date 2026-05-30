@@ -59,7 +59,7 @@ You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). I
     <span style="background-color: #ffedd5; color: #9a3412; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">
       Conference Paper
     </span>
-    <a href="https://ieeexplore.ieee.org/abstract/document/11515951" target="_blank" style="text-decoration: none; border: 1px solid #d1d5db; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; color: #374151; transition: background-color 0.2s;">
+    <a href="https://doi.org/10.1109/ISBI61048.2026.11515951" target="_blank" style="text-decoration: none; border: 1px solid #d1d5db; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; color: #374151; transition: background-color 0.2s;">
       DOI 🔗
     </a>
   </div>
