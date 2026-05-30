@@ -65,7 +65,7 @@ You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). I
   </div>
 </div>
 
----
+
 <div class='publication-item' style="margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 1px solid #eaeaea;">
   <div style="font-size: 1.15em; font-weight: 600; color: #2c3e50; line-height: 1.4; margin-bottom: 4px;">
     A novel deep learning based automatic ultrasonic posterior cruciate ligament clinical assessment tool
