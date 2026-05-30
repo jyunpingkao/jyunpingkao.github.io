@@ -38,6 +38,7 @@ You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). I
 
 
 
+
 # 📝 Publications 
 
 <div class='publication-item' style="margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 1px solid #eaeaea;">
@@ -134,7 +135,53 @@ You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). I
     <span style="background-color: #e0e7ff; color: #3730a3; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">
       Journal Paper
     </span>
-    <a href="
+    <a href="https://doi.org/10.1016/j.ultrasmedbio.2024.08.012" target="_blank" style="text-decoration: none; border: 1px solid #d1d5db; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; color: #374151; transition: background-color 0.2s;">
+      DOI 🔗
+    </a>
+  </div>
+</div>
+
+<div class='publication-item' style="margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 1px solid #eaeaea;">
+  <div style="font-size: 1.15em; font-weight: 600; color: #2c3e50; line-height: 1.4; margin-bottom: 4px;">
+    Deep-Learning-Enabled Third-Harmonic-Generation Imaging for Skin Virtual Biopsy from Reflectance Scanning Microscope
+  </div>
+  <div style="color: #4b5563; font-size: 0.95em; margin-bottom: 4px;">
+    <b>Jyun-Ping Kao</b>, Xin Lin, You-Yang Zhang, Connie Liu, Shih-Hsuan Chia
+  </div>
+  <div style="color: #059669; font-style: italic; font-size: 0.95em; margin-bottom: 12px;">
+    2023 Optics & Photonics Taiwan International Conference (OPTIC)
+  </div>
+  <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+    <span style="background-color: #ffedd5; color: #9a3412; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">
+      Conference Paper
+    </span>
+    <a href="https://optic2023.conf.tw/site/order/1495/SessionDetail.aspx?sid=1495&lang=en&snid=F&rmid=F04&rowid=6" target="_blank" style="text-decoration: none; border: 1px solid #d1d5db; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; color: #374151; transition: background-color 0.2s;">
+      Link 🔗
+    </a>
+  </div>
+</div>
+
+<div class='publication-item' style="margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 1px solid #eaeaea;">
+  <div style="font-size: 1.15em; font-weight: 600; color: #2c3e50; line-height: 1.4; margin-bottom: 4px;">
+    Optical design and realization of nonlinear mesoscope
+  </div>
+  <div style="color: #4b5563; font-size: 0.95em; margin-bottom: 4px;">
+    <b>Jyun-Ping Kao</b>, Chu-Qiao Yu, Wei-Zhong Lin, Bo-Hsien Pan, Je-Chi Jang, Tien-Ching Tsai, Shih-Hsuan Chia
+  </div>
+  <div style="color: #059669; font-style: italic; font-size: 0.95em; margin-bottom: 12px;">
+    2022 Optics & Photonics Taiwan International Conference (OPTIC)
+  </div>
+  <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+    <span style="background-color: #ffedd5; color: #9a3412; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">
+      Conference Paper
+    </span>
+    <a href="https://optic2022.conf.tw/site/order/1443/SessionDetail.aspx?sid=1443&lang=en&snid=F&rmid=F11&rowid=3" target="_blank" style="text-decoration: none; border: 1px solid #d1d5db; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; color: #374151; transition: background-color 0.2s;">
+      Link 🔗
+    </a>
+  </div>
+</div>
+
+
 
 
 
