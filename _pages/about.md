@@ -47,6 +47,27 @@ You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). I
 
 <div class='publication-item' style="margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 1px solid #eaeaea;">
   <div style="font-size: 1.15em; font-weight: 600; color: #2c3e50; line-height: 1.4; margin-bottom: 4px;">
+    Cross-Modal Fine-Tuning of 3D Convolutional Foundation Models for ADHD Classification with Low-Rank Adaptation
+  </div>
+  <div style="color: #4b5563; font-size: 0.95em; margin-bottom: 4px;">
+    <b>Jyun-Ping Kao</b>, Shinyeong Rho, Shahar Lazarev, Hyun-Hae Cho, Fangxu Xing, Taehoon Shin, C.-C. Jay Kuo, Jonghye Woo
+  </div>
+  <div style="color: #059669; font-style: italic; font-size: 0.95em; margin-bottom: 12px;">
+    2026 IEEE International Symposium on Biomedical Imaging (ISBI)
+  </div>
+  <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+    <span style="background-color: #ffedd5; color: #9a3412; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">
+      Conference Paper
+    </span>
+    <a href="https://ieeexplore.ieee.org/abstract/document/11515951" target="_blank" style="text-decoration: none; border: 1px solid #d1d5db; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; color: #374151; transition: background-color 0.2s;">
+      DOI 🔗
+    </a>
+  </div>
+</div>
+
+---
+<div class='publication-item' style="margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 1px solid #eaeaea;">
+  <div style="font-size: 1.15em; font-weight: 600; color: #2c3e50; line-height: 1.4; margin-bottom: 4px;">
     A novel deep learning based automatic ultrasonic posterior cruciate ligament clinical assessment tool
   </div>
   <div style="color: #4b5563; font-size: 0.95em; margin-bottom: 4px;">
