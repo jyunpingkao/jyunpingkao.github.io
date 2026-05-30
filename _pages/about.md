@@ -18,11 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-I am an incoming PhD student in the Department of Electrical and Computer Engineering at the [University of Southern California (USC)](https://www.usc.edu/), supervised by Prof. [C.-C. Jay Kuo](https://viterbi.usc.edu/directory/faculty/Kuo/Chung-Chieh). 
+I am an incoming PhD student in the Department of Electrical and Computer Engineering at the University of Southern California (USC), supervised by Prof. [C.-C. Jay Kuo](https://viterbi.usc.edu/directory/faculty/Kuo/Chung-Chieh). 
 
-Previously, I was a Visiting Research Student in the Department of Radiology at [Harvard Medical School & Massachusetts General Hospital](https://jschant.github.io/) supervised by Prof. [Jonghye Woo](https://researchers.mgh.harvard.edu/profile/12882709/Jonghye-Woo), and in the [Department of Orthopaedics and Traumatology](https://www.ortho.hku.hk/) at [The University of Hong Kong](https://www.hku.hk/) supervised by Prof. [Chun Man Lawrence Lau](https://www.ortho.hku.hk/biography/lau-chun-man-lawrence/).
+Previously, I was a Visiting Research Student in the Department of Radiology at Harvard Medical School & Massachusetts General Hospital supervised by Prof. [Jonghye Woo](https://researchers.mgh.harvard.edu/profile/12882709/Jonghye-Woo), and in the Department of Orthopaedics and Traumatology at The University of Hong Kong supervised by Prof. [Chun Man Lawrence Lau](https://www.ortho.hku.hk/biography/lau-chun-man-lawrence/).
 
-I received my M.S. degree from the [Graduate Institute of Biomedical Electronics and Bioinformatics](https://www.bebi.ntu.edu.tw/?page_id=79&lang=en), [National Taiwan University](https://www.ntu.edu.tw/english/), where I was co-supervised by Prof. [Chung-Ping Chen](https://www.ee.ntu.edu.tw/profile1.php?teacher_id=943008) and Prof. [Wen-Shiang Chen](https://www.ntuh.gov.tw/PMR/Vcard.action?q_type=-1&q_itemCode=246). 
+I received my M.S. degree from the Graduate Institute of Biomedical Electronics and Bioinformatics, National Taiwan University, where I was co-supervised by Prof. [Chung-Ping Chen](https://www.ee.ntu.edu.tw/profile1.php?teacher_id=943008) and Prof. [Wen-Shiang Chen](https://www.ntuh.gov.tw/PMR/Vcard.action?q_type=-1&q_itemCode=246). 
 
 My research interests include Medical AI, Computer Vision, Bioengineering, and Bioinformatics.
 
