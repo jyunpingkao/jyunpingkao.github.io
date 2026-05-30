@@ -163,18 +163,11 @@ Hsin-Yuan Chu, Chueh-Hung Wu, Ping-Xuan Chen, Hao-Yu Hung, **Jyun-Ping Kao**, Ch
     <a href="https://doi.org/10.1038/s44387-025-00058-y" target="_blank" style="text-decoration: none; border: 1px solid #d1d5db; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; color: #374151; transition: background-color 0.2s;">
       DOI 🔗
     </a>
-    <a href="#" target="_blank" style="text-decoration: none; border: 1px solid #d1d5db; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; color: #374151; transition: background-color 0.2s;">
-      PDF 📄
-    </a>
+   
   </div>
 
 </div>
 
-
-**A novel deep learning based automatic ultrasonic posterior cruciate ligament clinical assessment tool**
-**Jyun-Ping Kao**, Jiajing Zhang, Wei-Ning Lee, Chung-Ping Chen, Lawrence Chun-Man Lau
-*npj Artificial Intelligence*, 2026 
-<span style="color: #b22222; font-weight: bold;">[Journal]</span> | [📄 Article](https://www.nature.com/articles/s44387-025-00058-y) | [🔗 DOI](https://doi.org/10.1038/s44387-025-00058-y) | [💻 Code](#)
 
 
 # 📖 Educations
