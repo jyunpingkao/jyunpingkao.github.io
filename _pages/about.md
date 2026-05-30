@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# Welcome! 
+# 👋 Welcome! 
 I am an incoming PhD student in the Department of Electrical and Computer Engineering at the University of Southern California, supervised by Prof. [C.-C. Jay Kuo](https://viterbi.usc.edu/directory/faculty/Kuo/Chung-Chieh). 
 
 Previously, I was a Visiting Research Student in the Department of Radiology at Harvard Medical School & Massachusetts General Hospital supervised by Prof. [Jonghye Woo](https://researchers.mgh.harvard.edu/profile/12882709/Jonghye-Woo), and in the Department of Orthopaedics and Traumatology at The University of Hong Kong supervised by Prof. [Chun Man Lawrence Lau](https://www.ortho.hku.hk/biography/lau-chun-man-lawrence/).
