@@ -40,133 +40,104 @@ You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). I
 
 # 📝 Publications 
 
-<div class='publication-item' markdown="1">
-
-[A novel deep learning based automatic ultrasonic posterior cruciate ligament clinical assessment tool](https://www.nature.com/articles/s44387-025-00058-y)
-
-**Jyun-Ping Kao**, Jiajing Zhang, Wei-Ning Lee, Chung-Ping Chen, Lawrence Chun-Man Lau
-
-<strong>Journal Paper</strong>
-- npj Artificial Intelligence, 2026, doi: 10.1038/s44387-025-00058-y
-
-</div>
-
----
-
-<div class='publication-item' markdown="1">
-
-[LoRA-Enhanced RT-DETR: First Low-Rank Adaptation based DETR for real-time full body anatomical structures identification in musculoskeletal ultrasound](https://www.sciencedirect.com/science/article/abs/pii/S0895611125000928)
-
-**Jyun-Ping Kao**, Yu-Ching Chung, Hao-Yu Hung, Chung-Ping Chen, Wen-Shiang Chen
-
-<strong>Journal Paper</strong>
-- Computerized Medical Imaging and Graphics, 2025, doi: 102583.10.1016/j.compmedimag.2025.102583
-
-</div>
-
----
-
-<div class='publication-item' markdown="1">
-
-[Transformer Based Real Time Musculoskeletal Anatomical Structure Detection in Clinical Use](https://ieeexplore.ieee.org/document/10820491)
-
-**Jyun-Ping Kao**, Hao-Yu Hung, Ping-Xuan Chen, Chung-Ping Chen, Wen-Shiang Chen
-
-<strong>Conference Paper</strong>
-- 2024 IEEE 24th International Conference on Bioinformatics and Bioengineering (BIBE), Kragujevac, Serbia, 2024, pp. 1-6, doi: 10.1109/BIBE63649.2024.10820491.
-
-</div>
-
----
-
-
-<div class='publication-item' markdown="1">
-
-[Real time musculoskeletal ultrasound image annotations](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13487/3052319/Real-time-musculoskeletal-ultrasound-image-annotations/10.1117/12.3052319.short)
-
-Hao-Yu Hung, **Jyun-Ping Kao**, Hsin-Yuan Chu, Chung-Ping Chen, Wen-Shiang Chen
-
-<strong>Conference Paper</strong>
-- Proc. SPIE 13487, Optics and Photonics International Congress 2024, doi: 10.1117/12.3052319
-
-</div>
-
----
-
-
-<div class='publication-item' markdown="1">
-
-[Enhancing Multi-Object Detection in Ultrasound Images Through Semi-Supervised Learning, Focal Loss and Relation of Frame](https://www.sciencedirect.com/science/article/abs/pii/S030156292400320X)
-
-Hsin-Yuan Chu, Chueh-Hung Wu, Ping-Xuan Chen, Hao-Yu Hung, **Jyun-Ping Kao**, Chung-Ping Chen, Wen-Shiang Chen
-
-<strong>Journal Paper</strong>
-- Ultrasound in Medicine & Biology, vol. 50 (12), pp. 1868-1878, 2024, doi: 10.1016/j.ultrasmedbio.2024.08.012
-
-</div>
-
----
-
-
-<div class='publication-item' markdown="1">
-
-[Deep-Learning-Enabled Third-Harmonic-Generation Imaging for Skin Virtual Biopsy from Reflectance Scanning Microscope](https://optic2023.conf.tw/site/order/1495/SessionDetail.aspx?sid=1495&lang=en&snid=F&rmid=F04&rowid=6)
-
-**Jyun-Ping Kao**, Xin Lin, You-Yang Zhang, Connie Liu, Shih-Hsuan Chia
-
-<strong>Conference Paper</strong>
-- 2023 Optics & Photonics Taiwan International Conference (OPTIC)
-
-</div>
-
----
-
-
-<div class='publication-item' markdown="1">
-
-[Optical design and realization of nonlinear mesoscope](https://optic2022.conf.tw/site/order/1443/SessionDetail.aspx?sid=1443&lang=en&snid=F&rmid=F11&rowid=3)
-
-**Jyun-Ping Kao**, Chu-Qiao Yu, Wei-Zhong Lin, Bo-Hsien Pan, Je-Chi Jang, Tien-Ching Tsai, Shih-Hsuan Chia
-
-<strong>Conference Paper</strong>
-- 2022 Optics & Photonics Taiwan International Conference (OPTIC)
-
-</div>
-
-
-
-
 <div class='publication-item' style="margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 1px solid #eaeaea;">
-  
-  <!-- 論文標題 -->
   <div style="font-size: 1.15em; font-weight: 600; color: #2c3e50; line-height: 1.4; margin-bottom: 4px;">
     A novel deep learning based automatic ultrasonic posterior cruciate ligament clinical assessment tool
   </div>
-  
-  <!-- 作者列表 -->
   <div style="color: #4b5563; font-size: 0.95em; margin-bottom: 4px;">
     <b>Jyun-Ping Kao</b>, Jiajing Zhang, Wei-Ning Lee, Chung-Ping Chen, Lawrence Chun-Man Lau
   </div>
-  
-  <!-- 期刊/會議名稱與年份 -->
   <div style="color: #059669; font-style: italic; font-size: 0.95em; margin-bottom: 12px;">
     npj Artificial Intelligence, 2026
   </div>
-  
-  <!-- 標籤與連結按鈕 -->
   <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-    <!-- 類型標籤 -->
     <span style="background-color: #e0e7ff; color: #3730a3; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">
       Journal Paper
     </span>
-    <!-- 連結按鈕 -->
     <a href="https://doi.org/10.1038/s44387-025-00058-y" target="_blank" style="text-decoration: none; border: 1px solid #d1d5db; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; color: #374151; transition: background-color 0.2s;">
       DOI 🔗
     </a>
-   
   </div>
-
 </div>
+
+<div class='publication-item' style="margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 1px solid #eaeaea;">
+  <div style="font-size: 1.15em; font-weight: 600; color: #2c3e50; line-height: 1.4; margin-bottom: 4px;">
+    LoRA-Enhanced RT-DETR: First Low-Rank Adaptation based DETR for real-time full body anatomical structures identification in musculoskeletal ultrasound
+  </div>
+  <div style="color: #4b5563; font-size: 0.95em; margin-bottom: 4px;">
+    <b>Jyun-Ping Kao</b>, Yu-Ching Chung, Hao-Yu Hung, Chung-Ping Chen, Wen-Shiang Chen
+  </div>
+  <div style="color: #059669; font-style: italic; font-size: 0.95em; margin-bottom: 12px;">
+    Computerized Medical Imaging and Graphics, 2025
+  </div>
+  <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+    <span style="background-color: #e0e7ff; color: #3730a3; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">
+      Journal Paper
+    </span>
+    <a href="https://doi.org/10.1016/j.compmedimag.2025.102583" target="_blank" style="text-decoration: none; border: 1px solid #d1d5db; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; color: #374151; transition: background-color 0.2s;">
+      DOI 🔗
+    </a>
+  </div>
+</div>
+
+<div class='publication-item' style="margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 1px solid #eaeaea;">
+  <div style="font-size: 1.15em; font-weight: 600; color: #2c3e50; line-height: 1.4; margin-bottom: 4px;">
+    Transformer Based Real Time Musculoskeletal Anatomical Structure Detection in Clinical Use
+  </div>
+  <div style="color: #4b5563; font-size: 0.95em; margin-bottom: 4px;">
+    <b>Jyun-Ping Kao</b>, Hao-Yu Hung, Ping-Xuan Chen, Chung-Ping Chen, Wen-Shiang Chen
+  </div>
+  <div style="color: #059669; font-style: italic; font-size: 0.95em; margin-bottom: 12px;">
+    2024 IEEE 24th International Conference on Bioinformatics and Bioengineering (BIBE)
+  </div>
+  <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+    <span style="background-color: #ffedd5; color: #9a3412; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">
+      Conference Paper
+    </span>
+    <a href="https://doi.org/10.1109/BIBE63649.2024.10820491" target="_blank" style="text-decoration: none; border: 1px solid #d1d5db; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; color: #374151; transition: background-color 0.2s;">
+      DOI 🔗
+    </a>
+  </div>
+</div>
+
+<div class='publication-item' style="margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 1px solid #eaeaea;">
+  <div style="font-size: 1.15em; font-weight: 600; color: #2c3e50; line-height: 1.4; margin-bottom: 4px;">
+    Real time musculoskeletal ultrasound image annotations
+  </div>
+  <div style="color: #4b5563; font-size: 0.95em; margin-bottom: 4px;">
+    Hao-Yu Hung, <b>Jyun-Ping Kao</b>, Hsin-Yuan Chu, Chung-Ping Chen, Wen-Shiang Chen
+  </div>
+  <div style="color: #059669; font-style: italic; font-size: 0.95em; margin-bottom: 12px;">
+    Proc. SPIE 13487, Optics and Photonics International Congress 2024
+  </div>
+  <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+    <span style="background-color: #ffedd5; color: #9a3412; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">
+      Conference Paper
+    </span>
+    <a href="https://doi.org/10.1117/12.3052319" target="_blank" style="text-decoration: none; border: 1px solid #d1d5db; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; color: #374151; transition: background-color 0.2s;">
+      DOI 🔗
+    </a>
+  </div>
+</div>
+
+<div class='publication-item' style="margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 1px solid #eaeaea;">
+  <div style="font-size: 1.15em; font-weight: 600; color: #2c3e50; line-height: 1.4; margin-bottom: 4px;">
+    Enhancing Multi-Object Detection in Ultrasound Images Through Semi-Supervised Learning, Focal Loss and Relation of Frame
+  </div>
+  <div style="color: #4b5563; font-size: 0.95em; margin-bottom: 4px;">
+    Hsin-Yuan Chu, Chueh-Hung Wu, Ping-Xuan Chen, Hao-Yu Hung, <b>Jyun-Ping Kao</b>, Chung-Ping Chen, Wen-Shiang Chen
+  </div>
+  <div style="color: #059669; font-style: italic; font-size: 0.95em; margin-bottom: 12px;">
+    Ultrasound in Medicine & Biology, 2024
+  </div>
+  <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+    <span style="background-color: #e0e7ff; color: #3730a3; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">
+      Journal Paper
+    </span>
+    <a href="
+
+
+
 
 
 
