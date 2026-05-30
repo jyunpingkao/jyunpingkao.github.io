@@ -134,6 +134,42 @@ Hsin-Yuan Chu, Chueh-Hung Wu, Ping-Xuan Chen, Hao-Yu Hung, **Jyun-Ping Kao**, Ch
 </div>
 
 
+
+
+<div class='publication-item' style="margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 1px solid #eaeaea;">
+  
+  <!-- 論文標題 -->
+  <div style="font-size: 1.15em; font-weight: 600; color: #2c3e50; line-height: 1.4; margin-bottom: 4px;">
+    A novel deep learning based automatic ultrasonic posterior cruciate ligament clinical assessment tool
+  </div>
+  
+  <!-- 作者列表 -->
+  <div style="color: #4b5563; font-size: 0.95em; margin-bottom: 4px;">
+    <b>Jyun-Ping Kao</b>, Jiajing Zhang, Wei-Ning Lee, Chung-Ping Chen, Lawrence Chun-Man Lau
+  </div>
+  
+  <!-- 期刊/會議名稱與年份 -->
+  <div style="color: #059669; font-style: italic; font-size: 0.95em; margin-bottom: 12px;">
+    npj Artificial Intelligence, 2026
+  </div>
+  
+  <!-- 標籤與連結按鈕 -->
+  <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+    <!-- 類型標籤 -->
+    <span style="background-color: #e0e7ff; color: #3730a3; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">
+      Journal Paper
+    </span>
+    <!-- 連結按鈕 -->
+    <a href="https://doi.org/10.1038/s44387-025-00058-y" target="_blank" style="text-decoration: none; border: 1px solid #d1d5db; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; color: #374151; transition: background-color 0.2s;">
+      DOI 🔗
+    </a>
+    <a href="#" target="_blank" style="text-decoration: none; border: 1px solid #d1d5db; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; color: #374151; transition: background-color 0.2s;">
+      PDF 📄
+    </a>
+  </div>
+
+</div>
+
 # 📖 Educations
 - *2023.08 - Present*, MS in Biomedical Electronics and Bioinformatics, National Taiwan University, Taiwan
   - **GPA: 4.3/4.3 (Program Ranked: 1/62)**
