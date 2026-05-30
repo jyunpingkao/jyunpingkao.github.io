@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jyun-Ping Kao (Reddy)"
+title                    : "Jyun-Ping Kao (高駿平)"
 description              : "MS student at National Taiwan University"
 repository               : "reddy/reddykao.github.io/"
 google_scholar_stats_use_cdn : true
@@ -21,13 +21,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jyun-Ping Kao"
+  name             : "Jyun-Ping Kao (高駿平)"
   avatar           : "images/profile.jpg"
   bio              : "National Taiwan University"
   location         : "Taipei, Taiwan"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=f-EpEQkAAAAJ&hl=zh-TW&oi=sra"
+  googlescholar    : "https://scholar.google.com/citations?user=f-EpEQkAAAAJ&hl=en&inst=7943137549644843768"
   email            : "jjpkao@gmail.com" 
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
