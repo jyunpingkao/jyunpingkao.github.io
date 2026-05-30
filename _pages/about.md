@@ -40,8 +40,7 @@ You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). I
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">npj AI</div><img src='../images/PCL.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='publication-item' markdown="1">
 
 [A novel deep learning based automatic ultrasonic posterior cruciate ligament clinical assessment tool](https://www.nature.com/articles/s44387-025-00058-y)
 
@@ -49,11 +48,12 @@ You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). I
 
 <strong>Journal Paper</strong>
 - npj Artificial Intelligence, 2026, doi: 10.1038/s44387-025-00058-y
-</div>
+
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMIG</div><img src='../images/LORA-DETR.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+---
+
+<div class='publication-item' markdown="1">
 
 [LoRA-Enhanced RT-DETR: First Low-Rank Adaptation based DETR for real-time full body anatomical structures identification in musculoskeletal ultrasound](https://www.sciencedirect.com/science/article/abs/pii/S0895611125000928)
 
@@ -61,11 +61,12 @@ You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). I
 
 <strong>Journal Paper</strong>
 - Computerized Medical Imaging and Graphics, 2025, doi: 102583.10.1016/j.compmedimag.2025.102583
-</div>
+
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE BIBE</div><img src='../images/2024BIBE.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+---
+
+<div class='publication-item' markdown="1">
 
 [Transformer Based Real Time Musculoskeletal Anatomical Structure Detection in Clinical Use](https://ieeexplore.ieee.org/document/10820491)
 
@@ -73,12 +74,13 @@ You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). I
 
 <strong>Conference Paper</strong>
 - 2024 IEEE 24th International Conference on Bioinformatics and Bioengineering (BIBE), Kragujevac, Serbia, 2024, pp. 1-6, doi: 10.1109/BIBE63649.2024.10820491.
-</div>
+
 </div>
 
+---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BISC 2024</div><img src='../images/BISC2024.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+
+<div class='publication-item' markdown="1">
 
 [Real time musculoskeletal ultrasound image annotations](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13487/3052319/Real-time-musculoskeletal-ultrasound-image-annotations/10.1117/12.3052319.short)
 
@@ -86,12 +88,13 @@ Hao-Yu Hung, **Jyun-Ping Kao**, Hsin-Yuan Chu, Chung-Ping Chen, Wen-Shiang Chen
 
 <strong>Conference Paper</strong>
 - Proc. SPIE 13487, Optics and Photonics International Congress 2024, doi: 10.1117/12.3052319
-</div>
+
 </div>
 
+---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ultrasound in Medicine & Biology</div><img src='../images/UMB2024.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+
+<div class='publication-item' markdown="1">
 
 [Enhancing Multi-Object Detection in Ultrasound Images Through Semi-Supervised Learning, Focal Loss and Relation of Frame](https://www.sciencedirect.com/science/article/abs/pii/S030156292400320X)
 
@@ -99,12 +102,13 @@ Hsin-Yuan Chu, Chueh-Hung Wu, Ping-Xuan Chen, Hao-Yu Hung, **Jyun-Ping Kao**, Ch
 
 <strong>Journal Paper</strong>
 - Ultrasound in Medicine & Biology, vol. 50 (12), pp. 1868-1878, 2024, doi: 10.1016/j.ultrasmedbio.2024.08.012
-</div>
+
 </div>
 
+---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OPTIC2023</div><img src='../images/OPTIC2023.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+
+<div class='publication-item' markdown="1">
 
 [Deep-Learning-Enabled Third-Harmonic-Generation Imaging for Skin Virtual Biopsy from Reflectance Scanning Microscope](https://optic2023.conf.tw/site/order/1495/SessionDetail.aspx?sid=1495&lang=en&snid=F&rmid=F04&rowid=6)
 
@@ -112,12 +116,13 @@ Hsin-Yuan Chu, Chueh-Hung Wu, Ping-Xuan Chen, Hao-Yu Hung, **Jyun-Ping Kao**, Ch
 
 <strong>Conference Paper</strong>
 - 2023 Optics & Photonics Taiwan International Conference (OPTIC)
-</div>
+
 </div>
 
+---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OPTIC2022</div><img src='../images/OPTIC2022.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+
+<div class='publication-item' markdown="1">
 
 [Optical design and realization of nonlinear mesoscope](https://optic2022.conf.tw/site/order/1443/SessionDetail.aspx?sid=1443&lang=en&snid=F&rmid=F11&rowid=3)
 
@@ -125,7 +130,7 @@ Hsin-Yuan Chu, Chueh-Hung Wu, Ping-Xuan Chen, Hao-Yu Hung, **Jyun-Ping Kao**, Ch
 
 <strong>Conference Paper</strong>
 - 2022 Optics & Photonics Taiwan International Conference (OPTIC)
-</div>
+
 </div>
 
 
