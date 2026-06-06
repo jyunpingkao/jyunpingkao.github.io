@@ -213,13 +213,13 @@ You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). I
 
 
 
-# 📖 Educations
-- *2026.08 - Present*, PnD in Electrical and Computer Engineering, University of Southern California, United States
+# 🎓 Educations
+- *2026.08 - Present*, PhD in Electrical and Computer Engineering, University of Southern California, United States
 - *2023.08 - 2026.01*, MS in Biomedical Electronics and Bioinformatics, National Taiwan University, Taiwan
   - **GPA: 4.3/4.3 (Program Ranked: 1/62)**
-  - **Awards: Outstanding Paper Award (Published in a JCR Top 15% journal)**
+  - **Awards: Outstanding Paper Award**
 - *2019.09 - 2023.08*, BS in Electronics and Electrical Engineering (Double Major) &  BS in Digital Healthcare (Double Major), National Yang Ming Chiao Tung University, Taiwan
-  - **Awards : Phi Tau Phi Awards (Top 1 % student in the school)**
+  - **Awards: Phi Tau Phi Awards (Top 1 % student in the school)**
 
 
 # 🔬 Research Experience
@@ -250,13 +250,57 @@ You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). I
 **Conference Reviewer**: **[IEEE ICIP 2026](https://2026.ieeeicip.org/)** ,**[IEEE EMBC 2026](https://embc.embs.org/2026/?gad_source=1&gad_campaignid=14079357780&gbraid=0AAAAABPRV5S374lGfOI7xANIQE-g0CSHa&gclid=Cj0KCQjwlerQBhDMARIsAB16H-XFsYsNZYs05pSEHcR-TwYLipIyjZ5ShTPqn9firy5z4C-nUXdNYIEaAnwbEALw_wcB)**, **[MIDL 2026](https://2026.midl.io/)**, **[IEEE ISBI 2026](https://biomedicalimaging.org/2026/)**, **[AMIA 2026](https://amia.org/education-events/amplify-informatics-conference)**, **[IEEE EMBC 2025](https://embc.embs.org/2025/)**, **[IEEE ICSPC 2025](https://www.asprg.net/cms/conference.php?conf_id=c986860c-0552-4685-9c31-e54a3aaa96b1)**.  
 
 # 🎖 Honors and Awards
-- *2025.10* Outstanding Paper Award
-- *2025.05* 2025 Intel Artificial Intelligence Innovation Application Competition - Semi-Finalist
-- *2023.06* The Phi Tau Phi Scholastic Honor Society of the Republic of China Honorary Membership (Top 1% in the school during undergraduate)
-- *2023.06* 2023 Synopsys ARC AIoT Design Contest Award – Finalist
-- *2023.02* Undergraduate Research Fellowship
-- *2023.01* 2022 Intel DevCup x OpenVINO Toolkit Award – Finalist
-- *2022.01* 2021 Intel DevCup x OpenVINO Toolkit Award –  Second Place
+<div style="margin-top: 1rem;">
+
+<div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 10px;">
+  <span style="background: #dbeafe; color: #1e40af; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px; display: inline-block; margin-bottom: 7px;">Oct 2025</span>
+  <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;">🏆 Outstanding Paper Award</div>
+  <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">National Taiwan University, Graduate Institute of Biomedical Electronics and Bioinformatics. Thesis published in a JCR top 15% journal; awarded a $340 USD scholarship.</div>
+</div>
+
+<div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 10px;">
+  <span style="background: #dcfce7; color: #166534; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px; display: inline-block; margin-bottom: 7px;">May 2025</span>
+  <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;">🥈 Intel AI Innovation Application Competition — Semi-Finalist</div>
+  <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">2025 national-level competition hosted by Intel Taiwan. Selected as a semi-finalist for a medical imaging AI application.</div>
+</div>
+
+<div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 10px;">
+  <span style="background: #fef9c3; color: #854d0e; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px; display: inline-block; margin-bottom: 7px;">Jun 2023</span>
+  <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;">🎓 Phi Tau Phi Scholastic Honor Society — Honorary Membership</div>
+  <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">The Phi Tau Phi Scholastic Honor Society of the Republic of China. Awarded to the top 1% of students across the university during undergraduate studies.</div>
+</div>
+
+<div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 10px;">
+  <span style="background: #dcfce7; color: #166534; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px; display: inline-block; margin-bottom: 7px;">Jun 2023</span>
+  <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;">🥉 Synopsys ARC AIoT Design Contest — Finalist</div>
+  <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">2023 international embedded AI design competition. Recognized as a finalist for an AIoT system design project.</div>
+</div>
+
+<div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 10px;">
+  <span style="background: #fce7f3; color: #9d174d; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px; display: inline-block; margin-bottom: 7px;">Feb 2023</span>
+  <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;">📚 Undergraduate Research Fellowship</div>
+  <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">Competitive fellowship awarded to outstanding undergraduate researchers at National Yang Ming Chiao Tung University to support independent research projects.</div>
+</div>
+
+<div id="awards-extra" style="display:none;">
+
+<div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 10px;">
+  <span style="background: #dcfce7; color: #166534; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px; display: inline-block; margin-bottom: 7px;">Jan 2023</span>
+  <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;">🥉 Intel DevCup × OpenVINO Toolkit Award — Finalist</div>
+  <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">2022 Intel DevCup competition. Selected as a finalist for a real-time inference application built with the OpenVINO toolkit.</div>
+</div>
+
+<div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 10px;">
+  <span style="background: #fef9c3; color: #854d0e; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px; display: inline-block; margin-bottom: 7px;">Jan 2022</span>
+  <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;">🥈 Intel DevCup × OpenVINO Toolkit Award — Second Place</div>
+  <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">2021 Intel DevCup competition. Achieved second place for an edge AI application leveraging Intel's OpenVINO framework for accelerated inference.</div>
+</div>
+
+</div>
+
+<button onclick="var e=document.getElementById('awards-extra');var b=this;if(e.style.display==='none'){e.style.display='block';b.textContent='▲ Show less';}else{e.style.display='none';b.textContent='▼ Show 2 more awards';}" style="background: none; border: 1px solid #cbd5e1; border-radius: 6px; padding: 5px 14px; font-size: 0.85em; color: #475569; cursor: pointer; margin-top: 4px;">▼ Show 2 more awards</button>
+
+</div>
 
 # 🌏 Web visitors
 <!-- Visitor map (inside body) -->
