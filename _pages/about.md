@@ -253,45 +253,66 @@ You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). I
 <div style="margin-top: 1rem;">
 
 <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 10px;">
-  <span style="background: #dbeafe; color: #1e40af; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px; display: inline-block; margin-bottom: 7px;">Oct 2025</span>
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 7px;">
+    <span style="background: #dbeafe; color: #1e40af; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px;">Oct 2025</span>
+    <span style="font-size: 0.78em; color: #94a3b8;">🏛 National Taiwan University</span>
+  </div>
   <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;">🏆 Outstanding Paper Award</div>
-  <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">National Taiwan University, Graduate Institute of Biomedical Electronics and Bioinformatics. Thesis published in a JCR top 15% journal; awarded a $340 USD scholarship.</div>
+  <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">Thesis published in a JCR top 15% journal; awarded a $340 USD scholarship.</div>
 </div>
 
 <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 10px;">
-  <span style="background: #dcfce7; color: #166534; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px; display: inline-block; margin-bottom: 7px;">May 2025</span>
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 7px;">
+    <span style="background: #dcfce7; color: #166534; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px;">May 2025</span>
+    <span style="font-size: 0.78em; color: #94a3b8;">🏛 Intel Taiwan</span>
+  </div>
   <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;">🥈 Intel AI Innovation Application Competition — Semi-Finalist</div>
-  <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">2025 national-level competition hosted by Intel Taiwan. Selected as a semi-finalist for a medical imaging AI application.</div>
+  <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">National-level competition hosted by Intel Taiwan. Selected as a semi-finalist for a medical imaging AI application.</div>
 </div>
 
 <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 10px;">
-  <span style="background: #fef9c3; color: #854d0e; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px; display: inline-block; margin-bottom: 7px;">Jun 2023</span>
-  <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;">🎓 Phi Tau Phi Scholastic Honor Society — Honorary Membership</div>
-  <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">The Phi Tau Phi Scholastic Honor Society of the Republic of China. Awarded to the top 1% of students across the university during undergraduate studies.</div>
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 7px;">
+    <span style="background: #fef9c3; color: #854d0e; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px;">Jun 2023</span>
+    <span style="font-size: 0.78em; color: #94a3b8;">🏛 Phi Tau Phi Scholastic Honor Society</span>
+  </div>
+  <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;">🎓 Phi Tau Phi — Honorary Membership</div>
+  <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">Awarded to the top 1% of students across the university during undergraduate studies.</div>
 </div>
 
 <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 10px;">
-  <span style="background: #dcfce7; color: #166534; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px; display: inline-block; margin-bottom: 7px;">Jun 2023</span>
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 7px;">
+    <span style="background: #dcfce7; color: #166534; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px;">Jun 2023</span>
+    <span style="font-size: 0.78em; color: #94a3b8;">🏛 Synopsys</span>
+  </div>
   <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;">🥉 Synopsys ARC AIoT Design Contest — Finalist</div>
-  <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">2023 international embedded AI design competition. Recognized as a finalist for an AIoT system design project.</div>
+  <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">International embedded AI design competition. Recognized as a finalist for an AIoT system design project.</div>
 </div>
 
 <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 10px;">
-  <span style="background: #fce7f3; color: #9d174d; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px; display: inline-block; margin-bottom: 7px;">Feb 2023</span>
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 7px;">
+    <span style="background: #fce7f3; color: #9d174d; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px;">Feb 2023</span>
+    <span style="font-size: 0.78em; color: #94a3b8;">🏛 National Yang Ming Chiao Tung University</span>
+  </div>
   <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;">📚 Undergraduate Research Fellowship</div>
-  <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">Competitive fellowship awarded to outstanding undergraduate researchers at National Yang Ming Chiao Tung University to support independent research projects.</div>
+  <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">Competitive fellowship awarded to outstanding undergraduate researchers to support independent research projects.</div>
 </div>
 
 <div id="awards-extra" style="display:none;">
 
 <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 10px;">
-  <span style="background: #dcfce7; color: #166534; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px; display: inline-block; margin-bottom: 7px;">Jan 2023</span>
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 7px;">
+    <span style="background: #dcfce7; color: #166534; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px;">Jan 2023</span>
+    <span style="font-size: 0.78em; color: #94a3b8;">🏛 Intel Corporation</span>
+  </div>
   <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;">🥉 Intel DevCup × OpenVINO Toolkit Award — Finalist</div>
   <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">2022 Intel DevCup competition. Selected as a finalist for a real-time inference application built with the OpenVINO toolkit.</div>
 </div>
 
 <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 10px;">
-  <span style="background: #fef9c3; color: #854d0e; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px; display: inline-block; margin-bottom: 7px;">Jan 2022</span>
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 7px;">
+    <span style="background: #fef9c3; color: #854d0e; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px;">Jan 2022</span>
+    <span style="font-size: 0.78em; color: #94a3b8;">🏛 Intel Corporation</span>
+  </div>
   <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;">🥈 Intel DevCup × OpenVINO Toolkit Award — Second Place</div>
   <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">2021 Intel DevCup competition. Achieved second place for an edge AI application leveraging Intel's OpenVINO framework for accelerated inference.</div>
 </div>
