@@ -252,83 +252,112 @@ You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). I
 # 🎖 Honors and Awards
 <div style="margin-top: 1rem;">
 
+<!-- 2025 = blue: #dbeafe / #1e40af | 2024 = purple: #ede9fe / #5b21b6 | 2023 = green: #dcfce7 / #166534 | 2022 = orange: #ffedd5 / #9a3412 -->
+
 <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 10px;">
   <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 7px;">
     <span style="background: #dbeafe; color: #1e40af; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px;">Oct 2025</span>
-    <span style="font-size: 0.78em; color: #94a3b8;"> National Taiwan University</span>
+    <span style="font-size: 0.78em; color: #94a3b8;">🏛 National Taiwan University</span>
   </div>
-  <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;"> Outstanding Paper Award</div>
+  <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;">🏆 Outstanding Paper Award</div>
   <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">Thesis published in a journal ranked in the top 15% by JCR and awarded a $340 USD scholarship.</div>
 </div>
 
 <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 10px;">
   <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 7px;">
     <span style="background: #dbeafe; color: #1e40af; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px;">Oct 2025</span>
-    <span style="font-size: 0.78em; color: #94a3b8;"> National Taiwan University</span>
+    <span style="font-size: 0.78em; color: #94a3b8;">🏛 National Taiwan University</span>
   </div>
-  <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;"> International Conference Travel Grant</div>
+  <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;">✈️ International Conference Travel Grant</div>
   <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">Received $550 USD to present at the Radiological Society of North America Annual Meeting (RSNA 2025).</div>
 </div>
 
 <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 10px;">
   <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 7px;">
-    <span style="background: #dcfce7; color: #166534; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px;">May 2025</span>
-    <span style="font-size: 0.78em; color: #94a3b8;"> Intel Greater Bay Area Innovation Center, China</span>
+    <span style="background: #dbeafe; color: #1e40af; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px;">Jun 2025</span>
+    <span style="font-size: 0.78em; color: #94a3b8;">🏛 National Taiwan University</span>
   </div>
-  <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;"> 2025 Intel AI Innovation Application Competition - Semi-Finalist</div>
+  <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;">🎓 Graduate Student Research Scholarship</div>
+  <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">Awarded $1,200 USD to support AI in medical imaging research.</div>
+</div>
+
+<div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 10px;">
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 7px;">
+    <span style="background: #dbeafe; color: #1e40af; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px;">May 2025</span>
+    <span style="font-size: 0.78em; color: #94a3b8;">🏛 Intel Greater Bay Area Innovation Center</span>
+  </div>
+  <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;">🥈 2025 Intel AI Innovation Application Competition — Semi-Finalist</div>
   <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">Recognized for Graph Neural Network application in decision making on Intel AI PCs.</div>
 </div>
 
 <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 10px;">
   <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 7px;">
-    <span style="background: #fef9c3; color: #854d0e; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px;">July 2023</span>
-    <span style="font-size: 0.78em; color: #94a3b8;"> The Phi Tau Phi Scholastic Honor Society of the Republic of China, Taiwan</span>
+    <span style="background: #ede9fe; color: #5b21b6; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px;">Nov 2024</span>
+    <span style="font-size: 0.78em; color: #94a3b8;">🏛 National Science and Technology Council (NSTC), Taiwan</span>
   </div>
-  <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;"> Phi Tau Phi Honorary Membership</div>
-  <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">Awarded to the top 1% of graduating students for academic excellence.</div>
-</div>
-
-<div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 10px;">
-  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 7px;">
-    <span style="background: #dcfce7; color: #166534; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px;">Jun 2023</span>
-    <span style="font-size: 0.78em; color: #94a3b8;"> Synopsys, Taiwan</span>
-  </div>
-  <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;"> Synopsys ARC AIoT Design Contest – Finalist</div>
-  <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">Finalist for super-resolution imaging utilizing deep learning on Synopsys ARC EM9D Processors.</div>
-</div>
-
-<div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 10px;">
-  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 7px;">
-    <span style="background: #fce7f3; color: #9d174d; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px;">Feb 2023</span>
-    <span style="font-size: 0.78em; color: #94a3b8;"> Ministry of Science and Technology (MOST), Taiwan</span>
-  </div>
-  <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;"> Undergraduate Research Fellowship</div>
-  <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">Awarded $1,510 USD research grant for generative AI in non-linear optical microscopy.</div>
+  <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;">✈️ International Conference Travel Grant</div>
+  <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">Received $1,250 USD to present at the 24th IEEE BIBE Conference.</div>
 </div>
 
 <div id="awards-extra" style="display:none;">
 
 <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 10px;">
   <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 7px;">
-    <span style="background: #dcfce7; color: #166534; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px;">Jan 2023</span>
-    <span style="font-size: 0.78em; color: #94a3b8;"> Intel Corporation, Taiwan</span>
+    <span style="background: #ede9fe; color: #5b21b6; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px;">Aug 2024</span>
+    <span style="font-size: 0.78em; color: #94a3b8;">🏛 The University of Hong Kong</span>
   </div>
-  <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;"> 2022 Intel DevCup x OpenVINO Toolkit Award – Finalist</div>
-  <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">Achieved Finalist status for a project employing deep learning with the Intel OpenVINO Toolkit for edge computing applications in microscopic image generation.</div>
+  <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;">🔬 Summer Research Scholarship</div>
+  <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">Awarded $2,570 USD for participation in the highly competitive 2024 HKU Summer Research Program.</div>
 </div>
 
 <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 10px;">
   <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 7px;">
-    <span style="background: #fef9c3; color: #854d0e; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px;">Jan 2022</span>
-    <span style="font-size: 0.78em; color: #94a3b8;"> Intel Corporation, Taiwan</span>
+    <span style="background: #dcfce7; color: #166534; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px;">Jul 2023</span>
+    <span style="font-size: 0.78em; color: #94a3b8;">🏛 Phi Tau Phi Scholastic Honor Society of the Republic of China</span>
   </div>
-  <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;"> 2021 Intel DevCup x OpenVINO Toolkit Award – Second Place</div>
-  <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">Secured 2nd Place ($1,200 USD) for edge computing prediction of Hemochromatosis using ECG/GWAS data.</div>
+  <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;">🎓 Phi Tau Phi — Honorary Membership</div>
+  <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">Awarded to the top 1% of graduating students for academic excellence.</div>
+</div>
+
+<div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 10px;">
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 7px;">
+    <span style="background: #dcfce7; color: #166534; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px;">Jun 2023</span>
+    <span style="font-size: 0.78em; color: #94a3b8;">🏛 Synopsys, Taiwan</span>
+  </div>
+  <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;">🥉 2023 Synopsys ARC AIoT Design Contest — Finalist</div>
+  <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">Finalist for super-resolution imaging utilizing deep learning on Synopsys ARC EM9D Processors.</div>
+</div>
+
+<div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 10px;">
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 7px;">
+    <span style="background: #dcfce7; color: #166534; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px;">Feb 2023</span>
+    <span style="font-size: 0.78em; color: #94a3b8;">🏛 Ministry of Science and Technology (MOST), Taiwan</span>
+  </div>
+  <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;">📚 Undergraduate Research Fellowship</div>
+  <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">Awarded $1,510 USD research grant for generative AI in non-linear optical microscopy.</div>
+</div>
+
+<div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 10px;">
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 7px;">
+    <span style="background: #dcfce7; color: #166534; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px;">Feb 2023</span>
+    <span style="font-size: 0.78em; color: #94a3b8;">🏛 Intel Corporation, Taiwan</span>
+  </div>
+  <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;">🥉 2022 Intel DevCup × OpenVINO Toolkit Award — Finalist</div>
+  <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">Finalist for a deep learning project using Intel OpenVINO Toolkit for edge computing applications in microscopic image generation.</div>
+</div>
+
+<div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 10px;">
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 7px;">
+    <span style="background: #ffedd5; color: #9a3412; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px;">Jan 2022</span>
+    <span style="font-size: 0.78em; color: #94a3b8;">🏛 Intel Corporation, Taiwan</span>
+  </div>
+  <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;">🥈 2021 Intel DevCup × OpenVINO Toolkit Award — Second Place</div>
+  <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">Secured 2nd place ($1,200 USD) for edge computing prediction of Hemochromatosis using ECG/GWAS data.</div>
 </div>
 
 </div>
 
-<button onclick="var e=document.getElementById('awards-extra');var b=this;if(e.style.display==='none'){e.style.display='block';b.textContent='▲ Show less';}else{e.style.display='none';b.textContent='▼ Show 2 more awards';}" style="background: none; border: 1px solid #cbd5e1; border-radius: 6px; padding: 5px 14px; font-size: 0.85em; color: #475569; cursor: pointer; margin-top: 4px;">▼ Show 2 more awards</button>
+<button onclick="var e=document.getElementById('awards-extra');var b=this;if(e.style.display==='none'){e.style.display='block';b.textContent='▲ Show less';}else{e.style.display='none';b.textContent='▼ Show 6 more awards';}" style="background: none; border: 1px solid #cbd5e1; border-radius: 6px; padding: 5px 14px; font-size: 0.85em; color: #475569; cursor: pointer; margin-top: 4px;">▼ Show 6 more awards</button>
 
 </div>
 
