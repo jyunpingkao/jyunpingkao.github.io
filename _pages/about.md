@@ -251,10 +251,90 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 
 # 📄 Academic Service
 
-**Journal Reviewer**:  **[IEEE Journal of Biomedical and Health Informatics](https://www.embs.org/jbhi/)**, **[Artificial Intelligence In Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine)**, **[Computerized Medical Imaging and Graphics](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics)**, **[International Journal of Medical Informatics](https://www.sciencedirect.com/journal/international-journal-of-medical-informatics)**, **[Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control)**, **[Journal of Imaging Informatics in Medicine](https://link.springer.com/journal/10278)**, **[Heliyon](https://www.cell.com/heliyon/home)**, **[APSIPA Transactions on Signal and Information Processing](https://www.nowpublishers.com/SIP)**, **[Clinical Radiology](https://www.clinicalradiologyonline.net/)**.
+<div class="academic-service-section" style="margin-top: 1rem;">
 
-**Conference Reviewer**: **[IEEE ICIP 2026](https://2026.ieeeicip.org/)** ,**[IEEE EMBC 2026](https://embc.embs.org/2026/?gad_source=1&gad_campaignid=14079357780&gbraid=0AAAAABPRV5S374lGfOI7xANIQE-g0CSHa&gclid=Cj0KCQjwlerQBhDMARIsAB16H-XFsYsNZYs05pSEHcR-TwYLipIyjZ5ShTPqn9firy5z4C-nUXdNYIEaAnwbEALw_wcB)**, **[MIDL 2026](https://2026.midl.io/)**, **[IEEE ISBI 2026](https://biomedicalimaging.org/2026/)**, **[AMIA 2026](https://amia.org/education-events/amplify-informatics-conference)**, **[IEEE EMBC 2025](https://embc.embs.org/2025/)**, **[IEEE ICSPC 2025](https://www.asprg.net/cms/conference.php?conf_id=c986860c-0552-4685-9c31-e54a3aaa96b1)**.  
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 12px; margin-bottom: 1.25rem;">
 
+  <div style="background: linear-gradient(135deg, #f8fafc, #eef2ff); border: 1px solid #e2e8f0; border-radius: 14px; padding: 1rem 1.15rem;">
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; align-items: center;">
+      <div>
+        <div style="font-size: 1.45em; font-weight: 700; color: #1e293b; margin-bottom: 2px;">9+</div>
+        <div style="font-size: 0.9em; color: #64748b;">Journal reviewer roles</div>
+      </div>
+      <div style="border-left: 1px solid #c7d2fe; padding-left: 12px;">
+        <div style="font-size: 1.45em; font-weight: 700; color: #1e293b; margin-bottom: 2px;">80+</div>
+        <div style="font-size: 0.9em; color: #64748b;">Journal papers reviewed</div>
+      </div>
+    </div>
+  </div>
+
+  <div style="background: linear-gradient(135deg, #f8fafc, #ecfdf5); border: 1px solid #e2e8f0; border-radius: 14px; padding: 1rem 1.15rem;">
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; align-items: center;">
+      <div>
+        <div style="font-size: 1.45em; font-weight: 700; color: #1e293b; margin-bottom: 2px;">7+</div>
+        <div style="font-size: 0.9em; color: #64748b;">Conference reviewer roles</div>
+      </div>
+      <div style="border-left: 1px solid #bbf7d0; padding-left: 12px;">
+        <div style="font-size: 1.45em; font-weight: 700; color: #1e293b; margin-bottom: 2px;">20+</div>
+        <div style="font-size: 0.9em; color: #64748b;">Conference papers reviewed</div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+    <div style="background: linear-gradient(135deg, #f8fafc, #ecfdf5); border: 1px solid #e2e8f0; border-radius: 14px; padding: 1rem 1.15rem;">
+      <div style="font-size: 1.45em; font-weight: 700; color: #1e293b; margin-bottom: 2px;">7+</div>
+      <div style="font-size: 0.9em; color: #64748b;">Conference reviewer roles</div>
+    </div>
+  </div>
+
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px;">
+
+    <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 16px; padding: 1.15rem 1.25rem; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);">
+      <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 12px;">
+        <span style="font-size: 1.25em;">📚</span>
+        <div>
+          <div style="font-size: 1.02em; font-weight: 700; color: #1e293b;">Journal Reviewer</div>
+          <div style="font-size: 0.82em; color: #94a3b8;">Medical AI · Imaging · Informatics</div>
+        </div>
+      </div>
+
+      <div style="display: flex; flex-wrap: wrap; gap: 8px; line-height: 1.5;">
+        <a href="https://www.embs.org/jbhi/" target="_blank" style="text-decoration: none; background: #eef2ff; color: #3730a3; border: 1px solid #c7d2fe; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">IEEE JBHI</a>
+        <a href="https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine" target="_blank" style="text-decoration: none; background: #f0fdf4; color: #166534; border: 1px solid #bbf7d0; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">AI in Medicine</a>
+        <a href="https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics" target="_blank" style="text-decoration: none; background: #f0f9ff; color: #075985; border: 1px solid #bae6fd; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">CMIG</a>
+        <a href="https://www.sciencedirect.com/journal/international-journal-of-medical-informatics" target="_blank" style="text-decoration: none; background: #f8fafc; color: #334155; border: 1px solid #cbd5e1; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">IJMI</a>
+        <a href="https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control" target="_blank" style="text-decoration: none; background: #fefce8; color: #854d0e; border: 1px solid #fde68a; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">BSPC</a>
+        <a href="https://link.springer.com/journal/10278" target="_blank" style="text-decoration: none; background: #fff7ed; color: #9a3412; border: 1px solid #fed7aa; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">JIIM</a>
+        <a href="https://www.cell.com/heliyon/home" target="_blank" style="text-decoration: none; background: #fdf2f8; color: #9d174d; border: 1px solid #fbcfe8; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">Heliyon</a>
+        <a href="https://www.nowpublishers.com/SIP" target="_blank" style="text-decoration: none; background: #f5f3ff; color: #5b21b6; border: 1px solid #ddd6fe; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">APSIPA TSIP</a>
+        <a href="https://www.clinicalradiologyonline.net/" target="_blank" style="text-decoration: none; background: #f8fafc; color: #334155; border: 1px solid #cbd5e1; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">Clinical Radiology</a>
+      </div>
+    </div>
+
+    <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 16px; padding: 1.15rem 1.25rem; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);">
+      <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 12px;">
+        <span style="font-size: 1.25em;">🎤</span>
+        <div>
+          <div style="font-size: 1.02em; font-weight: 700; color: #1e293b;">Conference Reviewer</div>
+          <div style="font-size: 0.82em; color: #94a3b8;">Biomedical imaging · Signal processing · Health informatics</div>
+        </div>
+      </div>
+
+      <div style="display: flex; flex-wrap: wrap; gap: 8px; line-height: 1.5;">
+        <a href="https://2026.ieeeicip.org/" target="_blank" style="text-decoration: none; background: #eef2ff; color: #3730a3; border: 1px solid #c7d2fe; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">IEEE ICIP 2026</a>
+        <a href="https://embc.embs.org/2026/" target="_blank" style="text-decoration: none; background: #f0fdf4; color: #166534; border: 1px solid #bbf7d0; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">IEEE EMBC 2026</a>
+        <a href="https://2026.midl.io/" target="_blank" style="text-decoration: none; background: #f0f9ff; color: #075985; border: 1px solid #bae6fd; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">MIDL 2026</a>
+        <a href="https://biomedicalimaging.org/2026/" target="_blank" style="text-decoration: none; background: #fff7ed; color: #9a3412; border: 1px solid #fed7aa; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">IEEE ISBI 2026</a>
+        <a href="https://amia.org/education-events/amplify-informatics-conference" target="_blank" style="text-decoration: none; background: #fdf2f8; color: #9d174d; border: 1px solid #fbcfe8; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">AMIA 2026</a>
+        <a href="https://embc.embs.org/2025/" target="_blank" style="text-decoration: none; background: #f8fafc; color: #334155; border: 1px solid #cbd5e1; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">IEEE EMBC 2025</a>
+        <a href="https://www.asprg.net/cms/conference.php?conf_id=c986860c-0552-4685-9c31-e54a3aaa96b1" target="_blank" style="text-decoration: none; background: #fefce8; color: #854d0e; border: 1px solid #fde68a; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">IEEE ICSPC 2025</a>
+      </div>
+    </div>
+
+  </div>
+</div>
 # 🎖 Honors and Awards
 <div style="margin-top: 1rem;">
 
