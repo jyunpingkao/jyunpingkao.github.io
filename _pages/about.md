@@ -226,6 +226,82 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 - *2019.09 - 2023.08*, BS in Electronics and Electrical Engineering (Double Major) &  BS in Digital Healthcare (Double Major), National Yang Ming Chiao Tung University, Taiwan
   - **Awards: Phi Tau Phi Awards (Top 1 % student in the school)**
 
+# 🎓 Education
+
+<div class="education-section" style="margin-top: 1rem;">
+
+  <div style="position: relative; margin-left: 4px;">
+
+```
+<!-- USC -->
+<div style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #991b1b; border-radius: 14px; padding: 1.05rem 1.2rem; margin-bottom: 12px; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);">
+  <div style="display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 8px;">
+    <span style="background: #fee2e2; color: #991b1b; font-size: 0.78em; font-weight: 700; padding: 3px 10px; border-radius: 999px;">2026.08 – Present</span>
+    <span style="font-size: 0.8em; color: #94a3b8;">🇺🇸 University of Southern California</span>
+  </div>
+
+  <div style="font-size: 1.02em; font-weight: 700; color: #1e293b; line-height: 1.45; margin-bottom: 4px;">
+    Ph.D. in Electrical and Computer Engineering
+  </div>
+
+  <div style="font-size: 0.9em; color: #64748b; line-height: 1.6;">
+    Department of Electrical and Computer Engineering, University of Southern California, United States
+  </div>
+
+  <div style="display: flex; flex-wrap: wrap; gap: 7px; margin-top: 10px;">
+    <span style="background: #fef2f2; color: #991b1b; border: 1px solid #fecaca; padding: 3px 9px; border-radius: 999px; font-size: 0.78em; font-weight: 600;">Incoming PhD Student</span>
+    <span style="background: #f8fafc; color: #475569; border: 1px solid #cbd5e1; padding: 3px 9px; border-radius: 999px; font-size: 0.78em; font-weight: 600;">ECE</span>
+  </div>
+</div>
+
+<!-- NTU -->
+<div style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #1e40af; border-radius: 14px; padding: 1.05rem 1.2rem; margin-bottom: 12px; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);">
+  <div style="display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 8px;">
+    <span style="background: #dbeafe; color: #1e40af; font-size: 0.78em; font-weight: 700; padding: 3px 10px; border-radius: 999px;">2023.08 – 2026.01</span>
+    <span style="font-size: 0.8em; color: #94a3b8;">🇹🇼 National Taiwan University</span>
+  </div>
+
+  <div style="font-size: 1.02em; font-weight: 700; color: #1e293b; line-height: 1.45; margin-bottom: 4px;">
+    M.S. in Biomedical Electronics and Bioinformatics
+  </div>
+
+  <div style="font-size: 0.9em; color: #64748b; line-height: 1.6;">
+    Graduate Institute of Biomedical Electronics and Bioinformatics, National Taiwan University, Taiwan
+  </div>
+
+  <div style="display: flex; flex-wrap: wrap; gap: 7px; margin-top: 10px;">
+    <span style="background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe; padding: 3px 9px; border-radius: 999px; font-size: 0.78em; font-weight: 600;">GPA: 4.3 / 4.3</span>
+    <span style="background: #f0fdf4; color: #166534; border: 1px solid #bbf7d0; padding: 3px 9px; border-radius: 999px; font-size: 0.78em; font-weight: 600;">Ranked 1 / 62</span>
+    <span style="background: #fff7ed; color: #9a3412; border: 1px solid #fed7aa; padding: 3px 9px; border-radius: 999px; font-size: 0.78em; font-weight: 600;">Outstanding Paper Award</span>
+  </div>
+</div>
+
+<!-- NYCU -->
+<div style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #7c3aed; border-radius: 14px; padding: 1.05rem 1.2rem; margin-bottom: 12px; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);">
+  <div style="display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 8px;">
+    <span style="background: #ede9fe; color: #5b21b6; font-size: 0.78em; font-weight: 700; padding: 3px 10px; border-radius: 999px;">2019.09 – 2023.08</span>
+    <span style="font-size: 0.8em; color: #94a3b8;">🇹🇼 National Yang Ming Chiao Tung University</span>
+  </div>
+
+  <div style="font-size: 1.02em; font-weight: 700; color: #1e293b; line-height: 1.45; margin-bottom: 4px;">
+    B.S. in Electronics and Electrical Engineering &amp; B.S. in Digital Healthcare
+  </div>
+
+  <div style="font-size: 0.9em; color: #64748b; line-height: 1.6;">
+    Dual bachelor’s degrees, National Yang Ming Chiao Tung University, Taiwan
+  </div>
+
+  <div style="display: flex; flex-wrap: wrap; gap: 7px; margin-top: 10px;">
+    <span style="background: #f5f3ff; color: #5b21b6; border: 1px solid #ddd6fe; padding: 3px 9px; border-radius: 999px; font-size: 0.78em; font-weight: 600;">Double Major</span>
+    <span style="background: #f0fdf4; color: #166534; border: 1px solid #bbf7d0; padding: 3px 9px; border-radius: 999px; font-size: 0.78em; font-weight: 600;">Top 1%</span>
+    <span style="background: #fff7ed; color: #9a3412; border: 1px solid #fed7aa; padding: 3px 9px; border-radius: 999px; font-size: 0.78em; font-weight: 600;">Phi Tau Phi Award</span>
+  </div>
+</div>
+```
+
+  </div>
+
+</div>
 
 
 # 🔬 Research Experience
