@@ -30,14 +30,9 @@ My research interests include Medical AI, Computer Vision, Bioengineering, and B
 
 You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:jjpkao@gmail.com) **(jjpkao@gmail.com)**.
 
-<div style="margin-top: 0.75rem;">
-  <a href="../assets/CV.pdf" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/📄_Curriculum_Vitae-1e40af?style=for-the-badge&logoColor=white" alt="CV" style="border-radius: 4px;">
-  </a>
-  <a href="mailto:jjpkao@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/📧_jjpkao@gmail.com-475569?style=for-the-badge&logoColor=white" alt="Email" style="border-radius: 4px;">
-  </a>
-</div>
+You can find my CV here: <a href="../assets/CV.pdf" target="_blank" style="background-color: #e0e7ff; color: #3730a3; padding: 3px 10px; border-radius: 4px; font-size: 0.95em; font-weight: 500; text-decoration: none;">📄 Jyun-Ping Kao's Curriculum Vitae</a>
+
+If you are interested in my work, please feel free to drop me an email: <a href="mailto:jjpkao@gmail.com" style="background-color: #ffedd5; color: #9a3412; padding: 3px 10px; border-radius: 4px; font-size: 0.95em; font-weight: 500; text-decoration: none;">📧 jjpkao@gmail.com</a>
 
 <hr style="margin: 2rem 0; border: none; border-top: 1px solid #e2e8f0;">
 
