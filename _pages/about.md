@@ -310,7 +310,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 
     <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 16px; padding: 1.15rem 1.25rem; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);">
       <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 12px;">
-        <span style="font-size: 1.25em;">🎤</span>
+        <span style="font-size: 1.25em;">🗞️</span>
         <div>
           <div style="font-size: 1.02em; font-weight: 700; color: #1e293b;">Conference Reviewer</div>
           <div style="font-size: 0.82em; color: #94a3b8;">Biomedical imaging · Signal processing · Health informatics</div>
