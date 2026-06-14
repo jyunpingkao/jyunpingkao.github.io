@@ -28,8 +28,6 @@ Before that, I earned dual B.S. degrees in Electronics and Electrical Engineerin
 
 My research interests include Medical AI, Computer Vision, Bioengineering, and Bioinformatics.
 
-You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:jjpkao@gmail.com) **(jjpkao@gmail.com)**.
-
 You can find my CV here: <a href="../assets/CV.pdf" target="_blank" style="background-color: #e0e7ff; color: #3730a3; padding: 3px 10px; border-radius: 4px; font-size: 0.95em; font-weight: 500; text-decoration: none;">📄 Jyun-Ping Kao's Curriculum Vitae</a>
 
 If you are interested in my work, please feel free to drop me an email: <a href="mailto:jjpkao@gmail.com" style="background-color: #ffedd5; color: #9a3412; padding: 3px 10px; border-radius: 4px; font-size: 0.95em; font-weight: 500; text-decoration: none;">📧 jjpkao@gmail.com</a>
