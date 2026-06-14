@@ -354,7 +354,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
         <span style="font-size: 1.25em;">📚</span>
         <div>
           <div style="font-size: 1.02em; font-weight: 700; color: #1e293b;">Journal Reviewer</div>
-          <div style="font-size: 0.82em; color: #94a3b8;">Medical AI · Imaging · Informatics</div>
+          <div style="font-size: 0.82em; color: #94a3b8;">Medical AI · Medical imaging · Bioinformatics</div>
         </div>
       </div>
 
@@ -377,7 +377,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
         <span style="font-size: 1.25em;">🗞️</span>
         <div>
           <div style="font-size: 1.02em; font-weight: 700; color: #1e293b;">Conference Reviewer</div>
-          <div style="font-size: 0.82em; color: #94a3b8;">Biomedical imaging · Signal processing · Health informatics</div>
+          <div style="font-size: 0.82em; color: #94a3b8;">Computer Vision · Image processing · Signal processing</div>
         </div>
       </div>
 
