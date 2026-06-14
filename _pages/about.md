@@ -30,6 +30,16 @@ My research interests include Medical AI, Computer Vision, Bioengineering, and B
 
 You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:jjpkao@gmail.com) **(jjpkao@gmail.com)**.
 
+<div style="margin-top: 0.75rem;">
+  <a href="../assets/CV.pdf" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/📄_Curriculum_Vitae-1e40af?style=for-the-badge&logoColor=white" alt="CV" style="border-radius: 4px;">
+  </a>
+  <a href="mailto:jjpkao@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/📧_jjpkao@gmail.com-475569?style=for-the-badge&logoColor=white" alt="Email" style="border-radius: 4px;">
+  </a>
+</div>
+
+<hr style="margin: 2rem 0; border: none; border-top: 1px solid #e2e8f0;">
 
 # 🔥 News
 - *2026.04*: &nbsp;New Journal Paper **[Interpretable and backpropagation-free Green Learning for efficient multi-task echocardiographic segmentation and classification](https://arxiv.org/abs/2601.19743)** Accepted by **APSIPA Transactions on Signal and Information Processing**.
