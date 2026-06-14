@@ -321,7 +321,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
   <div style="background: linear-gradient(135deg, #f8fafc, #eef2ff); border: 1px solid #e2e8f0; border-radius: 14px; padding: 1rem 1.15rem;">
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; align-items: center;">
       <div>
-        <div style="font-size: 1.45em; font-weight: 700; color: #1e293b; margin-bottom: 2px;">9+</div>
+        <div style="font-size: 1.45em; font-weight: 700; color: #1e293b; margin-bottom: 2px;">10+</div>
         <div style="font-size: 0.9em; color: #64748b;">Journal reviewer roles</div>
       </div>
       <div style="border-left: 1px solid #c7d2fe; padding-left: 12px;">
@@ -360,7 +360,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 
       <div style="display: flex; flex-wrap: wrap; gap: 8px; line-height: 1.5;">
         <a href="https://www.embs.org/jbhi/" target="_blank" style="text-decoration: none; background: #eef2ff; color: #3730a3; border: 1px solid #c7d2fe; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">IEEE JBHI</a>
-        <a href="https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine" target="_blank" style="text-decoration: none; background: #f0fdf4; color: #166534; border: 1px solid #bbf7d0; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">AI in Medicine</a>
+        <a href="https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine" target="_blank" style="text-decoration: none; background: #f0fdf4; color: #166534; border: 1px solid #bbf7d0; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">Artificial Intelligence In Medicine</a>
         <a href="https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics" target="_blank" style="text-decoration: none; background: #f0f9ff; color: #075985; border: 1px solid #bae6fd; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">CMIG</a>
         <a href="https://www.sciencedirect.com/journal/international-journal-of-medical-informatics" target="_blank" style="text-decoration: none; background: #f8fafc; color: #334155; border: 1px solid #cbd5e1; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">IJMI</a>
         <a href="https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control" target="_blank" style="text-decoration: none; background: #fefce8; color: #854d0e; border: 1px solid #fde68a; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">BSPC</a>
@@ -368,6 +368,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
         <a href="https://www.cell.com/heliyon/home" target="_blank" style="text-decoration: none; background: #fdf2f8; color: #9d174d; border: 1px solid #fbcfe8; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">Heliyon</a>
         <a href="https://www.nowpublishers.com/SIP" target="_blank" style="text-decoration: none; background: #f5f3ff; color: #5b21b6; border: 1px solid #ddd6fe; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">APSIPA TSIP</a>
         <a href="https://www.clinicalradiologyonline.net/" target="_blank" style="text-decoration: none; background: #f8fafc; color: #334155; border: 1px solid #cbd5e1; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">Clinical Radiology</a>
+        <a href="https://iopscience.iop.org/journal/2631-8695" target="_blank" style="text-decoration: none; background: #f8fafc; color: #166534; border: 1px solid #cbd5e1; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">ERX</a>
       </div>
     </div>
 
