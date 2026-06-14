@@ -439,7 +439,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 
 
 <button onclick="var e=document.getElementById('awards-extra');var b=this;if(e.style.display==='none'){e.style.display='block';b.textContent='▲ Show less';}else{e.style.display='none';b.textContent='▼ Show 6 more awards';}" style="background: none; border: 1px solid #cbd5e1; border-radius: 6px; padding: 5px 14px; font-size: 0.85em; color: #475569; cursor: pointer; margin-top: 4px;">▼ Show 6 more awards</button>
-
+</div>
 </div>
 
 # 🌏 Web visitors
