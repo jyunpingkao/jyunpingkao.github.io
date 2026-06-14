@@ -227,6 +227,47 @@ If you are interested in my work, please feel free to drop me an email: <a href=
   - **Awards: Phi Tau Phi Awards (Top 1 % student in the school)**
 
 
+# 📖 Educations2
+
+<div style="margin-top: 1rem;">
+
+<div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 10px;">
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 7px;">
+    <span style="background: #dbeafe; color: #1e40af; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px;">Aug 2026 – Present</span>
+    <span style="font-size: 0.78em; color: #94a3b8;">🏛 University of Southern California, United States</span>
+  </div>
+  <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;">🎓 PhD in Electrical and Computer Engineering</div>
+  <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">Incoming PhD student, supervised by Prof. C.-C. Jay Kuo.</div>
+</div>
+
+<div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 10px;">
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 7px;">
+    <span style="background: #ede9fe; color: #5b21b6; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px;">Sep 2023 – Jan 2026</span>
+    <span style="font-size: 0.78em; color: #94a3b8;">🏛 National Taiwan University, Taiwan</span>
+  </div>
+  <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;">🎓 MS in Biomedical Electronics and Bioinformatics</div>
+  <div style="font-size: 0.88em; color: #64748b; line-height: 1.6; margin-bottom: 8px;">Graduate Institute of Biomedical Electronics and Bioinformatics, co-supervised by Prof. Chung-Ping Chen and Prof. Wen-Shiang Chen.</div>
+  <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+    <span style="background-color: #e0e7ff; color: #3730a3; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">GPA: 4.3/4.3 (Rank: 1/62)</span>
+    <span style="background-color: #ffedd5; color: #9a3412; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">🏆 Outstanding Paper Award</span>
+  </div>
+</div>
+
+<div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 10px;">
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 7px;">
+    <span style="background: #dcfce7; color: #166534; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px;">Sep 2019 – Jun 2023</span>
+    <span style="font-size: 0.78em; color: #94a3b8;">🏛 National Yang Ming Chiao Tung University, Taiwan</span>
+  </div>
+  <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;">🎓 BS in Electronics and Electrical Engineering & BS in Digital Healthcare (Double Major)</div>
+  <div style="font-size: 0.88em; color: #64748b; line-height: 1.6; margin-bottom: 8px;">Dual bachelor's degree program, Taipei & Hsinchu, Taiwan.</div>
+  <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+    <span style="background-color: #e0e7ff; color: #3730a3; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">GPA: 3.8/4.3</span>
+    <span style="background-color: #ffedd5; color: #9a3412; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">🎓 Phi Tau Phi Honorary Membership (Top 1%)</span>
+  </div>
+</div>
+
+</div>
+
 # 🔬 Research Experience
 
 **Harvard Medical School (HMS) and Massachusetts General Hospital (MGH) · Department of Radiology | Visiting Research Student**
