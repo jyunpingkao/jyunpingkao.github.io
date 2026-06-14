@@ -213,13 +213,13 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 
 
 
-# 🎓 Education
+# 🎓 Educations
 
 <div class="education-section" style="margin-top: 1rem;">
 
   <div style="position: relative; margin-left: 4px;">
 
-```
+
 <!-- USC -->
 <div style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #991b1b; border-radius: 14px; padding: 1.05rem 1.2rem; margin-bottom: 12px; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);">
   <div style="display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 8px;">
@@ -284,7 +284,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
     <span style="background: #fff7ed; color: #9a3412; border: 1px solid #fed7aa; padding: 3px 9px; border-radius: 999px; font-size: 0.78em; font-weight: 600;">Awards: Phi Tau Phi Award</span>
   </div>
 </div>
-```
+
 
   </div>
 
