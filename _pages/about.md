@@ -24,6 +24,8 @@ Previously, I was a Visiting Research Student in the Department of Radiology at 
 
 I received my M.S. degree from the Graduate Institute of Biomedical Electronics and Bioinformatics, National Taiwan University, where I was co-supervised by Prof. [Chung-Ping Chen](https://www.ee.ntu.edu.tw/profile1.php?teacher_id=943008) and Prof. [Wen-Shiang Chen](https://www.ntuh.gov.tw/PMR/Vcard.action?q_type=-1&q_itemCode=246). 
 
+Before that, I earned dual B.S. degrees in Electronics and Electrical Engineering and in Digital Healthcare from National Yang Ming Chiao Tung University.
+
 My research interests include Medical AI, Computer Vision, Bioengineering, and Bioinformatics.
 
 You can find my CV here: [Jyun Ping Kao's Curriculum Vitae](../assets/CV.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:jjpkao@gmail.com) **(jjpkao@gmail.com)**.
