@@ -435,12 +435,12 @@ If you are interested in my work, please feel free to drop me an email: <a href=
   <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;">🥈 2021 Intel DevCup × OpenVINO Toolkit Award — Second Place</div>
   <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">Secured 2nd place ($1,200 USD) for edge computing prediction of Hemochromatosis using ECG/GWAS data.</div>
 </div>
-
+</div>
 
 
 <button onclick="var e=document.getElementById('awards-extra');var b=this;if(e.style.display==='none'){e.style.display='block';b.textContent='▲ Show less';}else{e.style.display='none';b.textContent='▼ Show 6 more awards';}" style="background: none; border: 1px solid #cbd5e1; border-radius: 6px; padding: 5px 14px; font-size: 0.85em; color: #475569; cursor: pointer; margin-top: 4px;">▼ Show 6 more awards</button>
 </div>
-</div>
+
 
 # 🌏 Web visitors
 <!-- Visitor map (inside body) -->
