@@ -35,6 +35,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 <hr style="margin: 2rem 0; border: none; border-top: 1px solid #e2e8f0;">
 
 # 🔥 News
+- *2026.06*: &nbsp;Awarded the **2026 NTUASC Foundation Scholarship**.
 - *2026.04*: &nbsp;New Journal Paper **[Interpretable and backpropagation-free Green Learning for efficient multi-task echocardiographic segmentation and classification](https://arxiv.org/abs/2601.19743)** Accepted by **APSIPA Transactions on Signal and Information Processing**.
 - *2026.04*: &nbsp;New Conference Paper **Entity-Preserving Biomedical Abstract Augmentation via Constraint-Driven Distillation** Accepted by **The Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) 2026**.
 - *2026.01*: &nbsp;New Conference Paper **[Cross-Modal Fine-Tuning of 3D Convolutional Foundation Models for ADHD Classification with Low-Rank Adaptation](https://ieeexplore.ieee.org/abstract/document/11515951)** Accepted by **IEEE International Symposium on Biomedical Imaging (ISBI) 2026**.
