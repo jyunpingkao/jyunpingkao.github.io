@@ -335,7 +335,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
   <div style="background: linear-gradient(135deg, #f8fafc, #ecfdf5); border: 1px solid #e2e8f0; border-radius: 14px; padding: 1rem 1.15rem;">
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; align-items: center;">
       <div>
-        <div style="font-size: 1.45em; font-weight: 700; color: #1e293b; margin-bottom: 2px;">7+</div>
+        <div style="font-size: 1.45em; font-weight: 700; color: #1e293b; margin-bottom: 2px;">7</div>
         <div style="font-size: 0.9em; color: #64748b;">Conference reviewer roles</div>
       </div>
       <div style="border-left: 1px solid #bbf7d0; padding-left: 12px;">
