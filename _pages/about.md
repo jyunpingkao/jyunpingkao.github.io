@@ -35,7 +35,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 <hr style="margin: 2rem 0; border: none; border-top: 1px solid #e2e8f0;">
 
 # 🔥 News
-- *2026.06*: &nbsp;Awarded the **2026 NTUASC Foundation Scholarship**.
+- *2026.06*: &nbsp; Thrilled to receive the **2026 NTUASC Foundation Scholarship!**
 - *2026.04*: &nbsp;New Journal Paper **[Interpretable and backpropagation-free Green Learning for efficient multi-task echocardiographic segmentation and classification](https://arxiv.org/abs/2601.19743)** Accepted by **APSIPA Transactions on Signal and Information Processing**.
 - *2026.04*: &nbsp;New Conference Paper **Entity-Preserving Biomedical Abstract Augmentation via Constraint-Driven Distillation** Accepted by **The Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) 2026**.
 - *2026.01*: &nbsp;New Conference Paper **[Cross-Modal Fine-Tuning of 3D Convolutional Foundation Models for ADHD Classification with Low-Rank Adaptation](https://ieeexplore.ieee.org/abstract/document/11515951)** Accepted by **IEEE International Symposium on Biomedical Imaging (ISBI) 2026**.
@@ -322,7 +322,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
   <div style="background: linear-gradient(135deg, #f8fafc, #eef2ff); border: 1px solid #e2e8f0; border-radius: 14px; padding: 1rem 1.15rem;">
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; align-items: center;">
       <div>
-        <div style="font-size: 1.45em; font-weight: 700; color: #1e293b; margin-bottom: 2px;">10+</div>
+        <div style="font-size: 1.45em; font-weight: 700; color: #1e293b; margin-bottom: 2px;">11</div>
         <div style="font-size: 0.9em; color: #64748b;">Journal reviewer roles</div>
       </div>
       <div style="border-left: 1px solid #c7d2fe; padding-left: 12px;">
@@ -370,6 +370,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
         <a href="https://www.nowpublishers.com/SIP" target="_blank" style="text-decoration: none; background: #f5f3ff; color: #5b21b6; border: 1px solid #ddd6fe; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">APSIPA TSIP</a>
         <a href="https://www.clinicalradiologyonline.net/" target="_blank" style="text-decoration: none; background: #f8fafc; color: #334155; border: 1px solid #cbd5e1; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">Clinical Radiology</a>
         <a href="https://iopscience.iop.org/journal/2631-8695" target="_blank" style="text-decoration: none; background: #f8fafc; color: #166534; border: 1px solid #cbd5e1; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">ERX</a>
+        <a href="https://journals.sagepub.com/home/dhj" target="_blank" style="text-decoration: none; background: #fff1f2; color: #9f1239; border: 1px solid #fecdd3; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">Digital Health</a>
       </div>
     </div>
 
@@ -398,7 +399,15 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 # 🎖 Honors and Awards
 <div style="margin-top: 1rem;">
 
-<!-- 2025 = blue: #dbeafe / #1e40af | 2024 = purple: #ede9fe / #5b21b6 | 2023 = green: #dcfce7 / #166534 | 2022 = orange: #ffedd5 / #9a3412 -->
+<!-- 2026 = red: #fee2e2 / #991b1b | 2025 = blue: #dbeafe / #1e40af | 2024 = purple: #ede9fe / #5b21b6 | 2023 = green: #dcfce7 / #166534 | 2022 = orange: #ffedd5 / #9a3412 -->
+<div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 10px;">
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 7px;">
+    <span style="background: #fee2e2; color: #991b1b; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px;">Jun 2026</span>
+    <span style="font-size: 0.78em; color: #94a3b8;">🏛 National Taiwan University Alumni Association of Southern California Foundation, USA</span>
+  </div>
+  <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;">🎓 NTUASC Foundation Scholarship</div>
+  <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">Awarded $2,000 USD to support graduate studies in California, selected as one of the five recipients based on academic excellence and leadership potential.</div>
+</div>
 
 <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 10px;">
   <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 7px;">
