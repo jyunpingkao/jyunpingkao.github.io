@@ -326,6 +326,70 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 
 </div>
 
+# 🔬 Research Experience
+
+<div class="education-section" style="margin-top: 1rem;">
+  <div style="position: relative; margin-left: 4px;">
+
+<!-- HMS / MGH -->
+<div style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #0f766e; border-radius: 14px; padding: 1.05rem 1.2rem; margin-bottom: 12px; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);">
+  <div style="display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 8px;">
+    <span style="background: #ccfbf1; color: #0f766e; font-size: 0.78em; font-weight: 700; padding: 3px 10px; border-radius: 999px;">2025.07 – 2026.01</span>
+    <span style="font-size: 1.02em; color: #94a3b8;">Harvard Medical School & MGH</span>
+  </div>
+  <div style="font-size: 1.02em; font-weight: 700; color: #1e293b; line-height: 1.45; margin-bottom: 4px;">
+    Visiting Research Student · Department of Radiology
+  </div>
+  <div style="font-size: 0.9em; color: #64748b; line-height: 1.6;">
+    Advised by Prof. <a href="https://researchers.mgh.harvard.edu/profile/12882709/Jonghye-Woo">Jonghye Woo</a>
+  </div>
+</div>
+
+<!-- NTUH -->
+<div style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #0369a1; border-radius: 14px; padding: 1.05rem 1.2rem; margin-bottom: 12px; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);">
+  <div style="display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 8px;">
+    <span style="background: #e0f2fe; color: #0369a1; font-size: 0.78em; font-weight: 700; padding: 3px 10px; border-radius: 999px;">2023.07 – 2025.06</span>
+    <span style="font-size: 1.02em; color: #94a3b8;">National Taiwan University Hospital</span>
+  </div>
+  <div style="font-size: 1.02em; font-weight: 700; color: #1e293b; line-height: 1.45; margin-bottom: 4px;">
+    Research Assistant · Department of Physical Medicine and Rehabilitation
+  </div>
+  <div style="font-size: 0.9em; color: #64748b; line-height: 1.6;">
+    Advised by Prof. <a href="https://www.researchgate.net/profile/Wen-Shiang-Chen">Wen-Shiang Chen</a>
+  </div>
+</div>
+
+<!-- HKU -->
+<div style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #7c3aed; border-radius: 14px; padding: 1.05rem 1.2rem; margin-bottom: 12px; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);">
+  <div style="display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 8px;">
+    <span style="background: #ede9fe; color: #5b21b6; font-size: 0.78em; font-weight: 700; padding: 3px 10px; border-radius: 999px;">2024.06 – 2024.08</span>
+    <span style="font-size: 1.02em; color: #94a3b8;">The University of Hong Kong</span>
+  </div>
+  <div style="font-size: 1.02em; font-weight: 700; color: #1e293b; line-height: 1.45; margin-bottom: 4px;">
+    Visiting Research Student · Department of Orthopaedics and Traumatology
+  </div>
+  <div style="font-size: 0.9em; color: #64748b; line-height: 1.6;">
+    Advised by Prof. <a href="https://www.ortho.hku.hk/biography/lau-chun-man-lawrence/">Chun Man Lawrence Lau</a>
+  </div>
+</div>
+
+<!-- NYCU -->
+<div style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #d97706; border-radius: 14px; padding: 1.05rem 1.2rem; margin-bottom: 12px; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);">
+  <div style="display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 8px;">
+    <span style="background: #fef3c7; color: #b45309; font-size: 0.78em; font-weight: 700; padding: 3px 10px; border-radius: 999px;">2020.07 – 2023.07</span>
+    <span style="font-size: 1.02em; color: #94a3b8;">National Yang Ming Chiao Tung University</span>
+  </div>
+  <div style="font-size: 1.02em; font-weight: 700; color: #1e293b; line-height: 1.45; margin-bottom: 4px;">
+    Undergraduate Research Student · Institute of Biophotonics
+  </div>
+  <div style="font-size: 0.9em; color: #64748b; line-height: 1.6;">
+    Advised by Prof. <a href="https://bioph.nycu.edu.tw/faculty/dr-shih-hsuan-chia-associate-professor/">Shih-Hsuan Chia</a>
+  </div>
+</div>
+
+  </div>
+</div>
+
 
 # Research Experience
 
