@@ -293,9 +293,9 @@ If you are interested in my work, please feel free to drop me an email: <a href=
   </div>
 
   <div style="display: flex; flex-wrap: wrap; gap: 7px; margin-top: 10px;">
-    <span style="background: #fef2f2; color: #991b1b; border: 1px solid #bfdbfe; padding: 3px 9px; border-radius: 999px; font-size: 0.78em; font-weight: 600;">GPA: 4.3 / 4.3</span>
-    <span style="background: #fef2f2; color: #991b1b; border: 1px solid #bbf7d0; padding: 3px 9px; border-radius: 999px; font-size: 0.78em; font-weight: 600;">Program Ranked: 1 / 62</span>
-    <span style="background: #fef2f2; color: #991b1b; border: 1px solid #fed7aa; padding: 3px 9px; border-radius: 999px; font-size: 0.78em; font-weight: 600;">Awards: Outstanding Paper Award</span>
+    <span style="background: #fef2f2; color: #991b1b; border: 1px solid #fecaca; padding: 3px 9px; border-radius: 999px; font-size: 0.78em; font-weight: 600;">GPA: 4.3 / 4.3</span>
+    <span style="background: #fef2f2; color: #991b1b; border: 1px solid #fecaca; padding: 3px 9px; border-radius: 999px; font-size: 0.78em; font-weight: 600;">Program Ranked: 1 / 62</span>
+    <span style="background: #fef2f2; color: #991b1b; border: 1px solid #fecaca; padding: 3px 9px; border-radius: 999px; font-size: 0.78em; font-weight: 600;">Awards: Outstanding Paper Award</span>
   </div>
 </div>
 
@@ -315,9 +315,9 @@ If you are interested in my work, please feel free to drop me an email: <a href=
   </div>
 
   <div style="display: flex; flex-wrap: wrap; gap: 7px; margin-top: 10px;">
-    <span style="background: #fef2f2; color: #991b1b; border: 1px solid #ddd6fe; padding: 3px 9px; border-radius: 999px; font-size: 0.78em; font-weight: 600;">Double Major</span>
-    <span style="background: #fef2f2; color: #991b1b; border: 1px solid #bbf7d0; padding: 3px 9px; border-radius: 999px; font-size: 0.78em; font-weight: 600;">Top 1 % student in the school</span>
-    <span style="background: #fef2f2; color: #991b1b; border: 1px solid #fed7aa; padding: 3px 9px; border-radius: 999px; font-size: 0.78em; font-weight: 600;">Awards: Phi Tau Phi Award</span>
+    <span style="background: #fef2f2; color: #991b1b; border: 1px solid #fecaca; padding: 3px 9px; border-radius: 999px; font-size: 0.78em; font-weight: 600;">Double Major</span>
+    <span style="background: #fef2f2; color: #991b1b; border: 1px solid #fecaca; padding: 3px 9px; border-radius: 999px; font-size: 0.78em; font-weight: 600;">Top 1 % student in the school</span>
+    <span style="background: #fef2f2; color: #991b1b; border: 1px solid #fecaca; padding: 3px 9px; border-radius: 999px; font-size: 0.78em; font-weight: 600;">Awards: Phi Tau Phi Award</span>
   </div>
 </div>
 
