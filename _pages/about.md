@@ -391,26 +391,6 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 </div>
 
 
-# Research Experience
-
-**Harvard Medical School (HMS) and Massachusetts General Hospital (MGH) · Department of Radiology | Visiting Research Student**
-- Advised by Prof. [Jonghye Woo](https://researchers.mgh.harvard.edu/profile/12882709/Jonghye-Woo)
-- July 2025 - Jan 2026
-
-**National Taiwan University Hospital (NTUH) · Department of Physical Medicine and Rehabilitation | Research Assistant**
-- Advised by Prof. [Wen-Shiang Chen](https://www.researchgate.net/profile/Wen-Shiang-Chen)
-- July 2023 - June 2025
-
-
-**The University of Hong Kong (HKU) · Department of Orthopaedics and Traumatology | Visiting Research Student**
-- Advised by Prof. [Chun Man Lawrence Lau](https://www.ortho.hku.hk/biography/lau-chun-man-lawrence/)
-- June 2024 - Aug 2024
-
-
-**National Yang Ming Chiao Tung University (NYCU) · Institute of Biophotonics | Undergraduate Research Student**
-- Advised by Prof. [Shih-Hsuan Chia](https://bioph.nycu.edu.tw/faculty/%E9%83%AD%E6%96%87%E5%A8%9F-%E6%95%99%E6%8E%88-%E6%89%80%E9%95%B7%E3%80%80dr-wen-chuan-kuo-professor-director/dr-shih-hsuan-chia-associate-professor/)
-- July 2020 - July 2023
-
 
 # Academic Service
 
