@@ -34,17 +34,8 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 
 <hr style="margin: 2rem 0; border: none; border-top: 1px solid #e2e8f0;">
 
-# 🔥 News
-- *2026.06*: &nbsp;Thrilled to receive the **2026 NTUASC Foundation Scholarship!**
-- *2026.04*: &nbsp;New Journal Paper **[Interpretable and backpropagation-free Green Learning for efficient multi-task echocardiographic segmentation and classification](https://arxiv.org/abs/2601.19743)** Accepted by **APSIPA Transactions on Signal and Information Processing**.
-- *2026.04*: &nbsp;New Conference Paper **Entity-Preserving Biomedical Abstract Augmentation via Constraint-Driven Distillation** Accepted by **The Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) 2026**.
-- *2026.01*: &nbsp;New Conference Paper **[Cross-Modal Fine-Tuning of 3D Convolutional Foundation Models for ADHD Classification with Low-Rank Adaptation](https://ieeexplore.ieee.org/abstract/document/11515951)** Accepted by **IEEE International Symposium on Biomedical Imaging (ISBI) 2026**.
-- *2025.11*: &nbsp;New Journal Paper **[A Novel Deep Learning Based Automatic Ultrasonic Posterior Cruciate Ligament Clinical Assessment Tool](https://www.nature.com/articles/s44387-025-00058-y)** Accepted by **npj Artificial Intelligence**.
-- *2025.10*: &nbsp;I received the **Outstanding Paper Award** from the Graduate Institute of Biomedical Electronics and Bioinformatics, National Taiwan University.
-- *2025.07*: &nbsp;New Conference Paper **MULTI-IMAGE MUSCULOSKELETAL ULTRASOUND INTERPRETATION USING A LARGE LANGUAGE MODEL** Accepted by **Radiological Society of North America Annual Meeting (RSNA 2025)**.
-- *2025.06*: &nbsp;New Journal Paper **[LoRA-Enhanced RT-DETR: First Low-Rank Adaptation Based DETR for Real-Time Full Body Anatomical Structures Identification in Musculoskeletal Ultrasound](https://www.sciencedirect.com/science/article/abs/pii/S0895611125000928)** Accepted by **Computerized Medical Imaging and Graphics**.
 
-# 🔥 News
+# News
 
 <ul style="list-style: none; padding: 0; margin: 0;">
 
@@ -60,12 +51,12 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 
 <li style="margin-bottom: 8px;">
   <span style="background: #fee2e2; color: #991b1b; font-size: 0.78em; font-weight: 700; padding: 2px 9px; border-radius: 5px; margin-right: 8px;">2026.04</span>
-  New Conference Paper <strong>Entity-Preserving Biomedical Abstract Augmentation...</strong> Accepted by <strong>EMBC 2026</strong>.
+  New Conference Paper <strong>Entity-Preserving Biomedical Abstract Augmentation via Constraint-Driven Distillation</strong> Accepted by <strong>EMBC 2026</strong>.
 </li>
 
 <li style="margin-bottom: 8px;">
   <span style="background: #fee2e2; color: #991b1b; font-size: 0.78em; font-weight: 700; padding: 2px 9px; border-radius: 5px; margin-right: 8px;">2026.01</span>
-  New Conference Paper <strong><a href="https://ieeexplore.ieee.org/abstract/document/11515951">Cross-Modal Fine-Tuning of 3D Convolutional Foundation Models...</a></strong> Accepted by <strong>IEEE ISBI 2026</strong>.
+  New Conference Paper <strong><a href="https://ieeexplore.ieee.org/abstract/document/11515951">Cross-Modal Fine-Tuning of 3D Convolutional Foundation Models for ADHD Classification with Low-Rank Adaptation</a></strong> Accepted by <strong>IEEE ISBI 2026</strong>.
 </li>
 
 <li style="margin-bottom: 8px;">
@@ -85,7 +76,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 
 <li style="margin-bottom: 8px;">
   <span style="background: #dbeafe; color: #1e40af; font-size: 0.78em; font-weight: 700; padding: 2px 9px; border-radius: 5px; margin-right: 8px;">2025.06</span>
-  New Journal Paper <strong><a href="https://www.sciencedirect.com/science/article/abs/pii/S0895611125000928">LoRA-Enhanced RT-DETR...</a></strong> Accepted by <strong>Computerized Medical Imaging and Graphics</strong>.
+  New Journal Paper <strong><a href="https://www.sciencedirect.com/science/article/abs/pii/S0895611125000928">LoRA-Enhanced RT-DETR: First Low-Rank Adaptation Based DETR for Real-Time Full Body Anatomical Structures Identification in Musculoskeletal Ultrasound</a></strong> Accepted by <strong>Computerized Medical Imaging and Graphics</strong>.
 </li>
 
 </ul>
@@ -93,7 +84,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 
 
 
-# 📝 Publications 
+# Publications 
 
 <div class='publication-item' style="margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 1px solid #eaeaea;">
   <div style="font-size: 1.15em; font-weight: 600; color: #2c3e50; line-height: 1.4; margin-bottom: 4px;">
@@ -258,7 +249,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 
 
 
-# 🎓 Educations
+# Educations
 
 <div class="education-section" style="margin-top: 1rem;">
 
@@ -336,7 +327,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 </div>
 
 
-# 🔬 Research Experience
+# Research Experience
 
 **Harvard Medical School (HMS) and Massachusetts General Hospital (MGH) · Department of Radiology | Visiting Research Student**
 - Advised by Prof. [Jonghye Woo](https://researchers.mgh.harvard.edu/profile/12882709/Jonghye-Woo)
@@ -357,7 +348,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 - July 2020 - July 2023
 
 
-# 📄 Academic Service
+# Academic Service
 
 <div class="academic-service-section" style="margin-top: 1rem;">
 
@@ -440,7 +431,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 
   </div>
 </div>
-# 🎖 Honors and Awards
+# Honors and Awards
 <div style="margin-top: 1rem;">
 
 <!-- 2026 = red: #fee2e2 / #991b1b | 2025 = blue: #dbeafe / #1e40af | 2024 = purple: #ede9fe / #5b21b6 | 2023 = green: #dcfce7 / #166534 | 2022 = orange: #ffedd5 / #9a3412 -->
@@ -560,7 +551,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 </div>
 
 
-# 🌏 Web visitors
+# Web visitors
 <!-- Visitor map (inside body) -->
 <div style="margin: 2rem 0; text-align:center;">
   <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=c3cYIFJomLQjROqgCVr_4Zc-bcy6OA3OvHYUNLJu3I8&cl=ffffff&w=a"></script>
