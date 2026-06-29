@@ -32,7 +32,7 @@ You can find my CV here: <a href="../assets/CV.pdf" target="_blank" style="backg
 
 If you are interested in my work, please feel free to drop me an email: <a href="mailto:jjpkao@gmail.com" style="background-color: #ffedd5; color: #9a3412; padding: 3px 10px; border-radius: 4px; font-size: 0.95em; font-weight: 500; text-decoration: none;">📧 jjpkao@gmail.com</a>
 
-<hr style="margin: 2rem 0; border: none; border-top: 1px solid #e2e8f0;">
+
 
 
 # News
