@@ -278,10 +278,10 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 </div>
 
 <!-- NTU -->
-<div style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #1e40af; border-radius: 14px; padding: 1.05rem 1.2rem; margin-bottom: 12px; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);">
+<div style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #991b1b; border-radius: 14px; padding: 1.05rem 1.2rem; margin-bottom: 12px; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);">
   <div style="display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 8px;">
-    <span style="background: #dbeafe; color: #1e40af; font-size: 0.78em; font-weight: 700; padding: 3px 10px; border-radius: 999px;">2023.08 – 2026.01</span>
-    <span style="font-size: 1.02em; color: #1e40af; font-weight: 600;">National Taiwan University</span>
+    <span style="background: #fee2e2; color: #991b1b; font-size: 0.78em; font-weight: 700; padding: 3px 10px; border-radius: 999px;">2023.08 – 2026.01</span>
+    <span style="font-size: 1.02em; color: #991b1b; font-weight: 600;">National Taiwan University</span>
   </div>
 
   <div style="font-size: 1.02em; font-weight: 700; color: #1e293b; line-height: 1.45; margin-bottom: 4px;">
@@ -300,10 +300,10 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 </div>
 
 <!-- NYCU -->
-<div style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #7c3aed; border-radius: 14px; padding: 1.05rem 1.2rem; margin-bottom: 12px; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);">
+<div style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #991b1b; border-radius: 14px; padding: 1.05rem 1.2rem; margin-bottom: 12px; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);">
   <div style="display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 8px;">
-    <span style="background: #ede9fe; color: #5b21b6; font-size: 0.78em; font-weight: 700; padding: 3px 10px; border-radius: 999px;">2019.09 – 2023.08</span>
-    <span style="font-size: 1.02em; color: #7c3aed; font-weight: 600;">National Yang Ming Chiao Tung University</span>
+    <span style="background: #fee2e2; color: #991b1b; font-size: 0.78em; font-weight: 700; padding: 3px 10px; border-radius: 999px;">2019.09 – 2023.08</span>
+    <span style="font-size: 1.02em; color: #991b1b; font-weight: 600;">National Yang Ming Chiao Tung University</span>
   </div>
 
   <div style="font-size: 1.02em; font-weight: 700; color: #1e293b; line-height: 1.45; margin-bottom: 4px;">
