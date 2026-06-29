@@ -260,7 +260,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 <div style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #991b1b; border-radius: 14px; padding: 1.05rem 1.2rem; margin-bottom: 12px; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);">
   <div style="display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 8px;">
     <span style="background: #fee2e2; color: #991b1b; font-size: 0.78em; font-weight: 700; padding: 3px 10px; border-radius: 999px;">2026.08 – Present</span>
-    <span style="font-size: 1.02em; color: #94a3b8;">University of Southern California</span>
+    <span style="font-size: 1.02em; color: #991b1b; font-weight: 600;">University of Southern California</span>
   </div>
 
   <div style="font-size: 1.02em; font-weight: 700; color: #1e293b; line-height: 1.45; margin-bottom: 4px;">
@@ -281,7 +281,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 <div style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #1e40af; border-radius: 14px; padding: 1.05rem 1.2rem; margin-bottom: 12px; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);">
   <div style="display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 8px;">
     <span style="background: #dbeafe; color: #1e40af; font-size: 0.78em; font-weight: 700; padding: 3px 10px; border-radius: 999px;">2023.08 – 2026.01</span>
-    <span style="font-size: 1.02em; color: #94a3b8;">National Taiwan University</span>
+    <span style="font-size: 1.02em; color: #1e40af; font-weight: 600;">National Taiwan University</span>
   </div>
 
   <div style="font-size: 1.02em; font-weight: 700; color: #1e293b; line-height: 1.45; margin-bottom: 4px;">
@@ -303,7 +303,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 <div style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #7c3aed; border-radius: 14px; padding: 1.05rem 1.2rem; margin-bottom: 12px; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);">
   <div style="display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 8px;">
     <span style="background: #ede9fe; color: #5b21b6; font-size: 0.78em; font-weight: 700; padding: 3px 10px; border-radius: 999px;">2019.09 – 2023.08</span>
-    <span style="font-size: 1.02em; color: #94a3b8;">National Yang Ming Chiao Tung University</span>
+    <span style="font-size: 1.02em; color: #7c3aed; font-weight: 600;">National Yang Ming Chiao Tung University</span>
   </div>
 
   <div style="font-size: 1.02em; font-weight: 700; color: #1e293b; line-height: 1.45; margin-bottom: 4px;">
@@ -335,7 +335,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 <div style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #0f766e; border-radius: 14px; padding: 1.05rem 1.2rem; margin-bottom: 12px; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);">
   <div style="display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 8px;">
     <span style="background: #ccfbf1; color: #0f766e; font-size: 0.78em; font-weight: 700; padding: 3px 10px; border-radius: 999px;">2025.07 – 2026.01</span>
-    <span style="font-size: 1.02em; color: #94a3b8;">Harvard Medical School & MGH</span>
+    <span style="font-size: 1.02em; color: #0f766e; font-weight: 600;">Harvard Medical School & MGH</span>
   </div>
   <div style="font-size: 1.02em; font-weight: 700; color: #1e293b; line-height: 1.45; margin-bottom: 4px;">
     Visiting Research Student · Department of Radiology
@@ -349,7 +349,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 <div style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #0369a1; border-radius: 14px; padding: 1.05rem 1.2rem; margin-bottom: 12px; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);">
   <div style="display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 8px;">
     <span style="background: #e0f2fe; color: #0369a1; font-size: 0.78em; font-weight: 700; padding: 3px 10px; border-radius: 999px;">2023.07 – 2025.06</span>
-    <span style="font-size: 1.02em; color: #94a3b8;">National Taiwan University Hospital</span>
+    <span style="font-size: 1.02em; color: #0369a1; font-weight: 600;">National Taiwan University Hospital</span>
   </div>
   <div style="font-size: 1.02em; font-weight: 700; color: #1e293b; line-height: 1.45; margin-bottom: 4px;">
     Research Assistant · Department of Physical Medicine and Rehabilitation
@@ -363,7 +363,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 <div style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #7c3aed; border-radius: 14px; padding: 1.05rem 1.2rem; margin-bottom: 12px; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);">
   <div style="display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 8px;">
     <span style="background: #ede9fe; color: #5b21b6; font-size: 0.78em; font-weight: 700; padding: 3px 10px; border-radius: 999px;">2024.06 – 2024.08</span>
-    <span style="font-size: 1.02em; color: #94a3b8;">The University of Hong Kong</span>
+    <span style="font-size: 1.02em; color: #7c3aed; font-weight: 600;">The University of Hong Kong</span>
   </div>
   <div style="font-size: 1.02em; font-weight: 700; color: #1e293b; line-height: 1.45; margin-bottom: 4px;">
     Visiting Research Student · Department of Orthopaedics and Traumatology
@@ -377,7 +377,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 <div style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #d97706; border-radius: 14px; padding: 1.05rem 1.2rem; margin-bottom: 12px; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);">
   <div style="display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 8px;">
     <span style="background: #fef3c7; color: #b45309; font-size: 0.78em; font-weight: 700; padding: 3px 10px; border-radius: 999px;">2020.07 – 2023.07</span>
-    <span style="font-size: 1.02em; color: #94a3b8;">National Yang Ming Chiao Tung University</span>
+    <span style="font-size: 1.02em; color: #d97706; font-weight: 600;">National Yang Ming Chiao Tung University</span>
   </div>
   <div style="font-size: 1.02em; font-weight: 700; color: #1e293b; line-height: 1.45; margin-bottom: 4px;">
     Undergraduate Research Student · Institute of Biophotonics
