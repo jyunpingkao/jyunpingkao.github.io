@@ -278,7 +278,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 </div>
 
 <!-- NTU -->
-<div style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #991b1b; border-radius: 14px; padding: 1.05rem 1.2rem; margin-bottom: 12px; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);">
+<div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 14px; padding: 1.05rem 1.2rem; margin-bottom: 12px; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);">
   <div style="display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 8px;">
     <span style="background: #fee2e2; color: #991b1b; font-size: 0.78em; font-weight: 700; padding: 3px 10px; border-radius: 999px;">2023.08 – 2026.01</span>
     <span style="font-size: 1.02em; color: #991b1b; font-weight: 600;">National Taiwan University</span>
@@ -293,14 +293,14 @@ If you are interested in my work, please feel free to drop me an email: <a href=
   </div>
 
   <div style="display: flex; flex-wrap: wrap; gap: 7px; margin-top: 10px;">
-    <span style="background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe; padding: 3px 9px; border-radius: 999px; font-size: 0.78em; font-weight: 600;">GPA: 4.3 / 4.3</span>
-    <span style="background: #f0fdf4; color: #166534; border: 1px solid #bbf7d0; padding: 3px 9px; border-radius: 999px; font-size: 0.78em; font-weight: 600;">Program Ranked: 1 / 62</span>
-    <span style="background: #fff7ed; color: #9a3412; border: 1px solid #fed7aa; padding: 3px 9px; border-radius: 999px; font-size: 0.78em; font-weight: 600;">Awards: Outstanding Paper Award</span>
+    <span style="background: #fef2f2; color: #991b1b; border: 1px solid #bfdbfe; padding: 3px 9px; border-radius: 999px; font-size: 0.78em; font-weight: 600;">GPA: 4.3 / 4.3</span>
+    <span style="background: #fef2f2; color: #991b1b; border: 1px solid #bbf7d0; padding: 3px 9px; border-radius: 999px; font-size: 0.78em; font-weight: 600;">Program Ranked: 1 / 62</span>
+    <span style="background: #fef2f2; color: #991b1b; border: 1px solid #fed7aa; padding: 3px 9px; border-radius: 999px; font-size: 0.78em; font-weight: 600;">Awards: Outstanding Paper Award</span>
   </div>
 </div>
 
 <!-- NYCU -->
-<div style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #991b1b; border-radius: 14px; padding: 1.05rem 1.2rem; margin-bottom: 12px; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);">
+<div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 14px; padding: 1.05rem 1.2rem; margin-bottom: 12px; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);">
   <div style="display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 8px;">
     <span style="background: #fee2e2; color: #991b1b; font-size: 0.78em; font-weight: 700; padding: 3px 10px; border-radius: 999px;">2019.09 – 2023.08</span>
     <span style="font-size: 1.02em; color: #991b1b; font-weight: 600;">National Yang Ming Chiao Tung University</span>
@@ -315,9 +315,9 @@ If you are interested in my work, please feel free to drop me an email: <a href=
   </div>
 
   <div style="display: flex; flex-wrap: wrap; gap: 7px; margin-top: 10px;">
-    <span style="background: #f5f3ff; color: #5b21b6; border: 1px solid #ddd6fe; padding: 3px 9px; border-radius: 999px; font-size: 0.78em; font-weight: 600;">Double Major</span>
-    <span style="background: #f0fdf4; color: #166534; border: 1px solid #bbf7d0; padding: 3px 9px; border-radius: 999px; font-size: 0.78em; font-weight: 600;">Top 1 % student in the school</span>
-    <span style="background: #fff7ed; color: #9a3412; border: 1px solid #fed7aa; padding: 3px 9px; border-radius: 999px; font-size: 0.78em; font-weight: 600;">Awards: Phi Tau Phi Award</span>
+    <span style="background: #fef2f2; color: #991b1b; border: 1px solid #ddd6fe; padding: 3px 9px; border-radius: 999px; font-size: 0.78em; font-weight: 600;">Double Major</span>
+    <span style="background: #fef2f2; color: #991b1b; border: 1px solid #bbf7d0; padding: 3px 9px; border-radius: 999px; font-size: 0.78em; font-weight: 600;">Top 1 % student in the school</span>
+    <span style="background: #fef2f2; color: #991b1b; border: 1px solid #fed7aa; padding: 3px 9px; border-radius: 999px; font-size: 0.78em; font-weight: 600;">Awards: Phi Tau Phi Award</span>
   </div>
 </div>
 
@@ -332,7 +332,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
   <div style="position: relative; margin-left: 4px;">
 
 <!-- HMS / MGH -->
-<div style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #0f766e; border-radius: 14px; padding: 1.05rem 1.2rem; margin-bottom: 12px; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);">
+<div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 14px; padding: 1.05rem 1.2rem; margin-bottom: 12px; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);">
   <div style="display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 8px;">
     <span style="background: #ccfbf1; color: #0f766e; font-size: 0.78em; font-weight: 700; padding: 3px 10px; border-radius: 999px;">2025.07 – 2026.01</span>
     <span style="font-size: 1.02em; color: #0f766e; font-weight: 600;">Harvard Medical School & MGH</span>
@@ -346,7 +346,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 </div>
 
 <!-- NTUH -->
-<div style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #0369a1; border-radius: 14px; padding: 1.05rem 1.2rem; margin-bottom: 12px; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);">
+<div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 14px; padding: 1.05rem 1.2rem; margin-bottom: 12px; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);">
   <div style="display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 8px;">
     <span style="background: #e0f2fe; color: #0369a1; font-size: 0.78em; font-weight: 700; padding: 3px 10px; border-radius: 999px;">2023.07 – 2025.06</span>
     <span style="font-size: 1.02em; color: #0369a1; font-weight: 600;">National Taiwan University Hospital</span>
@@ -360,7 +360,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 </div>
 
 <!-- HKU -->
-<div style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #7c3aed; border-radius: 14px; padding: 1.05rem 1.2rem; margin-bottom: 12px; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);">
+<div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 14px; padding: 1.05rem 1.2rem; margin-bottom: 12px; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);">
   <div style="display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 8px;">
     <span style="background: #ede9fe; color: #5b21b6; font-size: 0.78em; font-weight: 700; padding: 3px 10px; border-radius: 999px;">2024.06 – 2024.08</span>
     <span style="font-size: 1.02em; color: #7c3aed; font-weight: 600;">The University of Hong Kong</span>
@@ -374,7 +374,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 </div>
 
 <!-- NYCU -->
-<div style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 4px solid #d97706; border-radius: 14px; padding: 1.05rem 1.2rem; margin-bottom: 12px; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);">
+<div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 14px; padding: 1.05rem 1.2rem; margin-bottom: 12px; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);">
   <div style="display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 8px;">
     <span style="background: #fef3c7; color: #b45309; font-size: 0.78em; font-weight: 700; padding: 3px 10px; border-radius: 999px;">2020.07 – 2023.07</span>
     <span style="font-size: 1.02em; color: #d97706; font-weight: 600;">National Yang Ming Chiao Tung University</span>
