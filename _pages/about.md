@@ -326,7 +326,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 
 </div>
 
-# 🔬 Research Experience
+# Research Experience
 
 <div class="education-section" style="margin-top: 1rem;">
   <div style="position: relative; margin-left: 4px;">
