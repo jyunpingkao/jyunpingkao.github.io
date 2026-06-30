@@ -46,24 +46,24 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 
 <li style="margin-bottom: 8px;">
   <span style="background: #fee2e2; color: #991b1b; font-size: 0.78em; font-weight: 700; padding: 2px 9px; border-radius: 5px; margin-right: 8px;">2026.04</span>
-  New Journal Paper <strong>Interpretable and backpropagation-free Green Learning for efficient multi-task echocardiographic segmentation and classification</strong><a href="https://arxiv.org/abs/2601.19743" target="_blank" rel="noopener noreferrer" aria-label="Open paper on arXiv" style="display: inline; margin-left: 2px; color: #059669; text-decoration: none; font-size: 0.98em; font-weight: 700; vertical-align: 0.06em;">↗</a> Accepted by <strong>APSIPA Transactions on Signal and Information Processing</strong>.
+  New Journal Paper <strong>Interpretable and backpropagation-free Green Learning for efficient multi-task echocardiographic segmentation and classification</strong><a href="https://arxiv.org/abs/2601.19743" target="_blank" rel="noopener noreferrer" aria-label="Open paper on arXiv" style="display: inline; margin-left: 2px; color: #991b1b; text-decoration: none; font-size: 0.98em; font-weight: 700; vertical-align: 0.06em;">↗</a> Accepted by <strong>APSIPA Transactions on Signal and Information Processing</strong>.
 </li>
 
 <li style="margin-bottom: 8px;">
   <span style="background: #fee2e2; color: #991b1b; font-size: 0.78em; font-weight: 700; padding: 2px 9px; border-radius: 5px; margin-right: 8px;">2026.04</span>
-  New Conference Paper <strong>Entity-Preserving Biomedical Abstract Augmentation via Constraint-Driven Distillation</strong><a href="https://embc.embs.org/2026/" target="_blank" rel="noopener noreferrer" aria-label="Open paper on arXiv" style="display: inline; margin-left: 2px; color: #059669; text-decoration: none; font-size: 0.98em; font-weight: 700; vertical-align: 0.06em;">↗</a> Accepted by <strong>EMBC 2026</strong>.
+  New Conference Paper <strong>Entity-Preserving Biomedical Abstract Augmentation via Constraint-Driven Distillation</strong><a href="https://embc.embs.org/2026/" target="_blank" rel="noopener noreferrer" aria-label="Open paper on arXiv" style="display: inline; margin-left: 2px; color: #991b1b; text-decoration: none; font-size: 0.98em; font-weight: 700; vertical-align: 0.06em;">↗</a> Accepted by <strong>EMBC 2026</strong>.
 </li>
 
 
 <li style="margin-bottom: 8px;">
   <span style="background: #fee2e2; color: #991b1b; font-size: 0.78em; font-weight: 700; padding: 2px 9px; border-radius: 5px; margin-right: 8px;">2026.01</span>
-  New Conference Paper <strong>Cross-Modal Fine-Tuning of 3D Convolutional Foundation Models for ADHD Classification with Low-Rank Adaptation</strong><a href="https://ieeexplore.ieee.org/abstract/document/11515951" target="_blank" rel="noopener noreferrer" aria-label="Open paper on arXiv" style="display: inline; margin-left: 2px; color: #059669; text-decoration: none; font-size: 0.98em; font-weight: 700; vertical-align: 0.06em;">↗</a> Accepted by <strong>IEEE ISBI 2026</strong>.
+  New Conference Paper <strong>Cross-Modal Fine-Tuning of 3D Convolutional Foundation Models for ADHD Classification with Low-Rank Adaptation</strong><a href="https://ieeexplore.ieee.org/abstract/document/11515951" target="_blank" rel="noopener noreferrer" aria-label="Open paper on arXiv" style="display: inline; margin-left: 2px; color: #991b1b; text-decoration: none; font-size: 0.98em; font-weight: 700; vertical-align: 0.06em;">↗</a> Accepted by <strong>IEEE ISBI 2026</strong>.
 </li>
 
 
 <li style="margin-bottom: 8px;">
   <span style="background: #fee2e2; color: #991b1b; font-size: 0.78em; font-weight: 700; padding: 2px 9px; border-radius: 5px; margin-right: 8px;">2025.11</span>
-  New Journal Paper <strong>A Novel Deep Learning Based Automatic Ultrasonic PCL Assessment Tool</strong><a href="https://www.nature.com/articles/s44387-025-00058-y" target="_blank" rel="noopener noreferrer" aria-label="Open paper on arXiv" style="display: inline; margin-left: 2px; color: #059669; text-decoration: none; font-size: 0.98em; font-weight: 700; vertical-align: 0.06em;">↗</a> Accepted by <strong>npj Artificial Intelligence</strong>.
+  New Journal Paper <strong>A Novel Deep Learning Based Automatic Ultrasonic PCL Assessment Tool</strong><a href="https://www.nature.com/articles/s44387-025-00058-y" target="_blank" rel="noopener noreferrer" aria-label="Open paper on arXiv" style="display: inline; margin-left: 2px; color: #991b1b; text-decoration: none; font-size: 0.98em; font-weight: 700; vertical-align: 0.06em;">↗</a> Accepted by <strong>npj Artificial Intelligence</strong>.
 </li>
 
 
@@ -79,7 +79,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 
 <li style="margin-bottom: 8px;">
   <span style="background: #fee2e2; color: #991b1b; font-size: 0.78em; font-weight: 700; padding: 2px 9px; border-radius: 5px; margin-right: 8px;">2025.06</span>
-  New Journal Paper <strong>LoRA-Enhanced RT-DETR: First Low-Rank Adaptation Based DETR for Real-Time Full Body Anatomical Structures Identification in Musculoskeletal Ultrasound</strong><a href="https://www.sciencedirect.com/science/article/abs/pii/S0895611125000928" target="_blank" rel="noopener noreferrer" aria-label="Open paper on arXiv" style="display: inline; margin-left: 2px; color: #059669; text-decoration: none; font-size: 0.98em; font-weight: 700; vertical-align: 0.06em;">↗</a> Accepted by <strong>Computerized Medical Imaging and Graphics</strong>.
+  New Journal Paper <strong>LoRA-Enhanced RT-DETR: First Low-Rank Adaptation Based DETR for Real-Time Full Body Anatomical Structures Identification in Musculoskeletal Ultrasound</strong><a href="https://www.sciencedirect.com/science/article/abs/pii/S0895611125000928" target="_blank" rel="noopener noreferrer" aria-label="Open paper on arXiv" style="display: inline; margin-left: 2px; color: #991b1b; text-decoration: none; font-size: 0.98em; font-weight: 700; vertical-align: 0.06em;">↗</a> Accepted by <strong>Computerized Medical Imaging and Graphics</strong>.
 </li>
 
 
