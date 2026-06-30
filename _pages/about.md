@@ -84,7 +84,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 
 
 </ul>
-
+<div style="border-top: 1px solid #eaeaea; margin: 1.6rem 0 2.2rem;"></div>
 
 
 
@@ -97,7 +97,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
   <div style="color: #4b5563; font-size: 0.95em; margin-bottom: 4px;">
     <b>Jyun-Ping Kao</b>, Shinyeong Rho, Shahar Lazarev, Hyun-Hae Cho, Fangxu Xing, Taehoon Shin, C.-C. Jay Kuo, Jonghye Woo
   </div>
-  <div style="color: #0F766E; font-style: italic; font-size: 0.95em; margin-bottom: 12px;">
+  <div style="color: #166534; font-style: italic; font-size: 0.95em; margin-bottom: 12px;">
     2026 IEEE International Symposium on Biomedical Imaging (ISBI)
   </div>
   <div style="display: flex; gap: 8px; flex-wrap: wrap;">
@@ -138,7 +138,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
   <div style="color: #4b5563; font-size: 0.95em; margin-bottom: 4px;">
     <b>Jyun-Ping Kao</b>, Yu-Ching Chung, Hao-Yu Hung, Chung-Ping Chen, Wen-Shiang Chen
   </div>
-  <div style="color: #059669; font-style: italic; font-size: 0.95em; margin-bottom: 12px;">
+  <div style="color: #166534; font-style: italic; font-size: 0.95em; margin-bottom: 12px;">
     Computerized Medical Imaging and Graphics, 2025
   </div>
   <div style="display: flex; gap: 8px; flex-wrap: wrap;">
@@ -158,7 +158,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
   <div style="color: #4b5563; font-size: 0.95em; margin-bottom: 4px;">
     <b>Jyun-Ping Kao</b>, Hao-Yu Hung, Ping-Xuan Chen, Chung-Ping Chen, Wen-Shiang Chen
   </div>
-  <div style="color: #059669; font-style: italic; font-size: 0.95em; margin-bottom: 12px;">
+  <div style="color: #166534; font-style: italic; font-size: 0.95em; margin-bottom: 12px;">
     2024 IEEE 24th International Conference on Bioinformatics and Bioengineering (BIBE)
   </div>
   <div style="display: flex; gap: 8px; flex-wrap: wrap;">
@@ -178,7 +178,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
   <div style="color: #4b5563; font-size: 0.95em; margin-bottom: 4px;">
     Hao-Yu Hung, <b>Jyun-Ping Kao</b>, Hsin-Yuan Chu, Chung-Ping Chen, Wen-Shiang Chen
   </div>
-  <div style="color: #059669; font-style: italic; font-size: 0.95em; margin-bottom: 12px;">
+  <div style="color: #166534; font-style: italic; font-size: 0.95em; margin-bottom: 12px;">
     Proc. SPIE 13487, Optics and Photonics International Congress 2024
   </div>
   <div style="display: flex; gap: 8px; flex-wrap: wrap;">
@@ -198,7 +198,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
   <div style="color: #4b5563; font-size: 0.95em; margin-bottom: 4px;">
     Hsin-Yuan Chu, Chueh-Hung Wu, Ping-Xuan Chen, Hao-Yu Hung, <b>Jyun-Ping Kao</b>, Chung-Ping Chen, Wen-Shiang Chen
   </div>
-  <div style="color: #059669; font-style: italic; font-size: 0.95em; margin-bottom: 12px;">
+  <div style="color: #166534; font-style: italic; font-size: 0.95em; margin-bottom: 12px;">
     Ultrasound in Medicine & Biology, 2024
   </div>
   <div style="display: flex; gap: 8px; flex-wrap: wrap;">
@@ -218,7 +218,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
   <div style="color: #4b5563; font-size: 0.95em; margin-bottom: 4px;">
     <b>Jyun-Ping Kao</b>, Xin Lin, You-Yang Zhang, Connie Liu, Shih-Hsuan Chia
   </div>
-  <div style="color: #059669; font-style: italic; font-size: 0.95em; margin-bottom: 12px;">
+  <div style="color: #166534; font-style: italic; font-size: 0.95em; margin-bottom: 12px;">
     2023 Optics & Photonics Taiwan International Conference (OPTIC)
   </div>
   <div style="display: flex; gap: 8px; flex-wrap: wrap;">
@@ -238,7 +238,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
   <div style="color: #4b5563; font-size: 0.95em; margin-bottom: 4px;">
     <b>Jyun-Ping Kao</b>, Chu-Qiao Yu, Wei-Zhong Lin, Bo-Hsien Pan, Je-Chi Jang, Tien-Ching Tsai, Shih-Hsuan Chia
   </div>
-  <div style="color: #059669; font-style: italic; font-size: 0.95em; margin-bottom: 12px;">
+  <div style="color: #166534; font-style: italic; font-size: 0.95em; margin-bottom: 12px;">
     2022 Optics & Photonics Taiwan International Conference (OPTIC)
   </div>
   <div style="display: flex; gap: 8px; flex-wrap: wrap;">
