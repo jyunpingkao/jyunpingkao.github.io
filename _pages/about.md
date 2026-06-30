@@ -46,18 +46,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 
 <li style="margin-bottom: 8px;">
   <span style="background: #ffedd5; color: #9a3412; font-size: 0.78em; font-weight: 700; padding: 2px 9px; border-radius: 5px; margin-right: 8px;">2026.04</span>
-  New Journal Paper
-<strong>
-  Interpretable and backpropagation-free Green Learning for efficient multi-task echocardiographic segmentation and classification
-</strong>
-<a href="https://arxiv.org/abs/2601.19743"
-   target="_blank"
-   rel="noopener noreferrer"
-   aria-label="Open paper on arXiv"
-   style="display: inline-block; margin-left: 4px; color: #64748b; text-decoration: none; font-size: 0.82em; white-space: nowrap;">
-  ↗
-</a>
-Accepted by <strong>APSIPA Transactions on Signal and Information Processing</strong>.
+  New Journal Paper <strong>Interpretable and backpropagation-free Green Learning for efficient multi-task echocardiographic segmentation and classification</strong><a href="https://arxiv.org/abs/2601.19743" target="_blank" rel="noopener noreferrer" aria-label="Open paper on arXiv" style="display: inline; margin-left: 2px; color: #059669; text-decoration: none; font-size: 0.98em; font-weight: 700; vertical-align: 0.06em;">↗</a> Accepted by <strong>APSIPA Transactions on Signal and Information Processing</strong>.
 </li>
 
 <li style="margin-bottom: 8px;">
