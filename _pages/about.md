@@ -80,6 +80,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 <li style="margin-bottom: 8px;">
   <span style="background: #fee2e2; color: #991b1b; font-size: 0.78em; font-weight: 700; padding: 2px 9px; border-radius: 5px; margin-right: 8px;">2025.06</span>
   New Journal Paper <strong>LoRA-Enhanced RT-DETR: First Low-Rank Adaptation Based DETR for Real-Time Full Body Anatomical Structures Identification in Musculoskeletal Ultrasound</strong><a href="https://www.sciencedirect.com/science/article/abs/pii/S0895611125000928" target="_blank" rel="noopener noreferrer" aria-label="Open paper on arXiv" style="display: inline; margin-left: 2px; color: #059669; text-decoration: none; font-size: 0.98em; font-weight: 700; vertical-align: 0.06em;">↗</a> Accepted by <strong>Computerized Medical Imaging and Graphics</strong>.
+</li>
 
 
 </ul>
