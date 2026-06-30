@@ -97,7 +97,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
   <div style="color: #4b5563; font-size: 0.95em; margin-bottom: 4px;">
     <b>Jyun-Ping Kao</b>, Shinyeong Rho, Shahar Lazarev, Hyun-Hae Cho, Fangxu Xing, Taehoon Shin, C.-C. Jay Kuo, Jonghye Woo
   </div>
-  <div style="color: #059669; font-style: italic; font-size: 0.95em; margin-bottom: 12px;">
+  <div style="color: #0F766E; font-style: italic; font-size: 0.95em; margin-bottom: 12px;">
     2026 IEEE International Symposium on Biomedical Imaging (ISBI)
   </div>
   <div style="display: flex; gap: 8px; flex-wrap: wrap;">
@@ -118,7 +118,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
   <div style="color: #4b5563; font-size: 0.95em; margin-bottom: 4px;">
     <b>Jyun-Ping Kao</b>, Jiajing Zhang, Wei-Ning Lee, Chung-Ping Chen, Lawrence Chun-Man Lau
   </div>
-  <div style="color: #059669; font-style: italic; font-size: 0.95em; margin-bottom: 12px;">
+  <div style="color: #166534; font-style: italic; font-size: 0.95em; margin-bottom: 12px;">
     npj Artificial Intelligence, 2026
   </div>
   <div style="display: flex; gap: 8px; flex-wrap: wrap;">
