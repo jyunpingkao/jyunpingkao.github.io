@@ -15,7 +15,11 @@
     <span style="display: block; margin-top: 0.12em;">{{ author.name_zh }}</span>
   {% endif %}
 </h3>
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    {% if author.bio %}
+  <p class="author__bio" style="margin-top: 1rem;">
+    {{ author.bio }}
+  </p>
+{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
