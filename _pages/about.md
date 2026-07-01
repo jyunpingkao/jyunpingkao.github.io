@@ -138,7 +138,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
   <div style="color: #4b5563; font-size: 0.95em; margin-bottom: 4px;">
     <b>Jyun-Ping Kao</b>, Yu-Ching Chung, Hao-Yu Hung, Chung-Ping Chen, Wen-Shiang Chen
   </div>
-  <div style="color: #166534; font-style: italic; font-weight: 400; font-size: 0.95em; margin-bottom: 12px;">
+  <div style="color: #166534; font-style: normal; font-weight: 500; font-size: 0.95em; margin-bottom: 12px;">
     Computerized Medical Imaging and Graphics, 2025
   </div>
   <div style="display: flex; gap: 8px; flex-wrap: wrap;">
