@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jyun-Ping Kao (高駿平)"
-description              : "MS student at National Taiwan University"
+description              : "Incoming Ph.D. student in Electrical and Computer Engineering at the University of Southern California."
 repository               : "reddy/reddykao.github.io/"
 google_scholar_stats_use_cdn : true
 
@@ -22,6 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jyun-Ping Kao (高駿平)"
+  name_zh: "高駿平"
   avatar           : "images/profile.jpg"
   bio              : "National Taiwan University"
   location         : "Taipei, Taiwan"
