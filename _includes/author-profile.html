@@ -9,7 +9,12 @@
   </div>
 
   <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
+    <h3 class="author__name" style="text-align: left; line-height: 1.15;">
+  <span style="display: block;">{{ author.name }}</span>
+  {% if author.name_zh %}
+    <span style="display: block; margin-top: 0.12em;">{{ author.name_zh }}</span>
+  {% endif %}
+</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
