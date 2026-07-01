@@ -105,7 +105,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
       Conference Paper
     </span>
     <a href="https://doi.org/10.1109/ISBI61048.2026.11515951" target="_blank" style="text-decoration: none; border: 1px solid #d1d5db; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; color: #374151; transition: background-color 0.2s;">
-      DOI 🔗
+      Link 🔗
     </a>
   </div>
 </div>
@@ -126,7 +126,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
       Journal Paper
     </span>
     <a href="https://doi.org/10.1038/s44387-025-00058-y" target="_blank" style="text-decoration: none; border: 1px solid #d1d5db; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; color: #374151; transition: background-color 0.2s;">
-      DOI 🔗
+      Link 🔗
     </a>
   </div>
 </div>
@@ -146,7 +146,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
       Journal Paper
     </span>
     <a href="https://doi.org/10.1016/j.compmedimag.2025.102583" target="_blank" style="text-decoration: none; border: 1px solid #d1d5db; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; color: #374151; transition: background-color 0.2s;">
-      DOI 🔗
+      Link 🔗
     </a>
   </div>
 </div>
@@ -166,7 +166,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
       Conference Paper
     </span>
     <a href="https://doi.org/10.1109/BIBE63649.2024.10820491" target="_blank" style="text-decoration: none; border: 1px solid #d1d5db; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; color: #374151; transition: background-color 0.2s;">
-      DOI 🔗
+      Link 🔗
     </a>
   </div>
 </div>
@@ -186,7 +186,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
       Conference Paper
     </span>
     <a href="https://doi.org/10.1117/12.3052319" target="_blank" style="text-decoration: none; border: 1px solid #d1d5db; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; color: #374151; transition: background-color 0.2s;">
-      DOI 🔗
+      Link 🔗
     </a>
   </div>
 </div>
@@ -206,7 +206,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
       Journal Paper
     </span>
     <a href="https://doi.org/10.1016/j.ultrasmedbio.2024.08.012" target="_blank" style="text-decoration: none; border: 1px solid #d1d5db; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; color: #374151; transition: background-color 0.2s;">
-      DOI 🔗
+      Link 🔗
     </a>
   </div>
 </div>
