@@ -562,12 +562,18 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 
 
 # Web visitors
-<!-- Visitor map (inside body) -->
-<div style="margin: 2rem 0; text-align:center;">
-  <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=c3cYIFJomLQjROqgCVr_4Zc-bcy6OA3OvHYUNLJu3I8&cl=ffffff&w=a"></script>
+<div style="margin: 2rem 0; text-align: center;">
+  <script
+    type="text/javascript"
+    id="mapmyvisitors"
+    src="https://mapmyvisitors.com/map.js?d=6bUx4A0G4AMGH8Cd009FvvLRUs_gcZmeiDLKeEOXW8I&cl=ffffff&w=a">
+  </script>
+
   <noscript>
-    <a href="https://mapmyvisitors.com/web/1c0m7" title="Visit tracker">
-      <img src="https://mapmyvisitors.com/map.png?d=c3cYIFJomLQjROqgCVr_4Zc-bcy6OA3OvHYUNLJu3I8&cl=ffffff" alt="Visit tracker">
+    <a href="https://mapmyvisitors.com/web/1c659" title="Visit tracker">
+      <img
+        src="https://mapmyvisitors.com/map.png?d=6bUx4A0G4AMGH8Cd009FvvLRUs_gcZmeiDLKeEOXW8I&cl=ffffff"
+        alt="Visitor map">
     </a>
   </noscript>
 </div>
