@@ -342,8 +342,8 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 <!-- NYCU -->
 <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 14px; padding: 1.05rem 1.2rem; margin-bottom: 12px; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);">
   <div style="display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 8px;">
-    <span style="background: #e0f2fe; color: #0369a1; font-size: 0.78em; font-weight: 700; padding: 3px 10px; border-radius: 999px;">2020.07 – 2023.07</span>
-    <span style="font-size: 1.02em; color: #0369a1; font-weight: 600;">National Yang Ming Chiao Tung University</span>
+    <span style="background: #c7d2fe; color: #3730a3; font-size: 0.78em; font-weight: 700; padding: 3px 10px; border-radius: 999px;">2020.07 – 2023.07</span>
+    <span style="font-size: 1.02em; color: #3730a3; font-weight: 600;">National Yang Ming Chiao Tung University</span>
   </div>
   <div style="font-size: 1.02em; font-weight: 700; color: #1e293b; line-height: 1.45; margin-bottom: 4px;">
     Undergraduate Research Student · Institute of Biophotonics
