@@ -26,9 +26,9 @@ I received my M.S. degree from the Graduate Institute of Biomedical Electronics 
 
 Before that, I earned dual B.S. degrees in Electronics and Electrical Engineering and in Digital Healthcare from National Yang Ming Chiao Tung University.
 
-My research interests include Deep Learning, Computer Vision, and Medical AI.
+My research interests include Interpretable AI, Computer Vision, and Medical AI.
 
-I have also been invited to serve as a peer reviewer for **11 journals** and **7 international conferences**, completing **100+ manuscript reviews** to date.
+I have also been invited to serve as a peer reviewer for 11 journals and 7 international conferences, completing 100+ manuscript reviews to date.
 
 You can find my CV here: <a href="../assets/CV.pdf" target="_blank" style="background-color: #e0e7ff; color: #3730a3; padding: 3px 10px; border-radius: 4px; font-size: 0.95em; font-weight: 500; text-decoration: none;">📄 Jyun-Ping Kao's Curriculum Vitae</a>
 
