@@ -564,20 +564,18 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 
 
 # Web visitors
-<div style="margin: 2rem 0; text-align: center;">
-  <script
-    type="text/javascript"
-    id="mapmyvisitors"
-    src="https://mapmyvisitors.com/map.js?d=6bUx4A0G4AMGH8Cd009FvvLRUs_gcZmeiDLKeEOXW8I&cl=ffffff&w=a">
-  </script>
 
-  <noscript>
-    <a href="https://mapmyvisitors.com/web/1c659" title="Visit tracker">
-      <img
-        src="https://mapmyvisitors.com/map.png?d=6bUx4A0G4AMGH8Cd009FvvLRUs_gcZmeiDLKeEOXW8I&cl=ffffff"
-        alt="Visitor map">
-    </a>
-  </noscript>
+<div style="margin: 2rem 0; text-align: center;">
+  <a
+    href="https://info.flagcounter.com/8uaQ"
+    target="_blank"
+    rel="noopener noreferrer"
+    title="View visitor statistics">
+    <img
+      src="https://s05.flagcounter.com/countxl/8uaQ/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_30/viewers_0/labels_0/pageviews_1/flags_0/percent_0/"
+      alt="Visitor Flag Counter"
+      style="display: block; max-width: 100%; height: auto; margin: 0 auto; border: 0;">
+  </a>
 </div>
 
 
