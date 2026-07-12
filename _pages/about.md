@@ -22,7 +22,7 @@ I am an incoming Ph.D. student in the Department of Electrical and Computer Engi
 
 Previously, I was a Visiting Research Student in the Department of Radiology at Harvard Medical School & Massachusetts General Hospital supervised by Prof. [Jonghye Woo](https://researchers.mgh.harvard.edu/profile/12882709/Jonghye-Woo), and in the Department of Orthopaedics and Traumatology at The University of Hong Kong supervised by Prof. [Chun Man Lawrence Lau](https://www.ortho.hku.hk/biography/lau-chun-man-lawrence/).
 
-I received my M.S. degree from the Graduate Institute of Biomedical Electronics and Bioinformatics, National Taiwan University, where I was co-supervised by Prof. [Chung-Ping Chen](https://www.ee.ntu.edu.tw/profile1.php?teacher_id=943008) and Prof. [Wen-Shiang Chen](https://www.ntuh.gov.tw/PMR/Vcard.action?q_type=-1&q_itemCode=246). 
+I received my M.S. degree from the Graduate Institute of Biomedical Electronics and Bioinformatics, National Taiwan University, where I was co-supervised by Prof. [Chung-Ping Chen](http://ai.robo.ntu.edu.tw/personal.php?id=56) and Prof. [Wen-Shiang Chen](https://www.ntuh.gov.tw/PMR/Vcard.action?q_type=-1&q_itemCode=246). 
 
 Before that, I earned dual B.S. degrees in Electronics and Electrical Engineering and in Digital Healthcare from National Yang Ming Chiao Tung University.
 
