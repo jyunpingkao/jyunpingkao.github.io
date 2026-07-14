@@ -373,7 +373,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
         <div style="font-size: 0.9em; color: #64748b;">Journal reviewer roles</div>
       </div>
       <div style="border-left: 1px solid #c7d2fe; padding-left: 12px;">
-        <div style="font-size: 1.45em; font-weight: 700; color: #1e293b; margin-bottom: 2px;">80+</div>
+        <div style="font-size: 1.45em; font-weight: 700; color: #1e293b; margin-bottom: 2px;">90+</div>
         <div style="font-size: 0.9em; color: #64748b;">Journal papers reviewed</div>
       </div>
     </div>
