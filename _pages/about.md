@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 Welcome! 
-I am an incoming Ph.D. student in the Department of Electrical and Computer Engineering at the University of Southern California, supervised by Prof. [C.-C. Jay Kuo](https://viterbi.usc.edu/directory/faculty/Kuo/Chung-Chieh). 
+I am a PhD student in the Department of Electrical and Computer Engineering at the University of Southern California, supervised by Prof. [C.-C. Jay Kuo](https://viterbi.usc.edu/directory/faculty/Kuo/Chung-Chieh). 
 
 Previously, I was a Visiting Research Student in the Department of Radiology at Harvard Medical School & Massachusetts General Hospital supervised by Prof. [Jonghye Woo](https://researchers.mgh.harvard.edu/profile/12882709/Jonghye-Woo), and in the Department of Orthopaedics and Traumatology at The University of Hong Kong supervised by Prof. [Chun Man Lawrence Lau](https://www.ortho.hku.hk/biography/lau-chun-man-lawrence/).
 
@@ -28,7 +28,7 @@ Before that, I earned dual B.S. degrees in Electronics and Electrical Engineerin
 
 My research interests include Interpretable AI, Computer Vision, and Medical AI.
 
-I have also been invited to serve as a peer reviewer for 11 journals and 7 international conferences, completing 100+ manuscript reviews to date.
+I have also been invited to serve as a peer reviewer for 13 journals and 7 international conferences, completing 100+ manuscript reviews to date.
 
 You can find my CV here: <a href="../assets/CV.pdf" target="_blank" style="background-color: #e0e7ff; color: #3730a3; padding: 3px 10px; border-radius: 4px; font-size: 0.95em; font-weight: 500; text-decoration: none;">📄 Jyun-Ping Kao's Curriculum Vitae</a>
 
@@ -369,11 +369,11 @@ If you are interested in my work, please feel free to drop me an email: <a href=
   <div style="background: linear-gradient(135deg, #f8fafc, #eef2ff); border: 1px solid #e2e8f0; border-radius: 14px; padding: 1rem 1.15rem;">
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; align-items: center;">
       <div>
-        <div style="font-size: 1.45em; font-weight: 700; color: #1e293b; margin-bottom: 2px;">11</div>
+        <div style="font-size: 1.45em; font-weight: 700; color: #1e293b; margin-bottom: 2px;">13</div>
         <div style="font-size: 0.9em; color: #64748b;">Journal reviewer roles</div>
       </div>
       <div style="border-left: 1px solid #c7d2fe; padding-left: 12px;">
-        <div style="font-size: 1.45em; font-weight: 700; color: #1e293b; margin-bottom: 2px;">90+</div>
+        <div style="font-size: 1.45em; font-weight: 700; color: #1e293b; margin-bottom: 2px;">100+</div>
         <div style="font-size: 0.9em; color: #64748b;">Journal papers reviewed</div>
       </div>
     </div>
@@ -418,6 +418,8 @@ If you are interested in my work, please feel free to drop me an email: <a href=
         <a href="https://www.clinicalradiologyonline.net/" target="_blank" style="text-decoration: none; background: #f8fafc; color: #334155; border: 1px solid #cbd5e1; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">Clinical Radiology</a>
         <a href="https://iopscience.iop.org/journal/2631-8695" target="_blank" style="text-decoration: none; background: #f8fafc; color: #166534; border: 1px solid #cbd5e1; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">ERX</a>
         <a href="https://journals.sagepub.com/home/dhj" target="_blank" style="text-decoration: none; background: #fff1f2; color: #9f1239; border: 1px solid #fecdd3; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">Digital Health</a>
+        <a href="https://www.sciencedirect.com/journal/natural-language-processing-journal" target="_blank" style="text-decoration: none; background: #f0fdf4; color: #166534; border: 1px solid #bbf7d0; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">NLM</a>
+        <a href="https://journals.plos.org/plosone/" target="_blank" style="text-decoration: none; background: #fefce8; color: #854d0e; border: 1px solid #fde68a; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">PLOS One</a>
       </div>
     </div>
 
@@ -450,7 +452,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 10px;">
   <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 7px;">
     <span style="background: #fee2e2; color: #991b1b; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px;">Jun 2026</span>
-    <span style="font-size: 0.78em; color: #94a3b8;">🏛 National Taiwan University Alumni Association of Southern California Foundation, USA</span>
+    <span style="font-size: 0.78em; color: #94a3b8;">🏛 National Taiwan University Alumni Association of Southern California Foundation</span>
   </div>
   <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;">🎓 NTUASC Foundation Scholarship</div>
   <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">Awarded $2,000 USD to support graduate studies in California, selected as one of the five recipients based on academic excellence and leadership potential.</div>
