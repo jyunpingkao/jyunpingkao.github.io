@@ -28,7 +28,7 @@ Before that, I earned dual B.S. degrees in Electronics and Electrical Engineerin
 
 My research interests include Interpretable AI, Computer Vision, and Medical AI.
 
-I have also been invited to serve as a peer reviewer for 13 journals and 7 international conferences, completing 100+ manuscript reviews to date.
+I have also been invited to serve as a peer reviewer for 15 journals and 7 international conferences, completing 100+ manuscript reviews to date.
 
 You can find my CV here: <a href="../assets/CV.pdf" target="_blank" style="background-color: #e0e7ff; color: #3730a3; padding: 3px 10px; border-radius: 4px; font-size: 0.95em; font-weight: 500; text-decoration: none;">📄 Jyun-Ping Kao's Curriculum Vitae</a>
 
@@ -369,7 +369,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
   <div style="background: linear-gradient(135deg, #f8fafc, #eef2ff); border: 1px solid #e2e8f0; border-radius: 14px; padding: 1rem 1.15rem;">
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; align-items: center;">
       <div>
-        <div style="font-size: 1.45em; font-weight: 700; color: #1e293b; margin-bottom: 2px;">13</div>
+        <div style="font-size: 1.45em; font-weight: 700; color: #1e293b; margin-bottom: 2px;">15</div>
         <div style="font-size: 0.9em; color: #64748b;">Journal reviewer roles</div>
       </div>
       <div style="border-left: 1px solid #c7d2fe; padding-left: 12px;">
@@ -407,7 +407,9 @@ If you are interested in my work, please feel free to drop me an email: <a href=
       </div>
 
       <div style="display: flex; flex-wrap: wrap; gap: 8px; line-height: 1.5;">
+        <a href="https://www.sciencedirect.com/journal/information-fusion" target="_blank" style="text-decoration: none; background: #fff1f2; color: #9f1239; border: 1px solid #fecdd3; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">Information Fusion</a>
         <a href="https://www.embs.org/jbhi/" target="_blank" style="text-decoration: none; background: #eef2ff; color: #3730a3; border: 1px solid #c7d2fe; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">IEEE JBHI</a>
+        <a href="https://www.embs.org/tbme/" target="_blank" style="text-decoration: none; background: #fff7ed; color: #9a3412; border: 1px solid #fed7aa; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">IEEE TBME</a>
         <a href="https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine" target="_blank" style="text-decoration: none; background: #f0fdf4; color: #166534; border: 1px solid #bbf7d0; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">Artificial Intelligence In Medicine</a>
         <a href="https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics" target="_blank" style="text-decoration: none; background: #f0f9ff; color: #075985; border: 1px solid #bae6fd; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">CMIG</a>
         <a href="https://www.sciencedirect.com/journal/international-journal-of-medical-informatics" target="_blank" style="text-decoration: none; background: #f8fafc; color: #334155; border: 1px solid #cbd5e1; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">IJMI</a>
