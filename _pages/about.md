@@ -458,6 +458,16 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 <!-- 2026 = red: #fee2e2 / #991b1b | 2025 = blue: #dbeafe / #1e40af | 2024 = purple: #ede9fe / #5b21b6 | 2023 = green: #dcfce7 / #166534 | 2022 = orange: #ffedd5 / #9a3412 -->
 <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 10px;">
   <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 7px;">
+    <span style="background: #fee2e2; color: #991b1b; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px;">Sep 2026</span>
+    <span style="font-size: 0.78em; color: #94a3b8;">🏛 Journal of Imaging Informatics in Medicine (JIIM)</span>
+  </div>
+  <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;">🏆 2026 Top Reviewer Honoree</div>
+  <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">Recognized as one of JIIM’s top reviewers of the past year for contributions to peer review.</div>
+</div>
+
+
+<div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 10px;">
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 7px;">
     <span style="background: #fee2e2; color: #991b1b; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px;">Jun 2026</span>
     <span style="font-size: 0.78em; color: #94a3b8;">🏛 National Taiwan University Alumni Association of Southern California Foundation</span>
   </div>
