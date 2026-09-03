@@ -42,6 +42,11 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 <ul style="list-style: none; padding: 0; margin: 0;">
 
 <li style="margin-bottom: 8px;">
+  <span style="background: #fee2e2; color: #991b1b; font-size: 0.78em; font-weight: 700; padding: 2px 9px; border-radius: 5px; margin-right: 8px;">2026.09</span>
+  Honored to be recognized as a <strong>2026 Top Reviewer Honoree</strong> by the <strong>Journal of Imaging Informatics in Medicine (JIIM)</strong><a href="https://arxiv.org/abs/2601.19743" target="_blank" rel="noopener noreferrer" aria-label="Open paper on arXiv" style="display: inline; margin-left: 2px; color: #991b1b; text-decoration: none; font-size: 0.98em; font-weight: 700; vertical-align: 0.06em;">↗</a>.
+</li>
+
+<li style="margin-bottom: 8px;">
   <span style="background: #fee2e2; color: #991b1b; font-size: 0.78em; font-weight: 700; padding: 2px 9px; border-radius: 5px; margin-right: 8px;">2026.06</span>
   Thrilled to receive the <strong>2026 NTUASC Foundation Scholarship!</strong>
 </li>
