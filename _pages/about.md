@@ -239,10 +239,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
     Department of Electrical and Computer Engineering, University of Southern California, United States
   </div>
 
-  <div style="display: flex; flex-wrap: wrap; gap: 7px; margin-top: 10px;">
-    <span style="background: #fef2f2; color: #991b1b; border: 1px solid #fecaca; padding: 3px 9px; border-radius: 999px; font-size: 0.78em; font-weight: 600;">Incoming PhD Student</span>
-    
-  </div>
+ 
 </div>
 
 <!-- NTU -->
