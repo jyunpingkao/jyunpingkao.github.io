@@ -52,7 +52,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
      style="display: inline; margin-left: 2px; color: #991b1b; text-decoration: none; font-size: 0.98em; font-weight: 700; vertical-align: 0.06em;">↗</a>,
   described by the University President as <strong>NTU’s highest honor for graduate students</strong>.
   Selected as one of <strong>51 recipients university-wide</strong> for outstanding academic and research achievements,
-  with an approximately <strong>1% college-level award quota</strong> and a <strong>NT$100,000 scholarship</strong>.
+  with an approximately <strong>1% college-level award quota</strong>.
 </li>
 
 <li style="margin-bottom: 8px;">
