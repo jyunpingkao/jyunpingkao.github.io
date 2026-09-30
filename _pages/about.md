@@ -43,6 +43,11 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 
 <li style="margin-bottom: 8px;">
   <span style="background: #fee2e2; color: #991b1b; font-size: 0.78em; font-weight: 700; padding: 2px 9px; border-radius: 5px; margin-right: 8px;">2026.09</span>
+  Honored to receive the <strong>NTU Presidential Award for Graduate Students</strong>, described by the University President as <strong>NTU’s highest honor for graduate students</strong>. Selected as one of <strong>51 recipients university-wide</strong> for outstanding academic and research achievements, with an approximately <strong>1% college-level award quota</strong> and a <strong>NT$100,000 scholarship</strong>.
+</li>
+
+<li style="margin-bottom: 8px;">
+  <span style="background: #fee2e2; color: #991b1b; font-size: 0.78em; font-weight: 700; padding: 2px 9px; border-radius: 5px; margin-right: 8px;">2026.09</span>
   Honored to be recognized as a <strong>2026 Top Reviewer Honoree</strong><a href="https://siim.org/journal-of-imaging-informatics-in-medicine-jiim/peer-review-week-2026/#:~:text=Jyun%2DPing%20Kao" target="_blank" rel="noopener noreferrer" aria-label="Open paper on arXiv" style="display: inline; margin-left: 2px; color: #991b1b; text-decoration: none; font-size: 0.98em; font-weight: 700; vertical-align: 0.06em;">↗</a> by the <strong>Journal of Imaging Informatics in Medicine (JIIM)</strong>.
 </li>
 
@@ -260,9 +265,12 @@ If you are interested in my work, please feel free to drop me an email: <a href=
   <div style="display: flex; flex-wrap: wrap; gap: 7px; margin-top: 10px;">
     <span style="background: #fef2f2; color: #991b1b; border: 1px solid #fecaca; padding: 3px 9px; border-radius: 999px; font-size: 0.78em; font-weight: 600;">GPA: 4.3 / 4.3</span>
     <span style="background: #fef2f2; color: #991b1b; border: 1px solid #fecaca; padding: 3px 9px; border-radius: 999px; font-size: 0.78em; font-weight: 600;">Program Ranked: 1 / 62</span>
-    <span style="background: #fef2f2; color: #991b1b; border: 1px solid #fecaca; padding: 3px 9px; border-radius: 999px; font-size: 0.78em; font-weight: 600;">Awards: Outstanding Paper Award</span>
+        <span style="background: #fef2f2; color: #991b1b; border: 1px solid #fecaca; padding: 3px 9px; border-radius: 999px; font-size: 0.78em; font-weight: 600;">Presidential Award</span>
+    <span style="background: #fef2f2; color: #991b1b; border: 1px solid #fecaca; padding: 3px 9px; border-radius: 999px; font-size: 0.78em; font-weight: 600;">Outstanding Paper Award</span>
   </div>
 </div>
+
+
 
 <!-- NYCU -->
 <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 14px; padding: 1.05rem 1.2rem; margin-bottom: 12px; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);">
@@ -448,6 +456,24 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 <div style="margin-top: 1rem;">
 
 <!-- 2026 = red: #fee2e2 / #991b1b | 2025 = blue: #dbeafe / #1e40af | 2024 = purple: #ede9fe / #5b21b6 | 2023 = green: #dcfce7 / #166534 | 2022 = orange: #ffedd5 / #9a3412 -->
+
+
+<div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 10px;">
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 7px;">
+    <span style="background: #fee2e2; color: #991b1b; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px;">Sep 2026</span>
+    <span style="font-size: 0.78em; color: #94a3b8;">🏛 National Taiwan University</span>
+  </div>
+
+  <div style="font-size: 0.97em; font-weight: 600; color: #1e293b; margin-bottom: 4px;">
+    🏆 Presidential Award for Graduate Students
+  </div>
+
+  <div style="font-size: 0.88em; color: #64748b; line-height: 1.6;">
+    NTU’s highest honor for graduate students, as described by the University President, recognizing outstanding academic and research achievements. Selected as one of 51 recipients university-wide under an approximately 1% college-level award quota; awarded a NT$100,000 scholarship.
+  </div>
+</div>
+
+
 <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 10px;">
   <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 7px;">
     <span style="background: #fee2e2; color: #991b1b; font-size: 0.78em; font-weight: 600; padding: 2px 9px; border-radius: 5px;">Sep 2026</span>
