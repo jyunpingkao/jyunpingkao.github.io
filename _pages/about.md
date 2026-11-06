@@ -104,6 +104,28 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 
 <div class='publication-item' style="margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 1px solid #eaeaea;">
   <div style="font-size: 1.15em; font-weight: 600; color: #2c3e50; line-height: 1.4; margin-bottom: 4px;">
+    Interpretable and backpropagation-free Green Learning for efficient multi-task echocardiographic segmentation and classification
+  </div>
+  <div style="color: #4b5563; font-size: 0.95em; margin-bottom: 4px;">
+    <b>Jyun-Ping Kao</b>, Jiaxin Yang, C.-C. Jay Kuo, Jonghye Woo
+  </div>
+  <div style="color: #166534; font-style: normal; font-weight: 500; font-size: 0.95em; margin-bottom: 12px;">
+    APSIPA Transactions on Signal and Information Processing, 2026
+  </div>
+  <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+    <span style="background-color: #e0e7ff; color: #3730a3; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">
+      Journal Paper
+    </span>
+    <a href="https://doi.org/10.1108/ATSIP-02-2026-0008" target="_blank" style="text-decoration: none; border: 1px solid #d1d5db; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; color: #374151; transition: background-color 0.2s;">
+      Link 🔗
+    </a>
+  </div>
+</div>
+
+
+
+<div class='publication-item' style="margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 1px solid #eaeaea;">
+  <div style="font-size: 1.15em; font-weight: 600; color: #2c3e50; line-height: 1.4; margin-bottom: 4px;">
     Cross-Modal Fine-Tuning of 3D Convolutional Foundation Models for ADHD Classification with Low-Rank Adaptation
   </div>
   <div style="color: #4b5563; font-size: 0.95em; margin-bottom: 4px;">
