@@ -379,7 +379,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
   <div style="background: linear-gradient(135deg, #f8fafc, #eef2ff); border: 1px solid #e2e8f0; border-radius: 14px; padding: 1rem 1.15rem;">
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; align-items: center;">
       <div>
-        <div style="font-size: 1.45em; font-weight: 700; color: #1e293b; margin-bottom: 2px;">15</div>
+        <div style="font-size: 1.45em; font-weight: 700; color: #1e293b; margin-bottom: 2px;">18</div>
         <div style="font-size: 0.9em; color: #64748b;">Journal reviewer roles</div>
       </div>
       <div style="border-left: 1px solid #c7d2fe; padding-left: 12px;">
@@ -392,7 +392,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
   <div style="background: linear-gradient(135deg, #f8fafc, #ecfdf5); border: 1px solid #e2e8f0; border-radius: 14px; padding: 1rem 1.15rem;">
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; align-items: center;">
       <div>
-        <div style="font-size: 1.45em; font-weight: 700; color: #1e293b; margin-bottom: 2px;">7</div>
+        <div style="font-size: 1.45em; font-weight: 700; color: #1e293b; margin-bottom: 2px;">8</div>
         <div style="font-size: 0.9em; color: #64748b;">Conference reviewer roles</div>
       </div>
       <div style="border-left: 1px solid #bbf7d0; padding-left: 12px;">
@@ -418,6 +418,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
 
       <div style="display: flex; flex-wrap: wrap; gap: 8px; line-height: 1.5;">
         <a href="https://www.sciencedirect.com/journal/information-fusion" target="_blank" style="text-decoration: none; background: #fff1f2; color: #9f1239; border: 1px solid #fecdd3; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">Information Fusion</a>
+        <a href="https://www.ieeetmi.org/" target="_blank" style="text-decoration: none; background: #f0fdfa; color: #115e59; border: 1px solid #99f6e4; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">IEEE TMI</a>
         <a href="https://www.embs.org/jbhi/" target="_blank" style="text-decoration: none; background: #eef2ff; color: #3730a3; border: 1px solid #c7d2fe; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">IEEE JBHI</a>
         <a href="https://www.embs.org/tbme/" target="_blank" style="text-decoration: none; background: #fff7ed; color: #9a3412; border: 1px solid #fed7aa; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">IEEE TBME</a>
         <a href="https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine" target="_blank" style="text-decoration: none; background: #f0fdf4; color: #166534; border: 1px solid #bbf7d0; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">Artificial Intelligence In Medicine</a>
@@ -432,6 +433,8 @@ If you are interested in my work, please feel free to drop me an email: <a href=
         <a href="https://journals.sagepub.com/home/dhj" target="_blank" style="text-decoration: none; background: #fff1f2; color: #9f1239; border: 1px solid #fecdd3; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">Digital Health</a>
         <a href="https://www.sciencedirect.com/journal/natural-language-processing-journal" target="_blank" style="text-decoration: none; background: #f0fdf4; color: #166534; border: 1px solid #bbf7d0; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">NLM</a>
         <a href="https://journals.plos.org/plosone/" target="_blank" style="text-decoration: none; background: #fefce8; color: #854d0e; border: 1px solid #fde68a; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">PLOS One</a>
+        <a href="https://iopscience.iop.org/journal/1402-4896" target="_blank" style="text-decoration: none; background: #fdf4ff; color: #86198f; border: 1px solid #f5d0fe; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">Physica Scripta</a>
+        <a href="https://ai.jmir.org/" target="_blank" style="text-decoration: none; background: #f7fee7; color: #3f6212; border: 1px solid #d9f99d; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">JMIR AI</a>
       </div>
     </div>
 
@@ -445,6 +448,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
       </div>
 
       <div style="display: flex; flex-wrap: wrap; gap: 8px; line-height: 1.5;">
+      <a href="https://ai.jmir.org/" target="_blank" style="text-decoration: none; background: #f7fee7; color: #3f6212; border: 1px solid #d9f99d; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">IEEE ICASSP 2026</a>
         <a href="https://2026.ieeeicip.org/" target="_blank" style="text-decoration: none; background: #eef2ff; color: #3730a3; border: 1px solid #c7d2fe; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">IEEE ICIP 2026</a>
         <a href="https://embc.embs.org/2026/" target="_blank" style="text-decoration: none; background: #f0fdf4; color: #166534; border: 1px solid #bbf7d0; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">IEEE EMBC 2026</a>
         <a href="https://2026.midl.io/" target="_blank" style="text-decoration: none; background: #f0f9ff; color: #075985; border: 1px solid #bae6fd; padding: 4px 9px; border-radius: 999px; font-size: 0.84em; font-weight: 500;">MIDL 2026</a>
