@@ -28,7 +28,7 @@ Before that, I earned dual B.S. degrees in Electronics and Electrical Engineerin
 
 My research interests include Interpretable AI, Computer Vision, and Medical AI.
 
-I have also been invited to serve as a peer reviewer for 15 journals and 7 international conferences, completing 100+ manuscript reviews to date.
+I have also been invited to serve as a peer reviewer for 18 journals and 8 international conferences, completing 120+ manuscript reviews to date.
 
 You can find my CV here: <a href="../assets/CV.pdf" target="_blank" style="background-color: #e0e7ff; color: #3730a3; padding: 3px 10px; border-radius: 4px; font-size: 0.95em; font-weight: 500; text-decoration: none;">📄 Jyun-Ping Kao's Curriculum Vitae</a>
 
@@ -393,7 +393,7 @@ If you are interested in my work, please feel free to drop me an email: <a href=
         <div style="font-size: 0.9em; color: #64748b;">Journal reviewer roles</div>
       </div>
       <div style="border-left: 1px solid #c7d2fe; padding-left: 12px;">
-        <div style="font-size: 1.45em; font-weight: 700; color: #1e293b; margin-bottom: 2px;">100+</div>
+        <div style="font-size: 1.45em; font-weight: 700; color: #1e293b; margin-bottom: 2px;">120+</div>
         <div style="font-size: 0.9em; color: #64748b;">Journal papers reviewed</div>
       </div>
     </div>
